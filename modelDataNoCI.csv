@@ -1,0 +1,972 @@
+gameID,awayTeam,awayPts,homeTeam,homePts,winner,homeMinusAwayActual,predictedSpread,predictionError,gameCategorization,wasModelCorrect
+201910220TOR,New Orleans Pelicans,122,Toronto Raptors,130,Toronto Raptors,8,8,0,Close Game,1
+201910220LAC,Los Angeles Lakers,102,Los Angeles Clippers,112,Los Angeles Clippers,10,1,9,Average Game,1
+201910230CHO,Chicago Bulls,125,Charlotte Hornets,126,Charlotte Hornets,1,2,1,Close Game,1
+201910230IND,Detroit Pistons,119,Indiana Pacers,110,Detroit Pistons,-9,10,19,Close Game,0
+201910230ORL,Cleveland Cavaliers,85,Orlando Magic,94,Orlando Magic,9,4,5,Close Game,1
+201910230BRK,Minnesota Timberwolves,127,Brooklyn Nets,126,Minnesota Timberwolves,-1,9,10,Close Game,0
+201910230MIA,Memphis Grizzlies,101,Miami Heat,120,Miami Heat,19,4,15,Average Game,1
+201910230PHI,Boston Celtics,93,Philadelphia 76ers,107,Philadelphia 76ers,14,-1,15,Average Game,0
+201910230DAL,Washington Wizards,100,Dallas Mavericks,108,Dallas Mavericks,8,6,2,Close Game,1
+201910230SAS,New York Knicks,111,San Antonio Spurs,120,San Antonio Spurs,9,6,3,Close Game,1
+201910230UTA,Oklahoma City Thunder,95,Utah Jazz,100,Utah Jazz,5,2,3,Close Game,1
+201910230PHO,Sacramento Kings,95,Phoenix Suns,124,Phoenix Suns,29,2,27,Blowout Game,1
+201910230POR,Denver Nuggets,108,Portland Trail Blazers,100,Denver Nuggets,-8,-0,8,Close Game,0
+201910240DET,Atlanta Hawks,117,Detroit Pistons,100,Atlanta Hawks,-17,5,22,Average Game,0
+201910240HOU,Milwaukee Bucks,117,Houston Rockets,111,Milwaukee Bucks,-6,-11,5,Close Game,1
+201910240GSW,Los Angeles Clippers,141,Golden State Warriors,122,Los Angeles Clippers,-19,-9,10,Average Game,1
+201910250BOS,Toronto Raptors,106,Boston Celtics,112,Boston Celtics,6,1,5,Close Game,1
+201910250CHO,Minnesota Timberwolves,121,Charlotte Hornets,99,Minnesota Timberwolves,-22,4,26,Average Game,0
+201910250BRK,New York Knicks,109,Brooklyn Nets,113,Brooklyn Nets,4,3,1,Close Game,1
+201910250MEM,Chicago Bulls,110,Memphis Grizzlies,102,Chicago Bulls,-8,10,18,Close Game,0
+201910250NOP,Dallas Mavericks,123,New Orleans Pelicans,116,Dallas Mavericks,-7,1,8,Close Game,0
+201910250OKC,Washington Wizards,97,Oklahoma City Thunder,85,Washington Wizards,-12,9,21,Average Game,0
+201910250DEN,Phoenix Suns,107,Denver Nuggets,108,Denver Nuggets,1,7,6,Close Game,1
+201910250SAC,Portland Trail Blazers,122,Sacramento Kings,112,Portland Trail Blazers,-10,0,10,Average Game,0
+201910250LAL,Utah Jazz,86,Los Angeles Lakers,95,Los Angeles Lakers,9,6,3,Close Game,1
+201910260MIL,Miami Heat,131,Milwaukee Bucks,126,Miami Heat,-5,7,12,Close Game,0
+201910260DET,Philadelphia 76ers,117,Detroit Pistons,111,Philadelphia 76ers,-6,-1,5,Close Game,1
+201910260ATL,Orlando Magic,99,Atlanta Hawks,103,Atlanta Hawks,4,-1,5,Close Game,0
+201910260NYK,Boston Celtics,118,New York Knicks,95,Boston Celtics,-23,-3,20,Average Game,1
+201910260CHI,Toronto Raptors,108,Chicago Bulls,84,Toronto Raptors,-24,-8,16,Blowout Game,1
+201910260CLE,Indiana Pacers,99,Cleveland Cavaliers,110,Cleveland Cavaliers,11,-8,19,Average Game,0
+201910260HOU,New Orleans Pelicans,123,Houston Rockets,126,Houston Rockets,3,0,3,Close Game,0
+201910260SAS,Washington Wizards,122,San Antonio Spurs,124,San Antonio Spurs,2,8,6,Close Game,1
+201910260UTA,Sacramento Kings,81,Utah Jazz,113,Utah Jazz,32,6,26,Blowout Game,1
+201910260PHO,Los Angeles Clippers,122,Phoenix Suns,130,Phoenix Suns,8,-5,13,Close Game,0
+201910270OKC,Golden State Warriors,92,Oklahoma City Thunder,120,Oklahoma City Thunder,28,11,17,Blowout Game,1
+201910270MEM,Brooklyn Nets,133,Memphis Grizzlies,134,Memphis Grizzlies,1,6,5,Close Game,1
+201910270DAL,Portland Trail Blazers,121,Dallas Mavericks,119,Portland Trail Blazers,-2,2,4,Close Game,0
+201910270MIN,Miami Heat,109,Minnesota Timberwolves,116,Minnesota Timberwolves,7,-11,18,Close Game,0
+201910270LAL,Charlotte Hornets,101,Los Angeles Lakers,120,Los Angeles Lakers,19,14,5,Average Game,1
+201910280NYK,Chicago Bulls,98,New York Knicks,105,New York Knicks,7,6,1,Close Game,1
+201910280DET,Indiana Pacers,94,Detroit Pistons,96,Detroit Pistons,2,-6,8,Close Game,0
+201910280TOR,Orlando Magic,95,Toronto Raptors,104,Toronto Raptors,9,10,1,Close Game,1
+201910280ATL,Philadelphia 76ers,105,Atlanta Hawks,103,Philadelphia 76ers,-2,-4,2,Close Game,1
+201910280HOU,Oklahoma City Thunder,112,Houston Rockets,116,Houston Rockets,4,-4,8,Close Game,0
+201910280MIL,Cleveland Cavaliers,112,Milwaukee Bucks,129,Milwaukee Bucks,17,17,0,Average Game,1
+201910280NOP,Golden State Warriors,134,New Orleans Pelicans,123,Golden State Warriors,-11,7,18,Average Game,0
+201910280SAS,Portland Trail Blazers,110,San Antonio Spurs,113,San Antonio Spurs,3,4,1,Close Game,1
+201910280PHO,Utah Jazz,96,Phoenix Suns,95,Utah Jazz,-1,-2,1,Close Game,1
+201910280SAC,Denver Nuggets,101,Sacramento Kings,94,Denver Nuggets,-7,-2,5,Close Game,1
+201910280LAC,Charlotte Hornets,96,Los Angeles Clippers,111,Los Angeles Clippers,15,13,2,Average Game,1
+201910290MIA,Atlanta Hawks,97,Miami Heat,112,Miami Heat,15,14,1,Average Game,1
+201910290DEN,Dallas Mavericks,109,Denver Nuggets,106,Dallas Mavericks,-3,5,8,Close Game,0
+201910290LAL,Memphis Grizzlies,91,Los Angeles Lakers,120,Los Angeles Lakers,29,6,23,Blowout Game,1
+201910300CLE,Chicago Bulls,111,Cleveland Cavaliers,117,Cleveland Cavaliers,6,3,3,Close Game,1
+201910300ORL,New York Knicks,83,Orlando Magic,95,Orlando Magic,12,1,11,Average Game,1
+201910300PHI,Minnesota Timberwolves,95,Philadelphia 76ers,117,Philadelphia 76ers,22,10,12,Average Game,1
+201910300BOS,Milwaukee Bucks,105,Boston Celtics,116,Boston Celtics,11,-4,15,Average Game,0
+201910300BRK,Indiana Pacers,118,Brooklyn Nets,108,Indiana Pacers,-10,-4,6,Average Game,1
+201910300TOR,Detroit Pistons,113,Toronto Raptors,125,Toronto Raptors,12,10,2,Average Game,1
+201910300OKC,Portland Trail Blazers,102,Oklahoma City Thunder,99,Portland Trail Blazers,-3,5,8,Close Game,0
+201910300WAS,Houston Rockets,159,Washington Wizards,158,Houston Rockets,-1,2,3,Close Game,0
+201910300SAC,Charlotte Hornets,118,Sacramento Kings,111,Charlotte Hornets,-7,7,14,Close Game,0
+201910300UTA,Los Angeles Clippers,96,Utah Jazz,110,Utah Jazz,14,-0,14,Average Game,0
+201910300GSW,Phoenix Suns,121,Golden State Warriors,110,Phoenix Suns,-11,-2,9,Average Game,1
+201910310ATL,Miami Heat,106,Atlanta Hawks,97,Miami Heat,-9,-9,0,Close Game,1
+201910310NOP,Denver Nuggets,107,New Orleans Pelicans,122,New Orleans Pelicans,15,-2,17,Average Game,0
+201910310LAC,San Antonio Spurs,97,Los Angeles Clippers,103,Los Angeles Clippers,6,5,1,Close Game,1
+201911010BRK,Houston Rockets,116,Brooklyn Nets,123,Brooklyn Nets,7,4,3,Close Game,1
+201911010IND,Cleveland Cavaliers,95,Indiana Pacers,102,Indiana Pacers,7,12,5,Close Game,1
+201911010ORL,Milwaukee Bucks,123,Orlando Magic,91,Milwaukee Bucks,-32,-11,21,Blowout Game,1
+201911010BOS,New York Knicks,102,Boston Celtics,104,Boston Celtics,2,7,5,Close Game,1
+201911010CHI,Detroit Pistons,106,Chicago Bulls,112,Chicago Bulls,6,0,6,Close Game,0
+201911010DAL,Los Angeles Lakers,119,Dallas Mavericks,110,Los Angeles Lakers,-9,-4,5,Close Game,1
+201911010SAC,Utah Jazz,101,Sacramento Kings,102,Sacramento Kings,1,-2,3,Close Game,0
+201911010GSW,San Antonio Spurs,127,Golden State Warriors,110,San Antonio Spurs,-17,-6,11,Average Game,1
+201911020OKC,New Orleans Pelicans,104,Oklahoma City Thunder,115,Oklahoma City Thunder,11,6,5,Average Game,1
+201911020DET,Brooklyn Nets,109,Detroit Pistons,113,Detroit Pistons,4,-0,4,Close Game,0
+201911020ORL,Denver Nuggets,91,Orlando Magic,87,Denver Nuggets,-4,-4,0,Close Game,1
+201911020MEM,Phoenix Suns,114,Memphis Grizzlies,105,Phoenix Suns,-9,7,16,Close Game,0
+201911020MIL,Toronto Raptors,105,Milwaukee Bucks,115,Milwaukee Bucks,10,7,3,Average Game,1
+201911020WAS,Minnesota Timberwolves,131,Washington Wizards,109,Minnesota Timberwolves,-22,7,29,Average Game,0
+201911020GSW,Charlotte Hornets,93,Golden State Warriors,87,Charlotte Hornets,-6,2,8,Close Game,0
+201911020POR,Philadelphia 76ers,129,Portland Trail Blazers,128,Philadelphia 76ers,-1,3,4,Close Game,0
+201911030IND,Chicago Bulls,95,Indiana Pacers,108,Indiana Pacers,13,12,1,Average Game,1
+201911030MIA,Houston Rockets,100,Miami Heat,129,Miami Heat,29,10,19,Blowout Game,1
+201911030NYK,Sacramento Kings,113,New York Knicks,92,Sacramento Kings,-21,2,23,Average Game,0
+201911030SAS,Los Angeles Lakers,103,San Antonio Spurs,96,Los Angeles Lakers,-7,-2,5,Close Game,1
+201911030CLE,Dallas Mavericks,131,Cleveland Cavaliers,111,Dallas Mavericks,-20,-3,17,Average Game,1
+201911030LAC,Utah Jazz,94,Los Angeles Clippers,105,Los Angeles Clippers,11,5,6,Average Game,1
+201911040WAS,Detroit Pistons,99,Washington Wizards,115,Washington Wizards,16,2,14,Average Game,1
+201911040BRK,New Orleans Pelicans,125,Brooklyn Nets,135,Brooklyn Nets,10,2,8,Average Game,1
+201911040MEM,Houston Rockets,107,Memphis Grizzlies,100,Houston Rockets,-7,9,16,Close Game,0
+201911040MIN,Milwaukee Bucks,134,Minnesota Timberwolves,106,Milwaukee Bucks,-28,-16,12,Blowout Game,1
+201911040PHO,Philadelphia 76ers,109,Phoenix Suns,114,Phoenix Suns,5,1,4,Close Game,1
+201911040GSW,Portland Trail Blazers,118,Golden State Warriors,127,Golden State Warriors,9,-4,13,Close Game,0
+201911050CHO,Indiana Pacers,120,Charlotte Hornets,122,Charlotte Hornets,2,-8,10,Close Game,0
+201911050CLE,Boston Celtics,119,Cleveland Cavaliers,113,Boston Celtics,-6,-6,0,Close Game,1
+201911050ATL,San Antonio Spurs,100,Atlanta Hawks,108,Atlanta Hawks,8,-6,14,Close Game,0
+201911050CHI,Los Angeles Lakers,118,Chicago Bulls,112,Los Angeles Lakers,-6,-10,4,Close Game,1
+201911050OKC,Orlando Magic,94,Oklahoma City Thunder,102,Oklahoma City Thunder,8,8,0,Close Game,1
+201911050DEN,Miami Heat,89,Denver Nuggets,109,Denver Nuggets,20,1,19,Average Game,1
+201911060DET,New York Knicks,102,Detroit Pistons,122,Detroit Pistons,20,1,19,Average Game,1
+201911060IND,Washington Wizards,106,Indiana Pacers,121,Indiana Pacers,15,11,4,Average Game,1
+201911060ATL,Chicago Bulls,113,Atlanta Hawks,93,Chicago Bulls,-20,1,21,Average Game,0
+201911060HOU,Golden State Warriors,112,Houston Rockets,129,Houston Rockets,17,5,12,Average Game,1
+201911060TOR,Sacramento Kings,120,Toronto Raptors,124,Toronto Raptors,4,8,4,Close Game,1
+201911060MEM,Minnesota Timberwolves,121,Memphis Grizzlies,137,Memphis Grizzlies,16,13,3,Average Game,1
+201911060DAL,Orlando Magic,106,Dallas Mavericks,107,Dallas Mavericks,1,5,4,Close Game,1
+201911060UTA,Philadelphia 76ers,104,Utah Jazz,106,Utah Jazz,2,5,3,Close Game,1
+201911060LAC,Milwaukee Bucks,129,Los Angeles Clippers,124,Milwaukee Bucks,-5,-2,3,Close Game,1
+201911070CHO,Boston Celtics,108,Charlotte Hornets,87,Boston Celtics,-21,-7,14,Average Game,1
+201911070SAS,Oklahoma City Thunder,112,San Antonio Spurs,121,San Antonio Spurs,9,1,8,Close Game,1
+201911070PHO,Miami Heat,124,Phoenix Suns,108,Miami Heat,-16,-4,12,Average Game,1
+201911070LAC,Portland Trail Blazers,101,Los Angeles Clippers,107,Los Angeles Clippers,6,7,1,Close Game,1
+201911080IND,Detroit Pistons,106,Indiana Pacers,112,Indiana Pacers,6,10,4,Close Game,1
+201911080ORL,Memphis Grizzlies,86,Orlando Magic,118,Orlando Magic,32,-4,36,Blowout Game,0
+201911080WAS,Cleveland Cavaliers,113,Washington Wizards,100,Cleveland Cavaliers,-13,3,16,Average Game,0
+201911080ATL,Sacramento Kings,121,Atlanta Hawks,109,Sacramento Kings,-12,-3,9,Average Game,1
+201911080MIN,Golden State Warriors,119,Minnesota Timberwolves,125,Minnesota Timberwolves,6,0,6,Close Game,0
+201911080NOP,Toronto Raptors,122,New Orleans Pelicans,104,Toronto Raptors,-18,-4,14,Average Game,1
+201911080DAL,New York Knicks,106,Dallas Mavericks,102,New York Knicks,-4,4,8,Close Game,0
+201911080DEN,Philadelphia 76ers,97,Denver Nuggets,100,Denver Nuggets,3,5,2,Close Game,1
+201911080UTA,Milwaukee Bucks,100,Utah Jazz,103,Utah Jazz,3,-5,8,Close Game,0
+201911080POR,Brooklyn Nets,119,Portland Trail Blazers,115,Brooklyn Nets,-4,4,8,Close Game,0
+201911080LAL,Miami Heat,80,Los Angeles Lakers,95,Los Angeles Lakers,15,4,11,Average Game,1
+201911090SAS,Boston Celtics,135,San Antonio Spurs,115,Boston Celtics,-20,0,20,Average Game,0
+201911090CHO,New Orleans Pelicans,115,Charlotte Hornets,110,New Orleans Pelicans,-5,-3,2,Close Game,1
+201911090CHI,Houston Rockets,117,Chicago Bulls,94,Houston Rockets,-23,-0,23,Average Game,0
+201911090MEM,Dallas Mavericks,138,Memphis Grizzlies,122,Dallas Mavericks,-16,5,21,Average Game,0
+201911090OKC,Golden State Warriors,108,Oklahoma City Thunder,114,Oklahoma City Thunder,6,11,5,Close Game,1
+201911100MIN,Denver Nuggets,100,Minnesota Timberwolves,98,Denver Nuggets,-2,-9,7,Close Game,1
+201911100ORL,Indiana Pacers,109,Orlando Magic,102,Indiana Pacers,-7,-6,1,Close Game,1
+201911100PHI,Charlotte Hornets,106,Philadelphia 76ers,114,Philadelphia 76ers,8,8,0,Close Game,1
+201911100OKC,Milwaukee Bucks,121,Oklahoma City Thunder,119,Milwaukee Bucks,-2,-4,2,Close Game,1
+201911100NYK,Cleveland Cavaliers,108,New York Knicks,87,Cleveland Cavaliers,-21,5,26,Average Game,0
+201911100PHO,Brooklyn Nets,112,Phoenix Suns,138,Phoenix Suns,26,2,24,Blowout Game,1
+201911100POR,Atlanta Hawks,113,Portland Trail Blazers,124,Portland Trail Blazers,11,9,2,Average Game,1
+201911100LAL,Toronto Raptors,113,Los Angeles Lakers,104,Toronto Raptors,-9,4,13,Close Game,0
+201911110DET,Minnesota Timberwolves,120,Detroit Pistons,114,Minnesota Timberwolves,-6,7,13,Close Game,0
+201911110BOS,Dallas Mavericks,106,Boston Celtics,116,Boston Celtics,10,6,4,Average Game,1
+201911110SAS,Memphis Grizzlies,113,San Antonio Spurs,109,Memphis Grizzlies,-4,1,5,Close Game,0
+201911110NOP,Houston Rockets,122,New Orleans Pelicans,116,Houston Rockets,-6,4,10,Close Game,0
+201911110GSW,Utah Jazz,122,Golden State Warriors,108,Utah Jazz,-14,-6,8,Average Game,1
+201911110LAC,Toronto Raptors,88,Los Angeles Clippers,98,Los Angeles Clippers,10,2,8,Average Game,1
+201911120IND,Oklahoma City Thunder,85,Indiana Pacers,111,Indiana Pacers,26,4,22,Blowout Game,1
+201911120PHI,Cleveland Cavaliers,97,Philadelphia 76ers,98,Philadelphia 76ers,1,7,6,Close Game,1
+201911120MIA,Detroit Pistons,108,Miami Heat,117,Miami Heat,9,10,1,Close Game,1
+201911120CHI,New York Knicks,102,Chicago Bulls,120,Chicago Bulls,18,-1,19,Average Game,0
+201911120DEN,Atlanta Hawks,125,Denver Nuggets,121,Atlanta Hawks,-4,12,16,Close Game,0
+201911120PHO,Los Angeles Lakers,123,Phoenix Suns,115,Los Angeles Lakers,-8,-6,2,Close Game,1
+201911120UTA,Brooklyn Nets,114,Utah Jazz,119,Utah Jazz,5,6,1,Close Game,1
+201911120SAC,Portland Trail Blazers,99,Sacramento Kings,107,Sacramento Kings,8,0,8,Close Game,0
+201911130CHO,Memphis Grizzlies,119,Charlotte Hornets,117,Memphis Grizzlies,-2,-6,4,Close Game,1
+201911130ORL,Philadelphia 76ers,97,Orlando Magic,112,Orlando Magic,15,-1,16,Average Game,0
+201911130BOS,Washington Wizards,133,Boston Celtics,140,Boston Celtics,7,10,3,Close Game,1
+201911130HOU,Los Angeles Clippers,93,Houston Rockets,102,Houston Rockets,9,-6,15,Close Game,0
+201911130MIN,San Antonio Spurs,114,Minnesota Timberwolves,129,Minnesota Timberwolves,15,-8,23,Average Game,0
+201911130LAL,Golden State Warriors,94,Los Angeles Lakers,120,Los Angeles Lakers,26,15,11,Blowout Game,1
+201911130POR,Toronto Raptors,114,Portland Trail Blazers,106,Toronto Raptors,-8,-2,6,Close Game,1
+201911140CLE,Miami Heat,108,Cleveland Cavaliers,97,Miami Heat,-11,-7,4,Average Game,1
+201911140MIL,Chicago Bulls,115,Milwaukee Bucks,124,Milwaukee Bucks,9,17,8,Close Game,1
+201911140NOP,Los Angeles Clippers,127,New Orleans Pelicans,132,New Orleans Pelicans,5,-4,9,Close Game,0
+201911140NYK,Dallas Mavericks,103,New York Knicks,106,New York Knicks,3,0,3,Close Game,0
+201911140PHO,Atlanta Hawks,112,Phoenix Suns,128,Phoenix Suns,16,7,9,Average Game,1
+201911140DEN,Brooklyn Nets,93,Denver Nuggets,101,Denver Nuggets,8,6,2,Close Game,1
+201911150CHO,Detroit Pistons,106,Charlotte Hornets,109,Charlotte Hornets,3,-0,3,Close Game,0
+201911150ORL,San Antonio Spurs,109,Orlando Magic,111,Orlando Magic,2,-3,5,Close Game,0
+201911150HOU,Indiana Pacers,102,Houston Rockets,111,Houston Rockets,9,-6,15,Close Game,0
+201911150MEM,Utah Jazz,106,Memphis Grizzlies,107,Memphis Grizzlies,1,2,1,Close Game,1
+201911150MIN,Washington Wizards,137,Minnesota Timberwolves,116,Washington Wizards,-21,-2,19,Average Game,1
+201911150OKC,Philadelphia 76ers,119,Oklahoma City Thunder,127,Oklahoma City Thunder,8,5,3,Close Game,1
+201911150GSW,Boston Celtics,105,Golden State Warriors,100,Boston Celtics,-5,-7,2,Close Game,1
+201911150LAL,Sacramento Kings,97,Los Angeles Lakers,99,Los Angeles Lakers,2,10,8,Close Game,1
+201911160CHI,Brooklyn Nets,117,Chicago Bulls,111,Brooklyn Nets,-6,-2,4,Close Game,1
+201911160IND,Milwaukee Bucks,102,Indiana Pacers,83,Milwaukee Bucks,-19,-2,17,Average Game,1
+201911160NYK,Charlotte Hornets,103,New York Knicks,102,Charlotte Hornets,-1,6,7,Close Game,0
+201911160MIA,New Orleans Pelicans,94,Miami Heat,109,Miami Heat,15,8,7,Average Game,1
+201911160MIN,Houston Rockets,125,Minnesota Timberwolves,105,Houston Rockets,-20,-3,17,Average Game,1
+201911160DAL,Toronto Raptors,102,Dallas Mavericks,110,Dallas Mavericks,8,-3,11,Close Game,0
+201911160SAS,Portland Trail Blazers,121,San Antonio Spurs,116,Portland Trail Blazers,-5,4,9,Close Game,0
+201911160LAC,Atlanta Hawks,101,Los Angeles Clippers,150,Los Angeles Clippers,49,14,35,Blowout Game,1
+201911170CLE,Philadelphia 76ers,114,Cleveland Cavaliers,95,Philadelphia 76ers,-19,-3,16,Average Game,1
+201911170SAC,Boston Celtics,99,Sacramento Kings,100,Sacramento Kings,1,-3,4,Close Game,0
+201911170MEM,Denver Nuggets,131,Memphis Grizzlies,114,Denver Nuggets,-17,2,19,Average Game,0
+201911170ORL,Washington Wizards,121,Orlando Magic,125,Orlando Magic,4,2,2,Close Game,1
+201911170NOP,Golden State Warriors,100,New Orleans Pelicans,108,New Orleans Pelicans,8,7,1,Close Game,1
+201911170LAL,Atlanta Hawks,101,Los Angeles Lakers,122,Los Angeles Lakers,21,16,5,Average Game,1
+201911180NYK,Cleveland Cavaliers,105,New York Knicks,123,New York Knicks,18,5,13,Average Game,1
+201911180BRK,Indiana Pacers,115,Brooklyn Nets,86,Indiana Pacers,-29,-4,25,Blowout Game,1
+201911180TOR,Charlotte Hornets,96,Toronto Raptors,132,Toronto Raptors,36,13,23,Blowout Game,1
+201911180CHI,Milwaukee Bucks,115,Chicago Bulls,101,Milwaukee Bucks,-14,-13,1,Average Game,1
+201911180HOU,Portland Trail Blazers,108,Houston Rockets,132,Houston Rockets,24,-2,26,Blowout Game,0
+201911180DAL,San Antonio Spurs,110,Dallas Mavericks,117,Dallas Mavericks,7,0,7,Close Game,0
+201911180PHO,Boston Celtics,99,Phoenix Suns,85,Boston Celtics,-14,-3,11,Average Game,1
+201911180UTA,Minnesota Timberwolves,112,Utah Jazz,102,Minnesota Timberwolves,-10,13,23,Average Game,0
+201911180LAC,Oklahoma City Thunder,88,Los Angeles Clippers,90,Los Angeles Clippers,2,4,2,Close Game,1
+201911190MEM,Golden State Warriors,114,Memphis Grizzlies,95,Golden State Warriors,-19,11,30,Average Game,0
+201911190NOP,Portland Trail Blazers,104,New Orleans Pelicans,115,New Orleans Pelicans,11,0,11,Average Game,0
+201911190SAC,Phoenix Suns,116,Sacramento Kings,120,Sacramento Kings,4,3,1,Close Game,1
+201911190LAL,Oklahoma City Thunder,107,Los Angeles Lakers,112,Los Angeles Lakers,5,6,1,Close Game,1
+201911200PHI,New York Knicks,104,Philadelphia 76ers,109,Philadelphia 76ers,5,4,1,Close Game,1
+201911200WAS,San Antonio Spurs,132,Washington Wizards,138,Washington Wizards,6,-4,10,Close Game,0
+201911200ATL,Milwaukee Bucks,135,Atlanta Hawks,127,Milwaukee Bucks,-8,-15,7,Close Game,1
+201911200BRK,Charlotte Hornets,91,Brooklyn Nets,101,Brooklyn Nets,10,7,3,Average Game,1
+201911200DAL,Golden State Warriors,94,Dallas Mavericks,142,Dallas Mavericks,48,8,40,Blowout Game,1
+201911200MIA,Cleveland Cavaliers,100,Miami Heat,124,Miami Heat,24,12,12,Blowout Game,1
+201911200TOR,Orlando Magic,97,Toronto Raptors,113,Toronto Raptors,16,10,6,Average Game,1
+201911200CHI,Detroit Pistons,89,Chicago Bulls,109,Chicago Bulls,20,0,20,Average Game,0
+201911200MIN,Utah Jazz,103,Minnesota Timberwolves,95,Utah Jazz,-8,-9,1,Close Game,1
+201911200DEN,Houston Rockets,95,Denver Nuggets,105,Denver Nuggets,10,9,1,Average Game,1
+201911200LAC,Boston Celtics,104,Los Angeles Clippers,107,Los Angeles Clippers,3,4,1,Close Game,1
+201911210MIL,Portland Trail Blazers,129,Milwaukee Bucks,137,Milwaukee Bucks,8,11,3,Close Game,1
+201911210PHO,New Orleans Pelicans,124,Phoenix Suns,121,New Orleans Pelicans,-3,2,5,Close Game,0
+201911220DET,Atlanta Hawks,103,Detroit Pistons,128,Detroit Pistons,25,5,20,Blowout Game,1
+201911220WAS,Charlotte Hornets,118,Washington Wizards,125,Washington Wizards,7,4,3,Close Game,1
+201911220BRK,Sacramento Kings,97,Brooklyn Nets,116,Brooklyn Nets,19,2,17,Average Game,1
+201911220CHI,Miami Heat,116,Chicago Bulls,108,Miami Heat,-8,-8,0,Close Game,1
+201911220OKC,Los Angeles Lakers,130,Oklahoma City Thunder,127,Los Angeles Lakers,-3,-1,2,Close Game,1
+201911220PHI,San Antonio Spurs,104,Philadelphia 76ers,115,Philadelphia 76ers,11,0,11,Average Game,0
+201911220DAL,Cleveland Cavaliers,101,Dallas Mavericks,143,Dallas Mavericks,42,7,35,Blowout Game,1
+201911220DEN,Boston Celtics,92,Denver Nuggets,96,Denver Nuggets,4,2,2,Close Game,1
+201911220UTA,Golden State Warriors,109,Utah Jazz,113,Utah Jazz,4,10,6,Close Game,1
+201911220LAC,Houston Rockets,119,Los Angeles Clippers,122,Los Angeles Clippers,3,11,8,Close Game,1
+201911230MIN,Phoenix Suns,100,Minnesota Timberwolves,98,Phoenix Suns,-2,-4,2,Close Game,1
+201911230CHO,Chicago Bulls,116,Charlotte Hornets,115,Chicago Bulls,-1,2,3,Close Game,0
+201911230IND,Orlando Magic,106,Indiana Pacers,111,Indiana Pacers,5,10,5,Close Game,1
+201911230ATL,Toronto Raptors,119,Atlanta Hawks,116,Toronto Raptors,-3,-9,6,Close Game,1
+201911230NYK,San Antonio Spurs,111,New York Knicks,104,San Antonio Spurs,-7,-1,6,Close Game,1
+201911230PHI,Miami Heat,86,Philadelphia 76ers,113,Philadelphia 76ers,27,-2,29,Blowout Game,0
+201911230CLE,Portland Trail Blazers,104,Cleveland Cavaliers,110,Cleveland Cavaliers,6,-3,9,Close Game,0
+201911230MEM,Los Angeles Lakers,109,Memphis Grizzlies,108,Los Angeles Lakers,-1,-2,1,Close Game,1
+201911230MIL,Detroit Pistons,90,Milwaukee Bucks,104,Milwaukee Bucks,14,15,1,Average Game,1
+201911230UTA,New Orleans Pelicans,120,Utah Jazz,128,Utah Jazz,8,6,2,Close Game,1
+201911240HOU,Dallas Mavericks,137,Houston Rockets,123,Dallas Mavericks,-14,-1,13,Average Game,1
+201911240NYK,Brooklyn Nets,103,New York Knicks,101,Brooklyn Nets,-2,2,4,Close Game,0
+201911240WAS,Sacramento Kings,113,Washington Wizards,106,Sacramento Kings,-7,-0,7,Close Game,0
+201911240DEN,Phoenix Suns,104,Denver Nuggets,116,Denver Nuggets,12,7,5,Average Game,1
+201911240LAC,New Orleans Pelicans,109,Los Angeles Clippers,134,Los Angeles Clippers,25,9,16,Blowout Game,1
+201911250CLE,Brooklyn Nets,108,Cleveland Cavaliers,106,Brooklyn Nets,-2,-2,0,Close Game,1
+201911250DET,Orlando Magic,88,Detroit Pistons,103,Detroit Pistons,15,2,13,Average Game,1
+201911250IND,Memphis Grizzlies,114,Indiana Pacers,126,Indiana Pacers,12,5,7,Average Game,1
+201911250ATL,Minnesota Timberwolves,125,Atlanta Hawks,113,Minnesota Timberwolves,-12,4,16,Average Game,0
+201911250BOS,Sacramento Kings,102,Boston Celtics,103,Boston Celtics,1,7,6,Close Game,1
+201911250MIA,Charlotte Hornets,100,Miami Heat,117,Miami Heat,17,12,5,Average Game,1
+201911250TOR,Philadelphia 76ers,96,Toronto Raptors,101,Toronto Raptors,5,7,2,Close Game,1
+201911250CHI,Portland Trail Blazers,117,Chicago Bulls,94,Portland Trail Blazers,-23,-4,19,Average Game,1
+201911250MIL,Utah Jazz,118,Milwaukee Bucks,122,Milwaukee Bucks,4,9,5,Close Game,1
+201911250SAS,Los Angeles Lakers,114,San Antonio Spurs,104,Los Angeles Lakers,-10,-2,8,Average Game,1
+201911250GSW,Oklahoma City Thunder,100,Golden State Warriors,97,Oklahoma City Thunder,-3,-6,3,Close Game,1
+201911260DAL,Los Angeles Clippers,114,Dallas Mavericks,99,Los Angeles Clippers,-15,-3,12,Average Game,1
+201911260DEN,Washington Wizards,104,Denver Nuggets,117,Denver Nuggets,13,9,4,Average Game,1
+201911270BOS,Brooklyn Nets,110,Boston Celtics,121,Boston Celtics,11,7,4,Average Game,1
+201911270CHO,Detroit Pistons,101,Charlotte Hornets,102,Charlotte Hornets,1,-0,1,Close Game,0
+201911270CLE,Orlando Magic,116,Cleveland Cavaliers,104,Orlando Magic,-12,1,13,Average Game,0
+201911270IND,Utah Jazz,102,Indiana Pacers,121,Indiana Pacers,19,5,14,Average Game,1
+201911270PHI,Sacramento Kings,91,Philadelphia 76ers,97,Philadelphia 76ers,6,3,3,Close Game,1
+201911270TOR,New York Knicks,98,Toronto Raptors,126,Toronto Raptors,28,9,19,Blowout Game,1
+201911270HOU,Miami Heat,108,Houston Rockets,117,Houston Rockets,9,-6,15,Close Game,0
+201911270MEM,Los Angeles Clippers,121,Memphis Grizzlies,119,Los Angeles Clippers,-2,-0,2,Close Game,0
+201911270MIL,Atlanta Hawks,102,Milwaukee Bucks,111,Milwaukee Bucks,9,19,10,Close Game,1
+201911270SAS,Minnesota Timberwolves,113,San Antonio Spurs,101,Minnesota Timberwolves,-12,12,24,Average Game,0
+201911270PHO,Washington Wizards,140,Phoenix Suns,132,Washington Wizards,-8,4,12,Close Game,0
+201911270NOP,Los Angeles Lakers,114,New Orleans Pelicans,110,Los Angeles Lakers,-4,-6,2,Close Game,1
+201911270POR,Oklahoma City Thunder,119,Portland Trail Blazers,136,Portland Trail Blazers,17,-0,17,Average Game,0
+201911270GSW,Chicago Bulls,90,Golden State Warriors,104,Golden State Warriors,14,2,12,Average Game,1
+201911290BRK,Boston Celtics,107,Brooklyn Nets,112,Brooklyn Nets,5,-3,8,Close Game,0
+201911290DET,Charlotte Hornets,110,Detroit Pistons,107,Charlotte Hornets,-3,5,8,Close Game,0
+201911290ORL,Toronto Raptors,90,Orlando Magic,83,Toronto Raptors,-7,-6,1,Close Game,1
+201911290CLE,Milwaukee Bucks,119,Cleveland Cavaliers,110,Milwaukee Bucks,-9,-13,4,Close Game,1
+201911290NYK,Philadelphia 76ers,101,New York Knicks,95,Philadelphia 76ers,-6,0,6,Close Game,0
+201911290IND,Atlanta Hawks,104,Indiana Pacers,105,Indiana Pacers,1,14,13,Close Game,1
+201911290MEM,Utah Jazz,103,Memphis Grizzlies,94,Utah Jazz,-9,2,11,Close Game,0
+201911290MIA,Golden State Warriors,105,Miami Heat,122,Miami Heat,17,13,4,Average Game,1
+201911290OKC,New Orleans Pelicans,104,Oklahoma City Thunder,109,Oklahoma City Thunder,5,6,1,Close Game,1
+201911290SAS,Los Angeles Clippers,97,San Antonio Spurs,107,San Antonio Spurs,10,-1,11,Average Game,0
+201911290PHO,Dallas Mavericks,120,Phoenix Suns,113,Dallas Mavericks,-7,1,8,Close Game,0
+201911290POR,Chicago Bulls,103,Portland Trail Blazers,107,Portland Trail Blazers,4,8,4,Close Game,1
+201911290LAL,Washington Wizards,103,Los Angeles Lakers,125,Los Angeles Lakers,22,13,9,Average Game,1
+201911300SAC,Denver Nuggets,97,Sacramento Kings,100,Sacramento Kings,3,-2,5,Close Game,0
+201911300PHI,Indiana Pacers,116,Philadelphia 76ers,119,Philadelphia 76ers,3,-3,6,Close Game,0
+201911300HOU,Atlanta Hawks,111,Houston Rockets,158,Houston Rockets,47,6,41,Blowout Game,1
+201911300MIL,Charlotte Hornets,96,Milwaukee Bucks,137,Milwaukee Bucks,41,17,24,Blowout Game,1
+201912010BRK,Miami Heat,109,Brooklyn Nets,106,Miami Heat,-3,-4,1,Close Game,1
+201912010MIN,Memphis Grizzlies,115,Minnesota Timberwolves,107,Memphis Grizzlies,-8,-9,1,Close Game,1
+201912010NYK,Boston Celtics,113,New York Knicks,104,Boston Celtics,-9,-3,6,Close Game,1
+201912010LAL,Dallas Mavericks,114,Los Angeles Lakers,100,Dallas Mavericks,-14,9,23,Average Game,0
+201912010DET,San Antonio Spurs,98,Detroit Pistons,132,Detroit Pistons,34,-3,37,Blowout Game,0
+201912010NOP,Oklahoma City Thunder,107,New Orleans Pelicans,104,Oklahoma City Thunder,-3,-2,1,Close Game,1
+201912010ORL,Golden State Warriors,96,Orlando Magic,100,Orlando Magic,4,5,1,Close Game,1
+201912010TOR,Utah Jazz,110,Toronto Raptors,130,Toronto Raptors,20,4,16,Average Game,1
+201912010LAC,Washington Wizards,125,Los Angeles Clippers,150,Los Angeles Clippers,25,11,14,Blowout Game,1
+201912020CHO,Phoenix Suns,109,Charlotte Hornets,104,Phoenix Suns,-5,-2,3,Close Game,1
+201912020PHI,Utah Jazz,94,Philadelphia 76ers,103,Philadelphia 76ers,9,-0,9,Close Game,0
+201912020ATL,Golden State Warriors,79,Atlanta Hawks,104,Atlanta Hawks,25,2,23,Blowout Game,1
+201912020MEM,Indiana Pacers,117,Memphis Grizzlies,104,Indiana Pacers,-13,-0,13,Average Game,0
+201912020MIL,New York Knicks,88,Milwaukee Bucks,132,Milwaukee Bucks,44,14,30,Blowout Game,1
+201912020SAC,Chicago Bulls,113,Sacramento Kings,106,Chicago Bulls,-7,6,13,Close Game,0
+201912030CLE,Detroit Pistons,127,Cleveland Cavaliers,94,Detroit Pistons,-33,1,34,Blowout Game,0
+201912030WAS,Orlando Magic,127,Washington Wizards,120,Orlando Magic,-7,2,9,Close Game,0
+201912030NOP,Dallas Mavericks,118,New Orleans Pelicans,97,Dallas Mavericks,-21,1,22,Average Game,0
+201912030TOR,Miami Heat,121,Toronto Raptors,110,Miami Heat,-11,2,13,Average Game,0
+201912030SAS,Houston Rockets,133,San Antonio Spurs,135,San Antonio Spurs,2,7,5,Close Game,1
+201912030DEN,Los Angeles Lakers,105,Denver Nuggets,96,Los Angeles Lakers,-9,-1,8,Close Game,1
+201912030LAC,Portland Trail Blazers,97,Los Angeles Clippers,117,Los Angeles Clippers,20,7,13,Average Game,1
+201912040CHO,Golden State Warriors,91,Charlotte Hornets,106,Charlotte Hornets,15,2,13,Average Game,1
+201912040DET,Milwaukee Bucks,127,Detroit Pistons,103,Milwaukee Bucks,-24,-11,13,Blowout Game,1
+201912040ORL,Phoenix Suns,114,Orlando Magic,128,Orlando Magic,14,0,14,Average Game,0
+201912040ATL,Brooklyn Nets,130,Atlanta Hawks,118,Brooklyn Nets,-12,-4,8,Average Game,1
+201912040BOS,Miami Heat,93,Boston Celtics,112,Boston Celtics,19,1,18,Average Game,1
+201912040CHI,Memphis Grizzlies,99,Chicago Bulls,106,Chicago Bulls,7,-6,13,Close Game,0
+201912040OKC,Indiana Pacers,107,Oklahoma City Thunder,100,Indiana Pacers,-7,-0,7,Close Game,0
+201912040DAL,Minnesota Timberwolves,114,Dallas Mavericks,121,Dallas Mavericks,7,10,3,Close Game,1
+201912040UTA,Los Angeles Lakers,121,Utah Jazz,96,Los Angeles Lakers,-25,-2,23,Blowout Game,1
+201912040POR,Sacramento Kings,116,Portland Trail Blazers,127,Portland Trail Blazers,11,4,7,Average Game,1
+201912050WAS,Philadelphia 76ers,113,Washington Wizards,119,Washington Wizards,6,-2,8,Close Game,0
+201912050NYK,Denver Nuggets,129,New York Knicks,92,Denver Nuggets,-37,-3,34,Blowout Game,1
+201912050TOR,Houston Rockets,119,Toronto Raptors,109,Houston Rockets,-10,10,20,Average Game,0
+201912050NOP,Phoenix Suns,139,New Orleans Pelicans,132,Phoenix Suns,-7,3,10,Close Game,0
+201912060CHO,Brooklyn Nets,111,Charlotte Hornets,104,Brooklyn Nets,-7,-3,4,Close Game,1
+201912060CLE,Orlando Magic,93,Cleveland Cavaliers,87,Orlando Magic,-6,1,7,Close Game,0
+201912060DET,Indiana Pacers,101,Detroit Pistons,108,Detroit Pistons,7,-6,13,Close Game,0
+201912060BOS,Denver Nuggets,95,Boston Celtics,108,Boston Celtics,13,3,10,Average Game,1
+201912060CHI,Golden State Warriors,100,Chicago Bulls,98,Golden State Warriors,-2,3,5,Close Game,0
+201912060MIA,Washington Wizards,103,Miami Heat,112,Miami Heat,9,11,2,Close Game,1
+201912060OKC,Minnesota Timberwolves,127,Oklahoma City Thunder,139,Oklahoma City Thunder,12,13,1,Average Game,1
+201912060MIL,Los Angeles Clippers,91,Milwaukee Bucks,119,Milwaukee Bucks,28,7,21,Blowout Game,1
+201912060SAS,Sacramento Kings,104,San Antonio Spurs,105,San Antonio Spurs,1,5,4,Close Game,1
+201912060POR,Los Angeles Lakers,136,Portland Trail Blazers,113,Los Angeles Lakers,-23,-4,19,Average Game,1
+201912070DAL,New Orleans Pelicans,84,Dallas Mavericks,130,Dallas Mavericks,46,3,43,Blowout Game,1
+201912070NYK,Indiana Pacers,104,New York Knicks,103,Indiana Pacers,-1,-4,3,Close Game,1
+201912070PHI,Cleveland Cavaliers,94,Philadelphia 76ers,141,Philadelphia 76ers,47,7,40,Blowout Game,1
+201912070HOU,Phoenix Suns,109,Houston Rockets,115,Houston Rockets,6,0,6,Close Game,0
+201912070UTA,Memphis Grizzlies,112,Utah Jazz,126,Utah Jazz,14,2,12,Average Game,1
+201912080BRK,Denver Nuggets,102,Brooklyn Nets,105,Brooklyn Nets,3,-2,5,Close Game,0
+201912080CHO,Atlanta Hawks,122,Charlotte Hornets,107,Atlanta Hawks,-15,3,18,Average Game,0
+201912080MIA,Chicago Bulls,105,Miami Heat,110,Miami Heat,5,12,7,Close Game,1
+201912080PHI,Toronto Raptors,104,Philadelphia 76ers,110,Philadelphia 76ers,6,-2,8,Close Game,0
+201912080WAS,Los Angeles Clippers,135,Washington Wizards,119,Los Angeles Clippers,-16,-7,9,Average Game,1
+201912080DAL,Sacramento Kings,110,Dallas Mavericks,106,Sacramento Kings,-4,3,7,Close Game,0
+201912080POR,Oklahoma City Thunder,108,Portland Trail Blazers,96,Oklahoma City Thunder,-12,-0,12,Average Game,0
+201912080LAL,Minnesota Timberwolves,125,Los Angeles Lakers,142,Los Angeles Lakers,17,17,0,Average Game,1
+201912090IND,Los Angeles Clippers,110,Indiana Pacers,99,Los Angeles Clippers,-11,2,13,Average Game,0
+201912090BOS,Cleveland Cavaliers,88,Boston Celtics,110,Boston Celtics,22,11,11,Average Game,1
+201912090CHI,Toronto Raptors,93,Chicago Bulls,92,Toronto Raptors,-1,-8,7,Close Game,1
+201912090HOU,Sacramento Kings,119,Houston Rockets,118,Sacramento Kings,-1,0,1,Close Game,0
+201912090MIL,Orlando Magic,101,Milwaukee Bucks,110,Milwaukee Bucks,9,15,6,Close Game,1
+201912090NOP,Detroit Pistons,105,New Orleans Pelicans,103,Detroit Pistons,-2,4,6,Close Game,0
+201912090PHO,Minnesota Timberwolves,109,Phoenix Suns,125,Phoenix Suns,16,9,7,Average Game,1
+201912090UTA,Oklahoma City Thunder,104,Utah Jazz,90,Oklahoma City Thunder,-14,2,16,Average Game,0
+201912090GSW,Memphis Grizzlies,110,Golden State Warriors,102,Memphis Grizzlies,-8,-7,1,Close Game,1
+201912100CHO,Washington Wizards,107,Charlotte Hornets,114,Charlotte Hornets,7,-0,7,Close Game,0
+201912100MIA,Atlanta Hawks,121,Miami Heat,135,Miami Heat,14,14,0,Average Game,1
+201912100PHI,Denver Nuggets,92,Philadelphia 76ers,97,Philadelphia 76ers,5,-1,6,Close Game,0
+201912100POR,New York Knicks,87,Portland Trail Blazers,115,Portland Trail Blazers,28,4,24,Blowout Game,1
+201912110CLE,Houston Rockets,116,Cleveland Cavaliers,110,Houston Rockets,-6,0,6,Close Game,0
+201912110IND,Boston Celtics,117,Indiana Pacers,122,Indiana Pacers,5,4,1,Close Game,1
+201912110ORL,Los Angeles Lakers,96,Orlando Magic,87,Los Angeles Lakers,-9,-8,1,Close Game,1
+201912110TOR,Los Angeles Clippers,112,Toronto Raptors,92,Los Angeles Clippers,-20,2,22,Average Game,0
+201912110BRK,Charlotte Hornets,113,Brooklyn Nets,108,Charlotte Hornets,-5,7,12,Close Game,0
+201912110CHI,Atlanta Hawks,102,Chicago Bulls,136,Chicago Bulls,34,3,31,Blowout Game,1
+201912110MIN,Utah Jazz,127,Minnesota Timberwolves,116,Utah Jazz,-11,-9,2,Average Game,1
+201912110PHO,Memphis Grizzlies,115,Phoenix Suns,108,Memphis Grizzlies,-7,-2,5,Close Game,1
+201912110MIL,New Orleans Pelicans,112,Milwaukee Bucks,127,Milwaukee Bucks,15,14,1,Average Game,1
+201912110SAC,Oklahoma City Thunder,93,Sacramento Kings,94,Sacramento Kings,1,-2,3,Close Game,0
+201912110GSW,New York Knicks,124,Golden State Warriors,122,New York Knicks,-2,-2,0,Close Game,1
+201912120BOS,Philadelphia 76ers,115,Boston Celtics,109,Philadelphia 76ers,-6,6,12,Close Game,0
+201912120SAS,Cleveland Cavaliers,117,San Antonio Spurs,109,Cleveland Cavaliers,-8,9,17,Close Game,0
+201912120DET,Dallas Mavericks,122,Detroit Pistons,111,Dallas Mavericks,-11,-1,10,Average Game,1
+201912120DEN,Portland Trail Blazers,99,Denver Nuggets,114,Denver Nuggets,15,5,10,Average Game,1
+201912130MIA,Los Angeles Lakers,113,Miami Heat,110,Los Angeles Lakers,-3,0,3,Close Game,0
+201912130ORL,Houston Rockets,130,Orlando Magic,107,Houston Rockets,-23,2,25,Average Game,0
+201912130PHI,New Orleans Pelicans,109,Philadelphia 76ers,116,Philadelphia 76ers,7,4,3,Close Game,1
+201912130ATL,Indiana Pacers,110,Atlanta Hawks,100,Indiana Pacers,-10,-10,0,Average Game,1
+201912130CHI,Charlotte Hornets,83,Chicago Bulls,73,Charlotte Hornets,-10,3,13,Average Game,0
+201912130MEM,Milwaukee Bucks,127,Memphis Grizzlies,114,Milwaukee Bucks,-13,-5,8,Average Game,1
+201912130UTA,Golden State Warriors,106,Utah Jazz,114,Utah Jazz,8,10,2,Close Game,1
+201912130MIN,Los Angeles Clippers,124,Minnesota Timberwolves,117,Los Angeles Clippers,-7,-11,4,Close Game,1
+201912130SAC,New York Knicks,103,Sacramento Kings,101,New York Knicks,-2,3,5,Close Game,0
+201912140PHO,San Antonio Spurs,121,Phoenix Suns,119,San Antonio Spurs,-2,-1,1,Close Game,1
+201912140TOR,Brooklyn Nets,102,Toronto Raptors,110,Toronto Raptors,8,8,0,Close Game,1
+201912140CHI,Los Angeles Clippers,106,Chicago Bulls,109,Chicago Bulls,3,-8,11,Close Game,0
+201912140MEM,Washington Wizards,111,Memphis Grizzlies,128,Memphis Grizzlies,17,9,8,Average Game,1
+201912140DAL,Miami Heat,122,Dallas Mavericks,118,Miami Heat,-4,-2,2,Close Game,1
+201912140MIL,Cleveland Cavaliers,108,Milwaukee Bucks,125,Milwaukee Bucks,17,17,0,Average Game,1
+201912140DEN,Oklahoma City Thunder,102,Denver Nuggets,110,Denver Nuggets,8,2,6,Close Game,1
+201912140HOU,Detroit Pistons,115,Houston Rockets,107,Detroit Pistons,-8,2,10,Close Game,0
+201912150NOP,Orlando Magic,130,New Orleans Pelicans,119,Orlando Magic,-11,4,15,Average Game,0
+201912150IND,Charlotte Hornets,85,Indiana Pacers,107,Indiana Pacers,22,13,9,Average Game,1
+201912150ATL,Los Angeles Lakers,101,Atlanta Hawks,96,Los Angeles Lakers,-5,-11,6,Close Game,1
+201912150BRK,Philadelphia 76ers,89,Brooklyn Nets,109,Brooklyn Nets,20,1,19,Average Game,1
+201912150DEN,New York Knicks,105,Denver Nuggets,111,Denver Nuggets,6,7,1,Close Game,1
+201912150GSW,Sacramento Kings,100,Golden State Warriors,79,Sacramento Kings,-21,-2,19,Average Game,1
+201912160DET,Washington Wizards,133,Detroit Pistons,119,Washington Wizards,-14,2,16,Average Game,0
+201912160TOR,Cleveland Cavaliers,113,Toronto Raptors,133,Toronto Raptors,20,12,8,Average Game,1
+201912160HOU,San Antonio Spurs,107,Houston Rockets,109,Houston Rockets,2,-3,5,Close Game,0
+201912160MEM,Miami Heat,111,Memphis Grizzlies,118,Memphis Grizzlies,7,0,7,Close Game,0
+201912160MIL,Dallas Mavericks,120,Milwaukee Bucks,116,Dallas Mavericks,-4,12,16,Close Game,0
+201912160OKC,Chicago Bulls,106,Oklahoma City Thunder,109,Oklahoma City Thunder,3,10,7,Close Game,1
+201912160PHO,Portland Trail Blazers,111,Phoenix Suns,110,Portland Trail Blazers,-1,0,1,Close Game,0
+201912170CHO,Sacramento Kings,102,Charlotte Hornets,110,Charlotte Hornets,8,-2,10,Close Game,0
+201912170IND,Los Angeles Lakers,102,Indiana Pacers,105,Indiana Pacers,3,1,2,Close Game,1
+201912170NYK,Atlanta Hawks,120,New York Knicks,143,New York Knicks,23,7,16,Average Game,1
+201912170NOP,Brooklyn Nets,108,New Orleans Pelicans,101,Brooklyn Nets,-7,2,9,Close Game,0
+201912170UTA,Orlando Magic,102,Utah Jazz,109,Utah Jazz,7,8,1,Close Game,1
+201912170LAC,Phoenix Suns,99,Los Angeles Clippers,120,Los Angeles Clippers,21,9,12,Average Game,1
+201912180CLE,Charlotte Hornets,98,Cleveland Cavaliers,100,Cleveland Cavaliers,2,3,1,Close Game,1
+201912180DET,Toronto Raptors,112,Detroit Pistons,99,Toronto Raptors,-13,-6,7,Average Game,1
+201912180PHI,Miami Heat,108,Philadelphia 76ers,104,Miami Heat,-4,-2,2,Close Game,1
+201912180WAS,Chicago Bulls,110,Washington Wizards,109,Chicago Bulls,-1,4,5,Close Game,0
+201912180MIN,New Orleans Pelicans,107,Minnesota Timberwolves,99,New Orleans Pelicans,-8,-5,3,Close Game,1
+201912180OKC,Memphis Grizzlies,122,Oklahoma City Thunder,126,Oklahoma City Thunder,4,2,2,Close Game,1
+201912180DEN,Orlando Magic,104,Denver Nuggets,113,Denver Nuggets,9,8,1,Close Game,1
+201912180DAL,Boston Celtics,109,Dallas Mavericks,103,Boston Celtics,-6,-1,5,Close Game,1
+201912180POR,Golden State Warriors,112,Portland Trail Blazers,122,Portland Trail Blazers,10,9,1,Average Game,1
+201912190ATL,Utah Jazz,111,Atlanta Hawks,106,Utah Jazz,-5,-7,2,Close Game,1
+201912190MIL,Los Angeles Lakers,104,Milwaukee Bucks,111,Milwaukee Bucks,7,5,2,Close Game,1
+201912190SAS,Brooklyn Nets,105,San Antonio Spurs,118,San Antonio Spurs,13,5,8,Average Game,1
+201912190LAC,Houston Rockets,122,Los Angeles Clippers,117,Houston Rockets,-5,11,16,Close Game,0
+201912200CLE,Memphis Grizzlies,107,Cleveland Cavaliers,114,Cleveland Cavaliers,7,-6,13,Close Game,0
+201912200IND,Sacramento Kings,105,Indiana Pacers,119,Indiana Pacers,14,8,6,Average Game,1
+201912200BOS,Detroit Pistons,93,Boston Celtics,114,Boston Celtics,21,9,12,Average Game,1
+201912200TOR,Washington Wizards,118,Toronto Raptors,122,Toronto Raptors,4,11,7,Close Game,1
+201912200MIA,New York Knicks,114,Miami Heat,129,Miami Heat,15,9,6,Average Game,1
+201912200OKC,Phoenix Suns,108,Oklahoma City Thunder,126,Oklahoma City Thunder,18,7,11,Average Game,1
+201912200PHI,Dallas Mavericks,117,Philadelphia 76ers,98,Dallas Mavericks,-19,2,21,Average Game,0
+201912200DEN,Minnesota Timberwolves,100,Denver Nuggets,109,Denver Nuggets,9,13,4,Close Game,1
+201912200POR,Orlando Magic,103,Portland Trail Blazers,118,Portland Trail Blazers,15,6,9,Average Game,1
+201912200GSW,New Orleans Pelicans,102,Golden State Warriors,106,Golden State Warriors,4,-3,7,Close Game,0
+201912210CHO,Utah Jazz,114,Charlotte Hornets,107,Utah Jazz,-7,-6,1,Close Game,1
+201912210BRK,Atlanta Hawks,112,Brooklyn Nets,122,Brooklyn Nets,10,8,2,Average Game,1
+201912210DET,Chicago Bulls,119,Detroit Pistons,107,Chicago Bulls,-12,4,16,Average Game,0
+201912210PHI,Washington Wizards,108,Philadelphia 76ers,125,Philadelphia 76ers,17,6,11,Average Game,1
+201912210NYK,Milwaukee Bucks,123,New York Knicks,102,Milwaukee Bucks,-21,-9,12,Average Game,1
+201912210MEM,Sacramento Kings,115,Memphis Grizzlies,119,Memphis Grizzlies,4,6,2,Close Game,1
+201912210SAS,Los Angeles Clippers,134,San Antonio Spurs,109,Los Angeles Clippers,-25,-1,24,Blowout Game,1
+201912210PHO,Houston Rockets,139,Phoenix Suns,125,Houston Rockets,-14,4,18,Average Game,0
+201912210POR,Minnesota Timberwolves,106,Portland Trail Blazers,113,Portland Trail Blazers,7,11,4,Close Game,1
+201912220TOR,Dallas Mavericks,107,Toronto Raptors,110,Toronto Raptors,3,7,4,Close Game,1
+201912220BOS,Charlotte Hornets,93,Boston Celtics,119,Boston Celtics,26,11,15,Blowout Game,1
+201912220MIL,Indiana Pacers,89,Milwaukee Bucks,117,Milwaukee Bucks,28,6,22,Blowout Game,1
+201912220OKC,Los Angeles Clippers,112,Oklahoma City Thunder,118,Oklahoma City Thunder,6,0,6,Close Game,0
+201912220LAL,Denver Nuggets,128,Los Angeles Lakers,104,Denver Nuggets,-24,5,29,Blowout Game,0
+201912230CLE,Atlanta Hawks,118,Cleveland Cavaliers,121,Cleveland Cavaliers,3,4,1,Close Game,1
+201912230DET,Philadelphia 76ers,125,Detroit Pistons,109,Philadelphia 76ers,-16,-1,15,Average Game,1
+201912230IND,Toronto Raptors,115,Indiana Pacers,120,Indiana Pacers,5,3,2,Close Game,1
+201912230NYK,Washington Wizards,121,New York Knicks,115,Washington Wizards,-6,4,10,Close Game,0
+201912230ORL,Chicago Bulls,95,Orlando Magic,103,Orlando Magic,8,4,4,Close Game,1
+201912230MIA,Utah Jazz,104,Miami Heat,107,Miami Heat,3,4,1,Close Game,1
+201912230MEM,San Antonio Spurs,145,Memphis Grizzlies,115,San Antonio Spurs,-30,3,33,Blowout Game,0
+201912230PHO,Denver Nuggets,113,Phoenix Suns,111,Denver Nuggets,-2,-3,1,Close Game,1
+201912230POR,New Orleans Pelicans,102,Portland Trail Blazers,94,New Orleans Pelicans,-8,4,12,Close Game,0
+201912230SAC,Houston Rockets,113,Sacramento Kings,104,Houston Rockets,-9,4,13,Close Game,0
+201912230GSW,Minnesota Timberwolves,104,Golden State Warriors,113,Golden State Warriors,9,4,5,Close Game,1
+201912250TOR,Boston Celtics,118,Toronto Raptors,102,Boston Celtics,-16,3,19,Average Game,0
+201912250PHI,Milwaukee Bucks,109,Philadelphia 76ers,121,Philadelphia 76ers,12,-7,19,Average Game,0
+201912250GSW,Houston Rockets,104,Golden State Warriors,116,Golden State Warriors,12,-0,12,Average Game,0
+201912250LAL,Los Angeles Clippers,111,Los Angeles Lakers,106,Los Angeles Clippers,-5,4,9,Close Game,0
+201912250DEN,New Orleans Pelicans,112,Denver Nuggets,100,New Orleans Pelicans,-12,7,19,Average Game,0
+201912260DET,Washington Wizards,102,Detroit Pistons,132,Detroit Pistons,30,2,28,Blowout Game,1
+201912260BRK,New York Knicks,94,Brooklyn Nets,82,New York Knicks,-12,3,15,Average Game,0
+201912260DAL,San Antonio Spurs,98,Dallas Mavericks,102,Dallas Mavericks,4,0,4,Close Game,0
+201912260OKC,Memphis Grizzlies,110,Oklahoma City Thunder,97,Memphis Grizzlies,-13,2,15,Average Game,0
+201912260SAC,Minnesota Timberwolves,105,Sacramento Kings,104,Minnesota Timberwolves,-1,9,10,Close Game,0
+201912260UTA,Portland Trail Blazers,115,Utah Jazz,121,Utah Jazz,6,4,2,Close Game,1
+201912270BOS,Cleveland Cavaliers,117,Boston Celtics,129,Boston Celtics,12,11,1,Average Game,1
+201912270CHO,Oklahoma City Thunder,104,Charlotte Hornets,102,Oklahoma City Thunder,-2,-6,4,Close Game,1
+201912270ORL,Philadelphia 76ers,97,Orlando Magic,98,Orlando Magic,1,-1,2,Close Game,0
+201912270ATL,Milwaukee Bucks,112,Atlanta Hawks,86,Milwaukee Bucks,-26,-15,11,Blowout Game,1
+201912270MIA,Indiana Pacers,112,Miami Heat,113,Miami Heat,1,2,1,Close Game,1
+201912270GSW,Phoenix Suns,96,Golden State Warriors,105,Golden State Warriors,9,-2,11,Close Game,0
+201912280DEN,Memphis Grizzlies,110,Denver Nuggets,119,Denver Nuggets,9,3,6,Close Game,1
+201912280BOS,Toronto Raptors,113,Boston Celtics,97,Toronto Raptors,-16,1,17,Average Game,0
+201912280NOP,Indiana Pacers,98,New Orleans Pelicans,120,New Orleans Pelicans,22,-4,26,Average Game,0
+201912280CHI,Atlanta Hawks,81,Chicago Bulls,116,Chicago Bulls,35,3,32,Blowout Game,1
+201912280HOU,Brooklyn Nets,98,Houston Rockets,108,Houston Rockets,10,-0,10,Average Game,0
+201912280MIA,Philadelphia 76ers,116,Miami Heat,117,Miami Heat,1,7,6,Close Game,1
+201912280MIN,Cleveland Cavaliers,94,Minnesota Timberwolves,88,Cleveland Cavaliers,-6,-1,5,Close Game,1
+201912280WAS,New York Knicks,107,Washington Wizards,100,New York Knicks,-7,0,7,Close Game,0
+201912280GSW,Dallas Mavericks,141,Golden State Warriors,121,Dallas Mavericks,-20,-4,16,Average Game,1
+201912280MIL,Orlando Magic,100,Milwaukee Bucks,111,Milwaukee Bucks,11,15,4,Average Game,1
+201912280SAS,Detroit Pistons,109,San Antonio Spurs,136,San Antonio Spurs,27,7,20,Blowout Game,1
+201912280SAC,Phoenix Suns,112,Sacramento Kings,110,Phoenix Suns,-2,3,5,Close Game,0
+201912280POR,Los Angeles Lakers,128,Portland Trail Blazers,120,Los Angeles Lakers,-8,-4,4,Close Game,1
+201912280LAC,Utah Jazz,120,Los Angeles Clippers,107,Utah Jazz,-13,5,18,Average Game,0
+201912290TOR,Oklahoma City Thunder,98,Toronto Raptors,97,Oklahoma City Thunder,-1,4,5,Close Game,0
+201912290DEN,Sacramento Kings,115,Denver Nuggets,120,Denver Nuggets,5,6,1,Close Game,1
+201912290MEM,Charlotte Hornets,104,Memphis Grizzlies,117,Memphis Grizzlies,13,11,2,Average Game,1
+201912290NOP,Houston Rockets,112,New Orleans Pelicans,127,New Orleans Pelicans,15,4,11,Average Game,1
+201912290LAL,Dallas Mavericks,95,Los Angeles Lakers,108,Los Angeles Lakers,13,9,4,Average Game,1
+201912300ORL,Atlanta Hawks,101,Orlando Magic,93,Atlanta Hawks,-8,5,13,Close Game,0
+201912300WAS,Miami Heat,105,Washington Wizards,123,Washington Wizards,18,-6,24,Average Game,0
+201912300CHI,Milwaukee Bucks,123,Chicago Bulls,102,Milwaukee Bucks,-21,-13,8,Average Game,1
+201912300MIN,Brooklyn Nets,115,Minnesota Timberwolves,122,Minnesota Timberwolves,7,-5,12,Close Game,0
+201912300UTA,Detroit Pistons,81,Utah Jazz,104,Utah Jazz,23,8,15,Average Game,1
+201912300POR,Phoenix Suns,122,Portland Trail Blazers,116,Phoenix Suns,-6,4,10,Close Game,0
+201912310CHO,Boston Celtics,109,Charlotte Hornets,92,Boston Celtics,-17,-7,10,Average Game,1
+201912310IND,Philadelphia 76ers,97,Indiana Pacers,115,Indiana Pacers,18,7,11,Average Game,1
+201912310SAC,Los Angeles Clippers,105,Sacramento Kings,87,Los Angeles Clippers,-18,-4,14,Average Game,1
+201912310HOU,Denver Nuggets,104,Houston Rockets,130,Houston Rockets,26,-4,30,Blowout Game,0
+201912310SAS,Golden State Warriors,113,San Antonio Spurs,117,San Antonio Spurs,4,10,6,Close Game,1
+201912310TOR,Cleveland Cavaliers,97,Toronto Raptors,117,Toronto Raptors,20,12,8,Average Game,1
+201912310OKC,Dallas Mavericks,101,Oklahoma City Thunder,106,Oklahoma City Thunder,5,5,0,Close Game,1
+202001010WAS,Orlando Magic,122,Washington Wizards,101,Orlando Magic,-21,2,23,Average Game,0
+202001010NYK,Portland Trail Blazers,93,New York Knicks,117,New York Knicks,24,-0,24,Blowout Game,0
+202001010MIL,Minnesota Timberwolves,104,Milwaukee Bucks,106,Milwaukee Bucks,2,21,19,Close Game,1
+202001010LAL,Phoenix Suns,107,Los Angeles Lakers,117,Los Angeles Lakers,10,10,0,Average Game,1
+202001020CLE,Charlotte Hornets,109,Cleveland Cavaliers,106,Charlotte Hornets,-3,3,6,Close Game,0
+202001020IND,Denver Nuggets,124,Indiana Pacers,116,Denver Nuggets,-8,4,12,Close Game,0
+202001020MIA,Toronto Raptors,76,Miami Heat,84,Miami Heat,8,2,6,Close Game,1
+202001020CHI,Utah Jazz,102,Chicago Bulls,98,Utah Jazz,-4,-6,2,Close Game,1
+202001020MIN,Golden State Warriors,84,Minnesota Timberwolves,99,Minnesota Timberwolves,15,0,15,Average Game,0
+202001020DAL,Brooklyn Nets,111,Dallas Mavericks,123,Dallas Mavericks,12,3,9,Average Game,1
+202001020SAS,Oklahoma City Thunder,109,San Antonio Spurs,103,Oklahoma City Thunder,-6,1,7,Close Game,0
+202001020SAC,Memphis Grizzlies,123,Sacramento Kings,128,Sacramento Kings,5,-2,7,Close Game,0
+202001020LAC,Detroit Pistons,112,Los Angeles Clippers,126,Los Angeles Clippers,14,11,3,Average Game,1
+202001030BOS,Atlanta Hawks,106,Boston Celtics,109,Boston Celtics,3,13,10,Close Game,1
+202001030ORL,Miami Heat,85,Orlando Magic,105,Orlando Magic,20,-6,26,Average Game,0
+202001030WAS,Portland Trail Blazers,122,Washington Wizards,103,Portland Trail Blazers,-19,-2,17,Average Game,1
+202001030HOU,Philadelphia 76ers,108,Houston Rockets,118,Houston Rockets,10,-1,11,Average Game,0
+202001030PHO,New York Knicks,112,Phoenix Suns,120,Phoenix Suns,8,2,6,Close Game,1
+202001030LAL,New Orleans Pelicans,113,Los Angeles Lakers,123,Los Angeles Lakers,10,10,0,Average Game,1
+202001040LAC,Memphis Grizzlies,140,Los Angeles Clippers,114,Memphis Grizzlies,-26,4,30,Blowout Game,0
+202001040BRK,Toronto Raptors,121,Brooklyn Nets,102,Toronto Raptors,-19,-4,15,Average Game,1
+202001040ORL,Utah Jazz,109,Orlando Magic,96,Utah Jazz,-13,-4,9,Average Game,1
+202001040ATL,Indiana Pacers,111,Atlanta Hawks,116,Atlanta Hawks,5,-10,15,Close Game,0
+202001040CLE,Oklahoma City Thunder,121,Cleveland Cavaliers,106,Oklahoma City Thunder,-15,-5,10,Average Game,1
+202001040CHI,Boston Celtics,111,Chicago Bulls,104,Boston Celtics,-7,-7,0,Close Game,1
+202001040WAS,Denver Nuggets,114,Washington Wizards,128,Washington Wizards,14,-5,19,Average Game,0
+202001040DAL,Charlotte Hornets,123,Dallas Mavericks,120,Charlotte Hornets,-3,8,11,Close Game,0
+202001040GSW,Detroit Pistons,111,Golden State Warriors,104,Detroit Pistons,-7,-0,7,Close Game,0
+202001040MIL,San Antonio Spurs,118,Milwaukee Bucks,127,Milwaukee Bucks,9,10,1,Close Game,1
+202001040SAC,New Orleans Pelicans,117,Sacramento Kings,115,New Orleans Pelicans,-2,2,4,Close Game,0
+202001050LAC,New York Knicks,132,Los Angeles Clippers,135,Los Angeles Clippers,3,9,6,Close Game,1
+202001050MIA,Portland Trail Blazers,111,Miami Heat,122,Miami Heat,11,6,5,Average Game,1
+202001050CLE,Minnesota Timberwolves,118,Cleveland Cavaliers,103,Minnesota Timberwolves,-15,5,20,Average Game,0
+202001050PHO,Memphis Grizzlies,121,Phoenix Suns,114,Memphis Grizzlies,-7,-2,5,Close Game,1
+202001050LAL,Detroit Pistons,99,Los Angeles Lakers,106,Los Angeles Lakers,7,12,5,Close Game,1
+202001060CHO,Indiana Pacers,115,Charlotte Hornets,104,Indiana Pacers,-11,-8,3,Average Game,1
+202001060ORL,Brooklyn Nets,89,Orlando Magic,101,Orlando Magic,12,-0,12,Average Game,0
+202001060PHI,Oklahoma City Thunder,113,Philadelphia 76ers,120,Philadelphia 76ers,7,-1,8,Close Game,0
+202001060WAS,Boston Celtics,94,Washington Wizards,99,Washington Wizards,5,-5,10,Close Game,0
+202001060ATL,Denver Nuggets,123,Atlanta Hawks,115,Denver Nuggets,-8,-8,0,Close Game,1
+202001060NOP,Utah Jazz,128,New Orleans Pelicans,126,Utah Jazz,-2,-2,0,Close Game,1
+202001060DAL,Chicago Bulls,110,Dallas Mavericks,118,Dallas Mavericks,8,7,1,Close Game,1
+202001060SAS,Milwaukee Bucks,104,San Antonio Spurs,126,San Antonio Spurs,22,-5,27,Average Game,0
+202001060SAC,Golden State Warriors,98,Sacramento Kings,111,Sacramento Kings,13,7,6,Average Game,1
+202001070CLE,Detroit Pistons,115,Cleveland Cavaliers,113,Detroit Pistons,-2,1,3,Close Game,0
+202001070TOR,Portland Trail Blazers,101,Toronto Raptors,99,Portland Trail Blazers,-2,6,8,Close Game,0
+202001070BRK,Oklahoma City Thunder,111,Brooklyn Nets,103,Oklahoma City Thunder,-8,-2,6,Close Game,1
+202001070MEM,Minnesota Timberwolves,112,Memphis Grizzlies,119,Memphis Grizzlies,7,13,6,Close Game,1
+202001070PHO,Sacramento Kings,114,Phoenix Suns,103,Sacramento Kings,-11,2,13,Average Game,0
+202001070LAL,New York Knicks,87,Los Angeles Lakers,117,Los Angeles Lakers,30,10,20,Blowout Game,1
+202001080BOS,San Antonio Spurs,129,Boston Celtics,114,San Antonio Spurs,-15,4,19,Average Game,0
+202001080CHO,Toronto Raptors,112,Charlotte Hornets,110,Toronto Raptors,-2,-8,6,Close Game,1
+202001080IND,Miami Heat,122,Indiana Pacers,108,Miami Heat,-14,3,17,Average Game,0
+202001080ORL,Washington Wizards,89,Orlando Magic,123,Orlando Magic,34,2,32,Blowout Game,1
+202001080ATL,Houston Rockets,122,Atlanta Hawks,115,Houston Rockets,-7,-1,6,Close Game,1
+202001080DAL,Denver Nuggets,107,Dallas Mavericks,106,Denver Nuggets,-1,-1,0,Close Game,1
+202001080NOP,Chicago Bulls,108,New Orleans Pelicans,123,New Orleans Pelicans,15,6,9,Average Game,1
+202001080UTA,New York Knicks,104,Utah Jazz,128,Utah Jazz,24,6,18,Blowout Game,1
+202001080GSW,Milwaukee Bucks,107,Golden State Warriors,98,Milwaukee Bucks,-9,-14,5,Close Game,1
+202001090DET,Cleveland Cavaliers,115,Detroit Pistons,112,Cleveland Cavaliers,-3,4,7,Close Game,0
+202001090PHI,Boston Celtics,98,Philadelphia 76ers,109,Philadelphia 76ers,11,-1,12,Average Game,0
+202001090MIN,Portland Trail Blazers,102,Minnesota Timberwolves,116,Minnesota Timberwolves,14,-7,21,Average Game,0
+202001090OKC,Houston Rockets,92,Oklahoma City Thunder,113,Oklahoma City Thunder,21,8,13,Average Game,1
+202001100WAS,Atlanta Hawks,101,Washington Wizards,111,Washington Wizards,10,5,5,Average Game,1
+202001100NYK,New Orleans Pelicans,123,New York Knicks,111,New Orleans Pelicans,-12,2,14,Average Game,0
+202001100BRK,Miami Heat,113,Brooklyn Nets,117,Brooklyn Nets,4,-4,8,Close Game,0
+202001100CHI,Indiana Pacers,116,Chicago Bulls,105,Indiana Pacers,-11,-8,3,Average Game,1
+202001100MEM,San Antonio Spurs,121,Memphis Grizzlies,134,Memphis Grizzlies,13,3,10,Average Game,1
+202001100PHO,Orlando Magic,94,Phoenix Suns,98,Phoenix Suns,4,4,0,Close Game,1
+202001100UTA,Charlotte Hornets,92,Utah Jazz,109,Utah Jazz,17,10,7,Average Game,1
+202001100DAL,Los Angeles Lakers,129,Dallas Mavericks,114,Los Angeles Lakers,-15,-4,11,Average Game,1
+202001100SAC,Milwaukee Bucks,127,Sacramento Kings,106,Milwaukee Bucks,-21,-9,12,Average Game,1
+202001100LAC,Golden State Warriors,100,Los Angeles Clippers,109,Los Angeles Clippers,9,13,4,Close Game,1
+202001110HOU,Minnesota Timberwolves,109,Houston Rockets,139,Houston Rockets,30,7,23,Blowout Game,1
+202001110BOS,New Orleans Pelicans,105,Boston Celtics,140,Boston Celtics,35,7,28,Blowout Game,1
+202001110DET,Chicago Bulls,108,Detroit Pistons,99,Chicago Bulls,-9,4,13,Close Game,0
+202001110OKC,Los Angeles Lakers,125,Oklahoma City Thunder,110,Los Angeles Lakers,-15,-1,14,Average Game,1
+202001110DAL,Philadelphia 76ers,91,Dallas Mavericks,109,Dallas Mavericks,18,2,16,Average Game,1
+202001110DEN,Cleveland Cavaliers,111,Denver Nuggets,103,Cleveland Cavaliers,-8,10,18,Close Game,0
+202001110POR,Milwaukee Bucks,122,Portland Trail Blazers,101,Milwaukee Bucks,-21,-7,14,Average Game,1
+202001120NYK,Miami Heat,121,New York Knicks,124,New York Knicks,3,-4,7,Close Game,0
+202001120WAS,Utah Jazz,127,Washington Wizards,116,Utah Jazz,-11,-4,7,Average Game,1
+202001120BRK,Atlanta Hawks,86,Brooklyn Nets,108,Brooklyn Nets,22,8,14,Average Game,1
+202001120MEM,Golden State Warriors,102,Memphis Grizzlies,122,Memphis Grizzlies,20,11,9,Average Game,1
+202001120TOR,San Antonio Spurs,105,Toronto Raptors,104,San Antonio Spurs,-1,5,6,Close Game,0
+202001120DEN,Los Angeles Clippers,104,Denver Nuggets,114,Denver Nuggets,10,0,10,Average Game,0
+202001120PHO,Charlotte Hornets,92,Phoenix Suns,100,Phoenix Suns,8,6,2,Close Game,1
+202001130DET,New Orleans Pelicans,117,Detroit Pistons,110,New Orleans Pelicans,-7,0,7,Close Game,0
+202001130IND,Philadelphia 76ers,95,Indiana Pacers,101,Indiana Pacers,6,7,1,Close Game,1
+202001130BOS,Chicago Bulls,101,Boston Celtics,113,Boston Celtics,12,11,1,Average Game,1
+202001130MIN,Oklahoma City Thunder,117,Minnesota Timberwolves,104,Oklahoma City Thunder,-13,-9,4,Average Game,1
+202001130POR,Charlotte Hornets,112,Portland Trail Blazers,115,Portland Trail Blazers,3,8,5,Close Game,1
+202001130SAC,Orlando Magic,114,Sacramento Kings,112,Orlando Magic,-2,4,6,Close Game,0
+202001130LAL,Cleveland Cavaliers,99,Los Angeles Lakers,128,Los Angeles Lakers,29,14,15,Blowout Game,1
+202001140ATL,Phoenix Suns,110,Atlanta Hawks,123,Atlanta Hawks,13,-3,16,Average Game,0
+202001140BRK,Utah Jazz,118,Brooklyn Nets,107,Utah Jazz,-11,-2,9,Average Game,1
+202001140MEM,Houston Rockets,110,Memphis Grizzlies,121,Memphis Grizzlies,11,9,2,Average Game,1
+202001140MIL,New York Knicks,102,Milwaukee Bucks,128,Milwaukee Bucks,26,14,12,Blowout Game,1
+202001140GSW,Dallas Mavericks,124,Golden State Warriors,97,Dallas Mavericks,-27,-4,23,Blowout Game,1
+202001140LAC,Cleveland Cavaliers,103,Los Angeles Clippers,128,Los Angeles Clippers,25,12,13,Blowout Game,1
+202001150BOS,Detroit Pistons,116,Boston Celtics,103,Detroit Pistons,-13,9,22,Average Game,0
+202001150PHI,Brooklyn Nets,106,Philadelphia 76ers,117,Philadelphia 76ers,11,3,8,Average Game,1
+202001150MIA,San Antonio Spurs,100,Miami Heat,106,Miami Heat,6,5,1,Close Game,1
+202001150CHI,Washington Wizards,106,Chicago Bulls,115,Chicago Bulls,9,0,9,Close Game,0
+202001150MIN,Indiana Pacers,104,Minnesota Timberwolves,99,Indiana Pacers,-5,-11,6,Close Game,1
+202001150OKC,Toronto Raptors,130,Oklahoma City Thunder,121,Toronto Raptors,-9,0,9,Close Game,0
+202001150DEN,Charlotte Hornets,86,Denver Nuggets,100,Denver Nuggets,14,11,3,Average Game,1
+202001150HOU,Portland Trail Blazers,117,Houston Rockets,107,Portland Trail Blazers,-10,-2,8,Average Game,1
+202001150SAC,Dallas Mavericks,127,Sacramento Kings,123,Dallas Mavericks,-4,1,5,Close Game,0
+202001150LAL,Orlando Magic,119,Los Angeles Lakers,118,Orlando Magic,-1,12,13,Close Game,0
+202001160NYK,Phoenix Suns,121,New York Knicks,98,Phoenix Suns,-23,2,25,Average Game,0
+202001160MIL,Boston Celtics,123,Milwaukee Bucks,128,Milwaukee Bucks,5,8,3,Close Game,1
+202001160NOP,Utah Jazz,132,New Orleans Pelicans,138,New Orleans Pelicans,6,-2,8,Close Game,0
+202001160GSW,Denver Nuggets,134,Golden State Warriors,131,Denver Nuggets,-3,-7,4,Close Game,1
+202001160LAC,Orlando Magic,95,Los Angeles Clippers,122,Los Angeles Clippers,27,11,16,Blowout Game,1
+202001170IND,Minnesota Timberwolves,114,Indiana Pacers,116,Indiana Pacers,2,15,13,Close Game,1
+202001170PHI,Chicago Bulls,89,Philadelphia 76ers,100,Philadelphia 76ers,11,7,4,Average Game,1
+202001170TOR,Washington Wizards,111,Toronto Raptors,140,Toronto Raptors,29,11,18,Blowout Game,1
+202001170MEM,Cleveland Cavaliers,109,Memphis Grizzlies,113,Memphis Grizzlies,4,10,6,Close Game,1
+202001170OKC,Miami Heat,115,Oklahoma City Thunder,108,Miami Heat,-7,0,7,Close Game,0
+202001170SAS,Atlanta Hawks,121,San Antonio Spurs,120,Atlanta Hawks,-1,11,12,Close Game,0
+202001170DAL,Portland Trail Blazers,112,Dallas Mavericks,120,Dallas Mavericks,8,2,6,Close Game,1
+202001180NOP,Los Angeles Clippers,133,New Orleans Pelicans,130,Los Angeles Clippers,-3,-4,1,Close Game,1
+202001180BRK,Milwaukee Bucks,117,Brooklyn Nets,97,Milwaukee Bucks,-20,-9,11,Average Game,1
+202001180BOS,Phoenix Suns,123,Boston Celtics,119,Phoenix Suns,-4,7,11,Close Game,0
+202001180ATL,Detroit Pistons,136,Atlanta Hawks,103,Detroit Pistons,-33,-1,32,Blowout Game,1
+202001180NYK,Philadelphia 76ers,90,New York Knicks,87,Philadelphia 76ers,-3,0,3,Close Game,0
+202001180CHI,Cleveland Cavaliers,116,Chicago Bulls,118,Chicago Bulls,2,2,0,Close Game,1
+202001180MIN,Toronto Raptors,122,Minnesota Timberwolves,112,Toronto Raptors,-10,-11,1,Average Game,1
+202001180GSW,Orlando Magic,95,Golden State Warriors,109,Golden State Warriors,14,-0,14,Average Game,0
+202001180HOU,Los Angeles Lakers,124,Houston Rockets,115,Los Angeles Lakers,-9,-8,1,Close Game,1
+202001180OKC,Portland Trail Blazers,106,Oklahoma City Thunder,119,Oklahoma City Thunder,13,5,8,Average Game,1
+202001180UTA,Sacramento Kings,101,Utah Jazz,123,Utah Jazz,22,6,16,Average Game,1
+202001190SAS,Miami Heat,102,San Antonio Spurs,107,San Antonio Spurs,5,-1,6,Close Game,0
+202001190DEN,Indiana Pacers,115,Denver Nuggets,107,Indiana Pacers,-8,0,8,Close Game,0
+202001200WAS,Detroit Pistons,100,Washington Wizards,106,Washington Wizards,6,2,4,Close Game,1
+202001200ATL,Toronto Raptors,122,Atlanta Hawks,117,Toronto Raptors,-5,-9,4,Close Game,1
+202001200BRK,Philadelphia 76ers,117,Brooklyn Nets,111,Philadelphia 76ers,-6,1,7,Close Game,0
+202001200CHO,Orlando Magic,106,Charlotte Hornets,83,Orlando Magic,-23,-0,23,Average Game,0
+202001200CLE,New York Knicks,106,Cleveland Cavaliers,86,New York Knicks,-20,-1,19,Average Game,1
+202001200HOU,Oklahoma City Thunder,112,Houston Rockets,107,Oklahoma City Thunder,-5,-4,1,Close Game,1
+202001200MEM,New Orleans Pelicans,126,Memphis Grizzlies,116,New Orleans Pelicans,-10,6,16,Average Game,0
+202001200MIA,Sacramento Kings,113,Miami Heat,118,Miami Heat,5,8,3,Close Game,1
+202001200MIL,Chicago Bulls,98,Milwaukee Bucks,111,Milwaukee Bucks,13,17,4,Average Game,1
+202001200BOS,Los Angeles Lakers,107,Boston Celtics,139,Boston Celtics,32,-1,33,Blowout Game,0
+202001200MIN,Denver Nuggets,107,Minnesota Timberwolves,100,Denver Nuggets,-7,-9,2,Close Game,1
+202001200PHO,San Antonio Spurs,120,Phoenix Suns,118,San Antonio Spurs,-2,-1,1,Close Game,1
+202001200UTA,Indiana Pacers,88,Utah Jazz,118,Utah Jazz,30,-0,30,Blowout Game,0
+202001200POR,Golden State Warriors,124,Portland Trail Blazers,129,Portland Trail Blazers,5,9,4,Close Game,1
+202001210DAL,Los Angeles Clippers,110,Dallas Mavericks,107,Los Angeles Clippers,-3,-3,0,Close Game,1
+202001220DET,Sacramento Kings,106,Detroit Pistons,127,Detroit Pistons,21,0,21,Average Game,0
+202001220ORL,Oklahoma City Thunder,120,Orlando Magic,114,Oklahoma City Thunder,-6,-4,2,Close Game,1
+202001220TOR,Philadelphia 76ers,95,Toronto Raptors,107,Toronto Raptors,12,7,5,Average Game,1
+202001220ATL,Los Angeles Clippers,95,Atlanta Hawks,102,Atlanta Hawks,7,-10,17,Close Game,0
+202001220BOS,Memphis Grizzlies,95,Boston Celtics,119,Boston Celtics,24,3,21,Blowout Game,1
+202001220MIA,Washington Wizards,129,Miami Heat,134,Miami Heat,5,11,6,Close Game,1
+202001220NYK,Los Angeles Lakers,100,New York Knicks,92,Los Angeles Lakers,-8,-6,2,Close Game,1
+202001220CHI,Minnesota Timberwolves,110,Chicago Bulls,117,Chicago Bulls,7,5,2,Close Game,1
+202001220HOU,Denver Nuggets,105,Houston Rockets,121,Houston Rockets,16,-4,20,Average Game,0
+202001220PHO,Indiana Pacers,112,Phoenix Suns,87,Indiana Pacers,-25,-4,21,Blowout Game,1
+202001220NOP,San Antonio Spurs,121,New Orleans Pelicans,117,San Antonio Spurs,-4,-1,3,Close Game,1
+202001220GSW,Utah Jazz,129,Golden State Warriors,96,Utah Jazz,-33,-6,27,Blowout Game,1
+202001230CLE,Washington Wizards,124,Cleveland Cavaliers,112,Washington Wizards,-12,1,13,Average Game,0
+202001230BRK,Los Angeles Lakers,128,Brooklyn Nets,113,Los Angeles Lakers,-15,-6,9,Average Game,1
+202001230POR,Dallas Mavericks,133,Portland Trail Blazers,125,Dallas Mavericks,-8,3,11,Close Game,0
+202001240CHO,Milwaukee Bucks,116,Charlotte Hornets,103,Milwaukee Bucks,-13,-13,0,Average Game,1
+202001240DET,Memphis Grizzlies,125,Detroit Pistons,112,Memphis Grizzlies,-13,-4,9,Average Game,1
+202001240ORL,Boston Celtics,109,Orlando Magic,98,Boston Celtics,-11,-5,6,Average Game,1
+202001240NYK,Toronto Raptors,118,New York Knicks,112,Toronto Raptors,-6,-4,2,Close Game,1
+202001240CHI,Sacramento Kings,98,Chicago Bulls,81,Sacramento Kings,-17,-2,15,Average Game,1
+202001240MIA,Los Angeles Clippers,122,Miami Heat,117,Los Angeles Clippers,-5,2,7,Close Game,0
+202001240MIN,Houston Rockets,131,Minnesota Timberwolves,124,Houston Rockets,-7,-3,4,Close Game,1
+202001240NOP,Denver Nuggets,113,New Orleans Pelicans,106,Denver Nuggets,-7,-2,5,Close Game,1
+202001240OKC,Atlanta Hawks,111,Oklahoma City Thunder,140,Oklahoma City Thunder,29,12,17,Blowout Game,1
+202001240SAS,Phoenix Suns,103,San Antonio Spurs,99,Phoenix Suns,-4,6,10,Close Game,0
+202001240GSW,Indiana Pacers,129,Golden State Warriors,118,Indiana Pacers,-11,-9,2,Average Game,1
+202001250UTA,Dallas Mavericks,107,Utah Jazz,112,Utah Jazz,5,5,0,Close Game,1
+202001250DET,Brooklyn Nets,121,Detroit Pistons,111,Brooklyn Nets,-10,-0,10,Average Game,0
+202001250CLE,Chicago Bulls,118,Cleveland Cavaliers,106,Chicago Bulls,-12,3,15,Average Game,0
+202001250MIN,Oklahoma City Thunder,113,Minnesota Timberwolves,104,Oklahoma City Thunder,-9,-9,0,Close Game,1
+202001250PHI,Los Angeles Lakers,91,Philadelphia 76ers,108,Philadelphia 76ers,17,-4,21,Average Game,0
+202001260DEN,Houston Rockets,110,Denver Nuggets,117,Denver Nuggets,7,9,2,Close Game,1
+202001260SAS,Toronto Raptors,110,San Antonio Spurs,106,Toronto Raptors,-4,-1,3,Close Game,1
+202001260ATL,Washington Wizards,133,Atlanta Hawks,152,Atlanta Hawks,19,-1,20,Average Game,0
+202001260MEM,Phoenix Suns,109,Memphis Grizzlies,114,Memphis Grizzlies,5,7,2,Close Game,1
+202001260NOP,Boston Celtics,108,New Orleans Pelicans,123,New Orleans Pelicans,15,-3,18,Average Game,0
+202001260NYK,Brooklyn Nets,97,New York Knicks,110,New York Knicks,13,2,11,Average Game,1
+202001260ORL,Los Angeles Clippers,112,Orlando Magic,97,Los Angeles Clippers,-15,-6,9,Average Game,1
+202001260POR,Indiana Pacers,129,Portland Trail Blazers,139,Portland Trail Blazers,10,-2,12,Average Game,0
+202001270DET,Cleveland Cavaliers,115,Detroit Pistons,100,Cleveland Cavaliers,-15,4,19,Average Game,0
+202001270MIA,Orlando Magic,92,Miami Heat,113,Miami Heat,21,10,11,Average Game,1
+202001270CHI,San Antonio Spurs,109,Chicago Bulls,110,Chicago Bulls,1,-5,6,Close Game,0
+202001270MIN,Sacramento Kings,133,Minnesota Timberwolves,129,Sacramento Kings,-4,-5,1,Close Game,1
+202001270OKC,Dallas Mavericks,107,Oklahoma City Thunder,97,Dallas Mavericks,-10,5,15,Average Game,0
+202001270UTA,Houston Rockets,126,Utah Jazz,117,Houston Rockets,-9,8,17,Close Game,0
+202001280CHO,New York Knicks,92,Charlotte Hornets,97,Charlotte Hornets,5,-2,7,Close Game,0
+202001280PHI,Golden State Warriors,104,Philadelphia 76ers,115,Philadelphia 76ers,11,8,3,Average Game,1
+202001280CLE,New Orleans Pelicans,125,Cleveland Cavaliers,111,New Orleans Pelicans,-14,-2,12,Average Game,1
+202001280TOR,Atlanta Hawks,114,Toronto Raptors,130,Toronto Raptors,16,14,2,Average Game,1
+202001280MEM,Denver Nuggets,96,Memphis Grizzlies,104,Memphis Grizzlies,8,2,6,Close Game,1
+202001280MIA,Boston Celtics,109,Miami Heat,101,Boston Celtics,-8,3,11,Close Game,0
+202001280MIL,Washington Wizards,131,Milwaukee Bucks,151,Milwaukee Bucks,20,16,4,Average Game,1
+202001280DAL,Phoenix Suns,133,Dallas Mavericks,104,Phoenix Suns,-29,4,33,Blowout Game,0
+202001290IND,Chicago Bulls,106,Indiana Pacers,115,Indiana Pacers,9,12,3,Close Game,1
+202001290BRK,Detroit Pistons,115,Brooklyn Nets,125,Brooklyn Nets,10,5,5,Average Game,1
+202001290NYK,Memphis Grizzlies,127,New York Knicks,106,Memphis Grizzlies,-21,-2,19,Average Game,1
+202001290SAS,Utah Jazz,120,San Antonio Spurs,127,San Antonio Spurs,7,1,6,Close Game,1
+202001290POR,Houston Rockets,112,Portland Trail Blazers,125,Portland Trail Blazers,13,6,7,Average Game,1
+202001290SAC,Oklahoma City Thunder,120,Sacramento Kings,100,Oklahoma City Thunder,-20,-2,18,Average Game,1
+202001300CLE,Toronto Raptors,115,Cleveland Cavaliers,109,Toronto Raptors,-6,-7,1,Close Game,1
+202001300WAS,Charlotte Hornets,107,Washington Wizards,121,Washington Wizards,14,4,10,Average Game,1
+202001300ATL,Philadelphia 76ers,117,Atlanta Hawks,127,Atlanta Hawks,10,-4,14,Average Game,0
+202001300BOS,Golden State Warriors,104,Boston Celtics,119,Boston Celtics,15,12,3,Average Game,1
+202001300DEN,Utah Jazz,100,Denver Nuggets,106,Denver Nuggets,6,3,3,Close Game,1
+202001300LAC,Sacramento Kings,124,Los Angeles Clippers,103,Sacramento Kings,-21,8,29,Average Game,0
+202001310DET,Toronto Raptors,105,Detroit Pistons,92,Toronto Raptors,-13,-6,7,Average Game,1
+202001310BRK,Chicago Bulls,118,Brooklyn Nets,133,Brooklyn Nets,15,7,8,Average Game,1
+202001310HOU,Dallas Mavericks,121,Houston Rockets,128,Houston Rockets,7,-1,8,Close Game,0
+202001310NOP,Memphis Grizzlies,111,New Orleans Pelicans,139,New Orleans Pelicans,28,-2,30,Blowout Game,0
+202001310MIL,Denver Nuggets,127,Milwaukee Bucks,115,Denver Nuggets,-12,8,20,Average Game,0
+202001310PHO,Oklahoma City Thunder,111,Phoenix Suns,107,Oklahoma City Thunder,-4,-2,2,Close Game,1
+202001310LAL,Portland Trail Blazers,127,Los Angeles Lakers,119,Portland Trail Blazers,-8,8,16,Close Game,0
+202002010LAC,Minnesota Timberwolves,106,Los Angeles Clippers,118,Los Angeles Clippers,12,16,4,Average Game,1
+202002010IND,New York Knicks,92,Indiana Pacers,85,New York Knicks,-7,9,16,Close Game,0
+202002010ORL,Miami Heat,102,Orlando Magic,89,Miami Heat,-13,-6,7,Average Game,1
+202002010CLE,Golden State Warriors,131,Cleveland Cavaliers,112,Golden State Warriors,-19,3,22,Average Game,0
+202002010WAS,Brooklyn Nets,107,Washington Wizards,113,Washington Wizards,6,-1,7,Close Game,0
+202002010BOS,Philadelphia 76ers,95,Boston Celtics,116,Boston Celtics,21,6,15,Average Game,1
+202002010DAL,Atlanta Hawks,100,Dallas Mavericks,123,Dallas Mavericks,23,9,14,Average Game,1
+202002010SAS,Charlotte Hornets,90,San Antonio Spurs,114,San Antonio Spurs,24,10,14,Blowout Game,1
+202002010SAC,Los Angeles Lakers,129,Sacramento Kings,113,Los Angeles Lakers,-16,-6,10,Average Game,1
+202002010POR,Utah Jazz,107,Portland Trail Blazers,124,Portland Trail Blazers,17,0,17,Average Game,0
+202002020DET,Denver Nuggets,123,Detroit Pistons,128,Detroit Pistons,5,-4,9,Close Game,0
+202002020HOU,New Orleans Pelicans,109,Houston Rockets,117,Houston Rockets,8,0,8,Close Game,0
+202002020MIL,Phoenix Suns,108,Milwaukee Bucks,129,Milwaukee Bucks,21,14,7,Average Game,1
+202002020TOR,Chicago Bulls,102,Toronto Raptors,129,Toronto Raptors,27,12,15,Blowout Game,1
+202002030CHO,Orlando Magic,112,Charlotte Hornets,100,Orlando Magic,-12,-0,12,Average Game,0
+202002030CLE,New York Knicks,139,Cleveland Cavaliers,134,New York Knicks,-5,-1,4,Close Game,1
+202002030IND,Dallas Mavericks,112,Indiana Pacers,103,Dallas Mavericks,-9,7,16,Close Game,0
+202002030WAS,Golden State Warriors,125,Washington Wizards,117,Golden State Warriors,-8,4,12,Close Game,0
+202002030ATL,Boston Celtics,123,Atlanta Hawks,115,Boston Celtics,-8,-8,0,Close Game,1
+202002030BRK,Phoenix Suns,97,Brooklyn Nets,119,Brooklyn Nets,22,3,19,Average Game,1
+202002030MIA,Philadelphia 76ers,106,Miami Heat,137,Miami Heat,31,7,24,Blowout Game,1
+202002030MEM,Detroit Pistons,82,Memphis Grizzlies,96,Memphis Grizzlies,14,8,6,Average Game,1
+202002030SAC,Minnesota Timberwolves,109,Sacramento Kings,113,Sacramento Kings,4,9,5,Close Game,1
+202002030LAC,San Antonio Spurs,105,Los Angeles Clippers,108,Los Angeles Clippers,3,5,2,Close Game,1
+202002040NOP,Milwaukee Bucks,120,New Orleans Pelicans,108,Milwaukee Bucks,-12,-9,3,Average Game,1
+202002040HOU,Charlotte Hornets,110,Houston Rockets,125,Houston Rockets,15,5,10,Average Game,1
+202002040DEN,Portland Trail Blazers,99,Denver Nuggets,127,Denver Nuggets,28,5,23,Blowout Game,1
+202002040LAL,San Antonio Spurs,102,Los Angeles Lakers,129,Los Angeles Lakers,27,7,20,Blowout Game,1
+202002050DET,Phoenix Suns,108,Detroit Pistons,116,Detroit Pistons,8,0,8,Close Game,0
+202002050BOS,Orlando Magic,100,Boston Celtics,116,Boston Celtics,16,9,7,Average Game,1
+202002050BRK,Golden State Warriors,88,Brooklyn Nets,129,Brooklyn Nets,41,7,34,Blowout Game,1
+202002050TOR,Indiana Pacers,118,Toronto Raptors,119,Toronto Raptors,1,2,1,Close Game,1
+202002050MIN,Atlanta Hawks,127,Minnesota Timberwolves,120,Atlanta Hawks,-7,1,8,Close Game,0
+202002050OKC,Cleveland Cavaliers,103,Oklahoma City Thunder,109,Oklahoma City Thunder,6,10,4,Close Game,1
+202002050DAL,Memphis Grizzlies,121,Dallas Mavericks,107,Memphis Grizzlies,-14,-1,13,Average Game,1
+202002050UTA,Denver Nuggets,98,Utah Jazz,95,Denver Nuggets,-3,2,5,Close Game,0
+202002050LAC,Miami Heat,111,Los Angeles Clippers,128,Los Angeles Clippers,17,2,15,Average Game,1
+202002060NYK,Orlando Magic,103,New York Knicks,105,New York Knicks,2,4,2,Close Game,1
+202002060CHI,New Orleans Pelicans,125,Chicago Bulls,119,New Orleans Pelicans,-6,-2,4,Close Game,1
+202002060MIL,Philadelphia 76ers,101,Milwaukee Bucks,112,Milwaukee Bucks,11,12,1,Average Game,1
+202002060POR,San Antonio Spurs,117,Portland Trail Blazers,125,Portland Trail Blazers,8,1,7,Close Game,1
+202002060LAL,Houston Rockets,121,Los Angeles Lakers,111,Houston Rockets,-10,12,22,Average Game,0
+202002070PHI,Memphis Grizzlies,107,Philadelphia 76ers,119,Philadelphia 76ers,12,-1,13,Average Game,0
+202002070WAS,Dallas Mavericks,118,Washington Wizards,119,Washington Wizards,1,-2,3,Close Game,0
+202002070BOS,Atlanta Hawks,107,Boston Celtics,112,Boston Celtics,5,13,8,Close Game,1
+202002070IND,Toronto Raptors,115,Indiana Pacers,106,Toronto Raptors,-9,3,12,Close Game,0
+202002070OKC,Detroit Pistons,101,Oklahoma City Thunder,108,Oklahoma City Thunder,7,8,1,Close Game,1
+202002070PHO,Houston Rockets,91,Phoenix Suns,127,Phoenix Suns,36,4,32,Blowout Game,1
+202002070SAC,Miami Heat,97,Sacramento Kings,105,Sacramento Kings,8,-4,12,Close Game,0
+202002070UTA,Portland Trail Blazers,114,Utah Jazz,117,Utah Jazz,3,4,1,Close Game,1
+202002080ORL,Milwaukee Bucks,111,Orlando Magic,95,Milwaukee Bucks,-16,-11,5,Average Game,1
+202002080CHO,Dallas Mavericks,116,Charlotte Hornets,100,Dallas Mavericks,-16,-4,12,Average Game,1
+202002080DET,New York Knicks,95,Detroit Pistons,92,New York Knicks,-3,1,4,Close Game,0
+202002080IND,New Orleans Pelicans,124,Indiana Pacers,117,New Orleans Pelicans,-7,9,16,Close Game,0
+202002080TOR,Brooklyn Nets,118,Toronto Raptors,119,Toronto Raptors,1,8,7,Close Game,1
+202002080MIN,Los Angeles Clippers,115,Minnesota Timberwolves,142,Minnesota Timberwolves,27,-11,38,Blowout Game,0
+202002080GSW,Los Angeles Lakers,125,Golden State Warriors,120,Los Angeles Lakers,-5,-10,5,Close Game,1
+202002080PHO,Denver Nuggets,117,Phoenix Suns,108,Denver Nuggets,-9,-3,6,Close Game,1
+202002080SAC,San Antonio Spurs,102,Sacramento Kings,122,Sacramento Kings,20,-1,21,Average Game,0
+202002090OKC,Boston Celtics,112,Oklahoma City Thunder,111,Boston Celtics,-1,1,2,Close Game,0
+202002090ATL,New York Knicks,135,Atlanta Hawks,140,Atlanta Hawks,5,-3,8,Close Game,0
+202002090PHI,Chicago Bulls,111,Philadelphia 76ers,118,Philadelphia 76ers,7,7,0,Close Game,1
+202002090WAS,Memphis Grizzlies,106,Washington Wizards,99,Memphis Grizzlies,-7,-5,2,Close Game,1
+202002090HOU,Utah Jazz,114,Houston Rockets,113,Utah Jazz,-1,-4,3,Close Game,1
+202002090CLE,Los Angeles Clippers,133,Cleveland Cavaliers,92,Los Angeles Clippers,-41,-8,33,Blowout Game,1
+202002090POR,Miami Heat,109,Portland Trail Blazers,115,Portland Trail Blazers,6,-2,8,Close Game,0
+202002100DET,Charlotte Hornets,87,Detroit Pistons,76,Charlotte Hornets,-11,5,16,Average Game,0
+202002100IND,Brooklyn Nets,106,Indiana Pacers,105,Brooklyn Nets,-1,8,9,Close Game,0
+202002100ORL,Atlanta Hawks,126,Orlando Magic,135,Orlando Magic,9,5,4,Close Game,1
+202002100TOR,Minnesota Timberwolves,126,Toronto Raptors,137,Toronto Raptors,11,15,4,Average Game,1
+202002100MIL,Sacramento Kings,111,Milwaukee Bucks,123,Milwaukee Bucks,12,13,1,Average Game,1
+202002100DAL,Utah Jazz,123,Dallas Mavericks,119,Utah Jazz,-4,-0,4,Close Game,0
+202002100DEN,San Antonio Spurs,120,Denver Nuggets,127,Denver Nuggets,7,3,4,Close Game,1
+202002100GSW,Miami Heat,113,Golden State Warriors,101,Miami Heat,-12,-8,4,Average Game,1
+202002100LAL,Phoenix Suns,100,Los Angeles Lakers,125,Los Angeles Lakers,25,10,15,Blowout Game,1
+202002110PHI,Los Angeles Clippers,103,Philadelphia 76ers,110,Philadelphia 76ers,7,-3,10,Close Game,0
+202002110WAS,Chicago Bulls,114,Washington Wizards,126,Washington Wizards,12,4,8,Average Game,1
+202002110NOP,Portland Trail Blazers,117,New Orleans Pelicans,138,New Orleans Pelicans,21,0,21,Average Game,0
+202002110OKC,San Antonio Spurs,114,Oklahoma City Thunder,106,San Antonio Spurs,-8,3,11,Close Game,0
+202002110HOU,Boston Celtics,105,Houston Rockets,116,Houston Rockets,11,-5,16,Average Game,0
+202002120CLE,Atlanta Hawks,105,Cleveland Cavaliers,127,Cleveland Cavaliers,22,4,18,Average Game,1
+202002120ORL,Detroit Pistons,112,Orlando Magic,116,Orlando Magic,4,2,2,Close Game,1
+202002120BRK,Toronto Raptors,91,Brooklyn Nets,101,Brooklyn Nets,10,-4,14,Average Game,0
+202002120IND,Milwaukee Bucks,111,Indiana Pacers,118,Indiana Pacers,7,-2,9,Close Game,0
+202002120NYK,Washington Wizards,114,New York Knicks,96,Washington Wizards,-18,4,22,Average Game,0
+202002120MEM,Portland Trail Blazers,104,Memphis Grizzlies,111,Memphis Grizzlies,7,5,2,Close Game,1
+202002120MIN,Charlotte Hornets,115,Minnesota Timberwolves,108,Charlotte Hornets,-7,0,7,Close Game,0
+202002120DAL,Sacramento Kings,111,Dallas Mavericks,130,Dallas Mavericks,19,3,16,Average Game,1
+202002120PHO,Golden State Warriors,106,Phoenix Suns,112,Phoenix Suns,6,6,0,Close Game,1
+202002120UTA,Miami Heat,101,Utah Jazz,116,Utah Jazz,15,0,15,Average Game,0
+202002120DEN,Los Angeles Lakers,120,Denver Nuggets,116,Los Angeles Lakers,-4,-1,3,Close Game,1
+202002130BOS,Los Angeles Clippers,133,Boston Celtics,141,Boston Celtics,8,1,7,Close Game,1
+202002130NOP,Oklahoma City Thunder,123,New Orleans Pelicans,118,Oklahoma City Thunder,-5,-2,3,Close Game,1
+202002200DET,Milwaukee Bucks,126,Detroit Pistons,106,Milwaukee Bucks,-20,-11,9,Average Game,1
+202002200ATL,Miami Heat,124,Atlanta Hawks,129,Atlanta Hawks,5,-9,14,Close Game,0
+202002200CHI,Charlotte Hornets,103,Chicago Bulls,93,Charlotte Hornets,-10,3,13,Average Game,0
+202002200PHI,Brooklyn Nets,104,Philadelphia 76ers,112,Philadelphia 76ers,8,3,5,Close Game,1
+202002200SAC,Memphis Grizzlies,125,Sacramento Kings,129,Sacramento Kings,4,-2,6,Close Game,0
+202002200GSW,Houston Rockets,135,Golden State Warriors,105,Houston Rockets,-30,-0,30,Blowout Game,0
+202002210ORL,Dallas Mavericks,122,Orlando Magic,106,Dallas Mavericks,-16,-1,15,Average Game,1
+202002210WAS,Cleveland Cavaliers,113,Washington Wizards,108,Cleveland Cavaliers,-5,3,8,Close Game,0
+202002210NYK,Indiana Pacers,106,New York Knicks,98,Indiana Pacers,-8,-4,4,Close Game,1
+202002210TOR,Phoenix Suns,101,Toronto Raptors,118,Toronto Raptors,17,9,8,Average Game,1
+202002210MIN,Boston Celtics,127,Minnesota Timberwolves,117,Boston Celtics,-10,-10,0,Average Game,1
+202002210OKC,Denver Nuggets,101,Oklahoma City Thunder,113,Oklahoma City Thunder,12,2,10,Average Game,1
+202002210UTA,San Antonio Spurs,113,Utah Jazz,104,San Antonio Spurs,-9,3,12,Close Game,0
+202002210LAL,Memphis Grizzlies,105,Los Angeles Lakers,117,Los Angeles Lakers,12,6,6,Average Game,1
+202002210POR,New Orleans Pelicans,128,Portland Trail Blazers,115,New Orleans Pelicans,-13,4,17,Average Game,0
+202002220LAC,Sacramento Kings,112,Los Angeles Clippers,103,Sacramento Kings,-9,8,17,Close Game,0
+202002220CHO,Brooklyn Nets,115,Charlotte Hornets,86,Brooklyn Nets,-29,-3,26,Blowout Game,1
+202002220ATL,Dallas Mavericks,107,Atlanta Hawks,111,Atlanta Hawks,4,-4,8,Close Game,0
+202002220CHI,Phoenix Suns,112,Chicago Bulls,104,Phoenix Suns,-8,-2,6,Close Game,1
+202002220MIA,Cleveland Cavaliers,105,Miami Heat,124,Miami Heat,19,12,7,Average Game,1
+202002220MIL,Philadelphia 76ers,98,Milwaukee Bucks,119,Milwaukee Bucks,21,12,9,Average Game,1
+202002220UTA,Houston Rockets,120,Utah Jazz,110,Houston Rockets,-10,8,18,Average Game,0
+202002230LAL,Boston Celtics,112,Los Angeles Lakers,114,Los Angeles Lakers,2,5,3,Close Game,1
+202002230DEN,Minnesota Timberwolves,116,Denver Nuggets,128,Denver Nuggets,12,13,1,Average Game,1
+202002230TOR,Indiana Pacers,81,Toronto Raptors,127,Toronto Raptors,46,2,44,Blowout Game,1
+202002230CHI,Washington Wizards,117,Chicago Bulls,126,Chicago Bulls,9,0,9,Close Game,0
+202002230OKC,San Antonio Spurs,103,Oklahoma City Thunder,131,Oklahoma City Thunder,28,3,25,Blowout Game,1
+202002230GSW,New Orleans Pelicans,115,Golden State Warriors,101,New Orleans Pelicans,-14,-3,11,Average Game,1
+202002230POR,Detroit Pistons,104,Portland Trail Blazers,107,Portland Trail Blazers,3,6,3,Close Game,1
+202002240CLE,Miami Heat,119,Cleveland Cavaliers,125,Cleveland Cavaliers,6,-7,13,Close Game,0
+202002240PHI,Atlanta Hawks,112,Philadelphia 76ers,129,Philadelphia 76ers,17,9,8,Average Game,1
+202002240WAS,Milwaukee Bucks,137,Washington Wizards,134,Milwaukee Bucks,-3,-12,9,Close Game,1
+202002240BRK,Orlando Magic,115,Brooklyn Nets,113,Orlando Magic,-2,5,7,Close Game,0
+202002240HOU,New York Knicks,112,Houston Rockets,123,Houston Rockets,11,1,10,Average Game,1
+202002240DAL,Minnesota Timberwolves,123,Dallas Mavericks,139,Dallas Mavericks,16,10,6,Average Game,1
+202002240UTA,Phoenix Suns,131,Utah Jazz,111,Phoenix Suns,-20,6,26,Average Game,0
+202002240LAC,Memphis Grizzlies,97,Los Angeles Clippers,124,Los Angeles Clippers,27,4,23,Blowout Game,1
+202002250IND,Charlotte Hornets,80,Indiana Pacers,119,Indiana Pacers,39,13,26,Blowout Game,1
+202002250TOR,Milwaukee Bucks,108,Toronto Raptors,97,Milwaukee Bucks,-11,-3,8,Average Game,1
+202002250CHI,Oklahoma City Thunder,124,Chicago Bulls,122,Oklahoma City Thunder,-2,-6,4,Close Game,1
+202002250DEN,Detroit Pistons,98,Denver Nuggets,115,Denver Nuggets,17,8,9,Average Game,1
+202002250LAL,New Orleans Pelicans,109,Los Angeles Lakers,118,Los Angeles Lakers,9,10,1,Close Game,1
+202002250POR,Boston Celtics,118,Portland Trail Blazers,106,Boston Celtics,-12,-1,11,Average Game,1
+202002250GSW,Sacramento Kings,112,Golden State Warriors,94,Sacramento Kings,-18,-2,16,Average Game,1
+202002260CHO,New York Knicks,101,Charlotte Hornets,107,Charlotte Hornets,6,-2,8,Close Game,0
+202002260CLE,Philadelphia 76ers,94,Cleveland Cavaliers,108,Cleveland Cavaliers,14,-3,17,Average Game,0
+202002260WAS,Brooklyn Nets,106,Washington Wizards,110,Washington Wizards,4,-1,5,Close Game,0
+202002260ATL,Orlando Magic,130,Atlanta Hawks,120,Orlando Magic,-10,-1,9,Average Game,1
+202002260MIA,Minnesota Timberwolves,129,Miami Heat,126,Minnesota Timberwolves,-3,15,18,Close Game,0
+202002260HOU,Memphis Grizzlies,112,Houston Rockets,140,Houston Rockets,28,-4,32,Blowout Game,0
+202002260SAS,Dallas Mavericks,109,San Antonio Spurs,103,Dallas Mavericks,-6,4,10,Close Game,0
+202002260PHO,Los Angeles Clippers,102,Phoenix Suns,92,Los Angeles Clippers,-10,-5,5,Average Game,1
+202002260UTA,Boston Celtics,114,Utah Jazz,103,Boston Celtics,-11,1,12,Average Game,0
+202002270PHI,New York Knicks,106,Philadelphia 76ers,115,Philadelphia 76ers,9,4,5,Close Game,1
+202002270IND,Portland Trail Blazers,100,Indiana Pacers,106,Indiana Pacers,6,7,1,Close Game,1
+202002270OKC,Sacramento Kings,108,Oklahoma City Thunder,112,Oklahoma City Thunder,4,6,2,Close Game,1
+202002270GSW,Los Angeles Lakers,116,Golden State Warriors,86,Los Angeles Lakers,-30,-10,20,Blowout Game,1
+202002280ORL,Minnesota Timberwolves,125,Orlando Magic,136,Orlando Magic,11,7,4,Average Game,1
+202002280ATL,Brooklyn Nets,118,Atlanta Hawks,141,Atlanta Hawks,23,-4,27,Average Game,0
+202002280TOR,Charlotte Hornets,99,Toronto Raptors,96,Charlotte Hornets,-3,13,16,Close Game,0
+202002280MEM,Sacramento Kings,104,Memphis Grizzlies,101,Sacramento Kings,-3,6,9,Close Game,0
+202002280MIA,Dallas Mavericks,118,Miami Heat,126,Miami Heat,8,7,1,Close Game,1
+202002280MIL,Oklahoma City Thunder,86,Milwaukee Bucks,133,Milwaukee Bucks,47,9,38,Blowout Game,1
+202002280NOP,Cleveland Cavaliers,104,New Orleans Pelicans,116,New Orleans Pelicans,12,6,6,Average Game,1
+202002280PHO,Detroit Pistons,113,Phoenix Suns,111,Detroit Pistons,-2,4,6,Close Game,0
+202002280UTA,Washington Wizards,119,Utah Jazz,129,Utah Jazz,10,9,1,Average Game,1
+202002280LAC,Denver Nuggets,103,Los Angeles Clippers,132,Los Angeles Clippers,29,4,25,Blowout Game,1
+202002290NYK,Chicago Bulls,115,New York Knicks,125,New York Knicks,10,6,4,Average Game,1
+202002290ATL,Portland Trail Blazers,117,Atlanta Hawks,129,Atlanta Hawks,12,-5,17,Average Game,0
+202002290MIA,Brooklyn Nets,113,Miami Heat,116,Miami Heat,3,8,5,Close Game,1
+202002290CLE,Indiana Pacers,113,Cleveland Cavaliers,104,Indiana Pacers,-9,-8,1,Close Game,1
+202002290MEM,Los Angeles Lakers,88,Memphis Grizzlies,105,Memphis Grizzlies,17,-2,19,Average Game,0
+202002290BOS,Houston Rockets,111,Boston Celtics,110,Houston Rockets,-1,9,10,Close Game,0
+202002290SAS,Orlando Magic,113,San Antonio Spurs,114,San Antonio Spurs,1,7,6,Close Game,1
+202002290PHO,Golden State Warriors,115,Phoenix Suns,99,Golden State Warriors,-16,6,22,Average Game,0
+202003010CHO,Milwaukee Bucks,93,Charlotte Hornets,85,Milwaukee Bucks,-8,-13,5,Close Game,1
+202003010LAC,Philadelphia 76ers,130,Los Angeles Clippers,136,Los Angeles Clippers,6,7,1,Close Game,1
+202003010MIN,Dallas Mavericks,111,Minnesota Timberwolves,91,Dallas Mavericks,-20,-6,14,Average Game,1
+202003010DEN,Toronto Raptors,118,Denver Nuggets,133,Denver Nuggets,15,1,14,Average Game,1
+202003010SAC,Detroit Pistons,100,Sacramento Kings,106,Sacramento Kings,6,4,2,Close Game,1
+202003010NOP,Los Angeles Lakers,122,New Orleans Pelicans,114,Los Angeles Lakers,-8,-6,2,Close Game,1
+202003010GSW,Washington Wizards,124,Golden State Warriors,110,Washington Wizards,-14,-0,14,Average Game,0
+202003020CLE,Utah Jazz,126,Cleveland Cavaliers,113,Utah Jazz,-13,-5,8,Average Game,1
+202003020NYK,Houston Rockets,123,New York Knicks,125,New York Knicks,2,4,2,Close Game,1
+202003020ORL,Portland Trail Blazers,130,Orlando Magic,107,Portland Trail Blazers,-23,-2,21,Average Game,1
+202003020ATL,Memphis Grizzlies,127,Atlanta Hawks,88,Memphis Grizzlies,-39,-8,31,Blowout Game,1
+202003020MIA,Milwaukee Bucks,89,Miami Heat,105,Miami Heat,16,-3,19,Average Game,0
+202003020CHI,Dallas Mavericks,107,Chicago Bulls,109,Chicago Bulls,2,-3,5,Close Game,0
+202003020SAS,Indiana Pacers,116,San Antonio Spurs,111,Indiana Pacers,-5,-1,4,Close Game,1
+202003030CHO,San Antonio Spurs,104,Charlotte Hornets,103,San Antonio Spurs,-1,-5,4,Close Game,1
+202003030BOS,Brooklyn Nets,129,Boston Celtics,120,Brooklyn Nets,-9,7,16,Close Game,0
+202003030NOP,Minnesota Timberwolves,139,New Orleans Pelicans,134,Minnesota Timberwolves,-5,9,14,Close Game,0
+202003030OKC,Los Angeles Clippers,109,Oklahoma City Thunder,94,Los Angeles Clippers,-15,0,15,Average Game,0
+202003030DEN,Golden State Warriors,116,Denver Nuggets,100,Golden State Warriors,-16,11,27,Average Game,0
+202003030PHO,Toronto Raptors,123,Phoenix Suns,114,Toronto Raptors,-9,-4,5,Close Game,1
+202003030LAL,Philadelphia 76ers,107,Los Angeles Lakers,120,Los Angeles Lakers,13,9,4,Average Game,1
+202003030SAC,Washington Wizards,126,Sacramento Kings,133,Sacramento Kings,7,5,2,Close Game,1
+202003040CLE,Boston Celtics,112,Cleveland Cavaliers,106,Boston Celtics,-6,-6,0,Close Game,1
+202003040DET,Oklahoma City Thunder,114,Detroit Pistons,107,Oklahoma City Thunder,-7,-4,3,Close Game,1
+202003040MIL,Indiana Pacers,100,Milwaukee Bucks,119,Milwaukee Bucks,19,6,13,Average Game,1
+202003040BRK,Memphis Grizzlies,118,Brooklyn Nets,79,Memphis Grizzlies,-39,-2,37,Blowout Game,1
+202003040NYK,Utah Jazz,112,New York Knicks,104,Utah Jazz,-8,-2,6,Close Game,1
+202003040MIA,Orlando Magic,113,Miami Heat,116,Miami Heat,3,10,7,Close Game,1
+202003040MIN,Chicago Bulls,108,Minnesota Timberwolves,115,Minnesota Timberwolves,7,-0,7,Close Game,0
+202003040DAL,New Orleans Pelicans,123,Dallas Mavericks,127,Dallas Mavericks,4,3,1,Close Game,1
+202003040POR,Washington Wizards,104,Portland Trail Blazers,125,Portland Trail Blazers,21,6,15,Average Game,1
+202003050CHO,Denver Nuggets,114,Charlotte Hornets,112,Denver Nuggets,-2,-6,4,Close Game,1
+202003050HOU,Los Angeles Clippers,120,Houston Rockets,105,Los Angeles Clippers,-15,-6,9,Average Game,1
+202003050SAC,Philadelphia 76ers,125,Sacramento Kings,108,Philadelphia 76ers,-17,1,18,Average Game,0
+202003050GSW,Toronto Raptors,121,Golden State Warriors,113,Toronto Raptors,-8,-8,0,Close Game,1
+202003060WAS,Atlanta Hawks,112,Washington Wizards,118,Washington Wizards,6,5,1,Close Game,1
+202003060BRK,San Antonio Spurs,120,Brooklyn Nets,139,Brooklyn Nets,19,-1,20,Average Game,0
+202003060NYK,Oklahoma City Thunder,126,New York Knicks,103,Oklahoma City Thunder,-23,-2,21,Average Game,1
+202003060CHI,Indiana Pacers,108,Chicago Bulls,102,Indiana Pacers,-6,-8,2,Close Game,1
+202003060MIN,Orlando Magic,132,Minnesota Timberwolves,118,Orlando Magic,-14,-2,12,Average Game,1
+202003060NOP,Miami Heat,104,New Orleans Pelicans,110,New Orleans Pelicans,6,-4,10,Close Game,0
+202003060BOS,Utah Jazz,99,Boston Celtics,94,Utah Jazz,-5,3,8,Close Game,0
+202003060DAL,Memphis Grizzlies,96,Dallas Mavericks,121,Dallas Mavericks,25,-1,26,Blowout Game,0
+202003060PHO,Portland Trail Blazers,117,Phoenix Suns,127,Phoenix Suns,10,0,10,Average Game,0
+202003060LAL,Milwaukee Bucks,103,Los Angeles Lakers,113,Los Angeles Lakers,10,-1,11,Average Game,0
+202003070CHO,Houston Rockets,99,Charlotte Hornets,108,Charlotte Hornets,9,-1,10,Close Game,0
+202003070DET,Utah Jazz,111,Detroit Pistons,105,Utah Jazz,-6,-4,2,Close Game,1
+202003070CLE,Denver Nuggets,102,Cleveland Cavaliers,104,Cleveland Cavaliers,2,-6,8,Close Game,0
+202003070MEM,Atlanta Hawks,101,Memphis Grizzlies,118,Memphis Grizzlies,17,12,5,Average Game,1
+202003070GSW,Philadelphia 76ers,114,Golden State Warriors,118,Golden State Warriors,4,-4,8,Close Game,0
+202003070POR,Sacramento Kings,123,Portland Trail Blazers,111,Sacramento Kings,-12,4,16,Average Game,0
+202003080BRK,Chicago Bulls,107,Brooklyn Nets,110,Brooklyn Nets,3,7,4,Close Game,1
+202003080MIN,New Orleans Pelicans,120,Minnesota Timberwolves,107,New Orleans Pelicans,-13,-5,8,Average Game,1
+202003080LAC,Los Angeles Lakers,112,Los Angeles Clippers,103,Los Angeles Lakers,-9,1,10,Close Game,0
+202003080BOS,Oklahoma City Thunder,105,Boston Celtics,104,Oklahoma City Thunder,-1,3,4,Close Game,0
+202003080PHO,Milwaukee Bucks,131,Phoenix Suns,140,Phoenix Suns,9,-9,18,Close Game,0
+202003080WAS,Miami Heat,100,Washington Wizards,89,Miami Heat,-11,-6,5,Average Game,1
+202003080DAL,Indiana Pacers,112,Dallas Mavericks,109,Indiana Pacers,-3,-3,0,Close Game,1
+202003080HOU,Orlando Magic,126,Houston Rockets,106,Orlando Magic,-20,2,22,Average Game,0
+202003080NYK,Detroit Pistons,84,New York Knicks,96,New York Knicks,12,4,8,Average Game,1
+202003080CLE,San Antonio Spurs,129,Cleveland Cavaliers,132,Cleveland Cavaliers,3,-5,8,Close Game,0
+202003080SAC,Toronto Raptors,118,Sacramento Kings,113,Toronto Raptors,-5,-4,1,Close Game,1
+202003090ATL,Charlotte Hornets,138,Atlanta Hawks,143,Atlanta Hawks,5,2,3,Close Game,1
+202003090DEN,Milwaukee Bucks,95,Denver Nuggets,109,Denver Nuggets,14,-4,18,Average Game,0
+202003090UTA,Toronto Raptors,101,Utah Jazz,92,Toronto Raptors,-9,0,9,Close Game,0
+202003100WAS,New York Knicks,115,Washington Wizards,122,Washington Wizards,7,0,7,Close Game,0
+202003100IND,Boston Celtics,114,Indiana Pacers,111,Boston Celtics,-3,4,7,Close Game,0
+202003100HOU,Minnesota Timberwolves,111,Houston Rockets,117,Houston Rockets,6,7,1,Close Game,1
+202003100SAS,Dallas Mavericks,109,San Antonio Spurs,119,San Antonio Spurs,10,4,6,Average Game,1
+202003100MEM,Orlando Magic,120,Memphis Grizzlies,115,Orlando Magic,-5,8,13,Close Game,0
+202003100CHI,Cleveland Cavaliers,103,Chicago Bulls,108,Chicago Bulls,5,2,3,Close Game,1
+202003100POR,Phoenix Suns,105,Portland Trail Blazers,121,Portland Trail Blazers,16,4,12,Average Game,1
+202003100LAL,Brooklyn Nets,104,Los Angeles Lakers,102,Brooklyn Nets,-2,10,12,Close Game,0
+202003100GSW,Los Angeles Clippers,131,Golden State Warriors,107,Los Angeles Clippers,-24,-9,15,Blowout Game,1
+202003110PHI,Detroit Pistons,106,Philadelphia 76ers,124,Philadelphia 76ers,18,6,12,Average Game,1
+202003110ATL,New York Knicks,136,Atlanta Hawks,131,New York Knicks,-5,-3,2,Close Game,1
+202003110MIA,Charlotte Hornets,109,Miami Heat,98,Charlotte Hornets,-11,12,23,Average Game,0
+202003110DAL,Denver Nuggets,97,Dallas Mavericks,113,Dallas Mavericks,16,-1,17,Average Game,0

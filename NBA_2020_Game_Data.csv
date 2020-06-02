@@ -1,0 +1,972 @@
+game_id,date_game,game_start_time,visitor_team_name,visitor_pts,home_team_name,home_pts,overtimes,attendance,game_remarks,game_type,winner,loser
+201910220TOR,2019-10-22,8:00p,New Orleans Pelicans,122,Toronto Raptors,130,OT,20787,,Regular,Toronto Raptors,New Orleans Pelicans
+201910220LAC,2019-10-22,10:30p,Los Angeles Lakers,102,Los Angeles Clippers,112,,19068,,Regular,Los Angeles Clippers,Los Angeles Lakers
+201910230CHO,2019-10-23,7:00p,Chicago Bulls,125,Charlotte Hornets,126,,15424,,Regular,Charlotte Hornets,Chicago Bulls
+201910230IND,2019-10-23,7:00p,Detroit Pistons,119,Indiana Pacers,110,,17923,,Regular,Detroit Pistons,Indiana Pacers
+201910230ORL,2019-10-23,7:00p,Cleveland Cavaliers,85,Orlando Magic,94,,18846,,Regular,Orlando Magic,Cleveland Cavaliers
+201910230BRK,2019-10-23,7:30p,Minnesota Timberwolves,127,Brooklyn Nets,126,OT,17732,,Regular,Minnesota Timberwolves,Brooklyn Nets
+201910230MIA,2019-10-23,7:30p,Memphis Grizzlies,101,Miami Heat,120,,19600,,Regular,Miami Heat,Memphis Grizzlies
+201910230PHI,2019-10-23,7:30p,Boston Celtics,93,Philadelphia 76ers,107,,20422,,Regular,Philadelphia 76ers,Boston Celtics
+201910230DAL,2019-10-23,8:30p,Washington Wizards,100,Dallas Mavericks,108,,19816,,Regular,Dallas Mavericks,Washington Wizards
+201910230SAS,2019-10-23,8:30p,New York Knicks,111,San Antonio Spurs,120,,18354,,Regular,San Antonio Spurs,New York Knicks
+201910230UTA,2019-10-23,9:00p,Oklahoma City Thunder,95,Utah Jazz,100,,18306,,Regular,Utah Jazz,Oklahoma City Thunder
+201910230PHO,2019-10-23,10:00p,Sacramento Kings,95,Phoenix Suns,124,,18055,,Regular,Phoenix Suns,Sacramento Kings
+201910230POR,2019-10-23,10:00p,Denver Nuggets,108,Portland Trail Blazers,100,,19991,,Regular,Denver Nuggets,Portland Trail Blazers
+201910240DET,2019-10-24,7:00p,Atlanta Hawks,117,Detroit Pistons,100,,20338,,Regular,Atlanta Hawks,Detroit Pistons
+201910240HOU,2019-10-24,8:00p,Milwaukee Bucks,117,Houston Rockets,111,,18055,,Regular,Milwaukee Bucks,Houston Rockets
+201910240GSW,2019-10-24,10:30p,Los Angeles Clippers,141,Golden State Warriors,122,,18064,,Regular,Los Angeles Clippers,Golden State Warriors
+201910250BOS,2019-10-25,7:00p,Toronto Raptors,106,Boston Celtics,112,,18624,,Regular,Boston Celtics,Toronto Raptors
+201910250CHO,2019-10-25,7:00p,Minnesota Timberwolves,121,Charlotte Hornets,99,,14879,,Regular,Minnesota Timberwolves,Charlotte Hornets
+201910250BRK,2019-10-25,7:30p,New York Knicks,109,Brooklyn Nets,113,,17732,,Regular,Brooklyn Nets,New York Knicks
+201910250MEM,2019-10-25,8:00p,Chicago Bulls,110,Memphis Grizzlies,102,,17794,,Regular,Chicago Bulls,Memphis Grizzlies
+201910250NOP,2019-10-25,8:00p,Dallas Mavericks,123,New Orleans Pelicans,116,,17027,,Regular,Dallas Mavericks,New Orleans Pelicans
+201910250OKC,2019-10-25,8:00p,Washington Wizards,97,Oklahoma City Thunder,85,,18203,,Regular,Washington Wizards,Oklahoma City Thunder
+201910250DEN,2019-10-25,9:00p,Phoenix Suns,107,Denver Nuggets,108,OT,19557,,Regular,Denver Nuggets,Phoenix Suns
+201910250SAC,2019-10-25,10:00p,Portland Trail Blazers,122,Sacramento Kings,112,,17583,,Regular,Portland Trail Blazers,Sacramento Kings
+201910250LAL,2019-10-25,10:30p,Utah Jazz,86,Los Angeles Lakers,95,,18997,,Regular,Los Angeles Lakers,Utah Jazz
+201910260MIL,2019-10-26,5:00p,Miami Heat,131,Milwaukee Bucks,126,OT,17467,,Regular,Miami Heat,Milwaukee Bucks
+201910260DET,2019-10-26,7:00p,Philadelphia 76ers,117,Detroit Pistons,111,,16207,,Regular,Philadelphia 76ers,Detroit Pistons
+201910260ATL,2019-10-26,7:30p,Orlando Magic,99,Atlanta Hawks,103,,17078,,Regular,Atlanta Hawks,Orlando Magic
+201910260NYK,2019-10-26,7:30p,Boston Celtics,118,New York Knicks,95,,19812,,Regular,Boston Celtics,New York Knicks
+201910260CHI,2019-10-26,8:00p,Toronto Raptors,108,Chicago Bulls,84,,21498,,Regular,Toronto Raptors,Chicago Bulls
+201910260CLE,2019-10-26,8:00p,Indiana Pacers,99,Cleveland Cavaliers,110,,19432,,Regular,Cleveland Cavaliers,Indiana Pacers
+201910260HOU,2019-10-26,8:00p,New Orleans Pelicans,123,Houston Rockets,126,,18055,,Regular,Houston Rockets,New Orleans Pelicans
+201910260SAS,2019-10-26,8:30p,Washington Wizards,122,San Antonio Spurs,124,,18354,,Regular,San Antonio Spurs,Washington Wizards
+201910260UTA,2019-10-26,9:00p,Sacramento Kings,81,Utah Jazz,113,,18306,,Regular,Utah Jazz,Sacramento Kings
+201910260PHO,2019-10-26,10:00p,Los Angeles Clippers,122,Phoenix Suns,130,,15802,,Regular,Phoenix Suns,Los Angeles Clippers
+201910270OKC,2019-10-27,3:30p,Golden State Warriors,92,Oklahoma City Thunder,120,,18203,,Regular,Oklahoma City Thunder,Golden State Warriors
+201910270MEM,2019-10-27,6:00p,Brooklyn Nets,133,Memphis Grizzlies,134,OT,15517,,Regular,Memphis Grizzlies,Brooklyn Nets
+201910270DAL,2019-10-27,7:00p,Portland Trail Blazers,121,Dallas Mavericks,119,,19707,,Regular,Portland Trail Blazers,Dallas Mavericks
+201910270MIN,2019-10-27,7:00p,Miami Heat,109,Minnesota Timberwolves,116,,17049,,Regular,Minnesota Timberwolves,Miami Heat
+201910270LAL,2019-10-27,9:30p,Charlotte Hornets,101,Los Angeles Lakers,120,,18997,,Regular,Los Angeles Lakers,Charlotte Hornets
+201910280NYK,2019-10-28,7:00p,Chicago Bulls,98,New York Knicks,105,,19812,,Regular,New York Knicks,Chicago Bulls
+201910280DET,2019-10-28,7:00p,Indiana Pacers,94,Detroit Pistons,96,,13565,,Regular,Detroit Pistons,Indiana Pacers
+201910280TOR,2019-10-28,7:30p,Orlando Magic,95,Toronto Raptors,104,,19800,,Regular,Toronto Raptors,Orlando Magic
+201910280ATL,2019-10-28,7:30p,Philadelphia 76ers,105,Atlanta Hawks,103,,14094,,Regular,Philadelphia 76ers,Atlanta Hawks
+201910280HOU,2019-10-28,8:00p,Oklahoma City Thunder,112,Houston Rockets,116,,18055,,Regular,Houston Rockets,Oklahoma City Thunder
+201910280MIL,2019-10-28,8:00p,Cleveland Cavaliers,112,Milwaukee Bucks,129,,17385,,Regular,Milwaukee Bucks,Cleveland Cavaliers
+201910280NOP,2019-10-28,8:00p,Golden State Warriors,134,New Orleans Pelicans,123,,17307,,Regular,Golden State Warriors,New Orleans Pelicans
+201910280SAS,2019-10-28,8:30p,Portland Trail Blazers,110,San Antonio Spurs,113,,18083,,Regular,San Antonio Spurs,Portland Trail Blazers
+201910280PHO,2019-10-28,10:00p,Utah Jazz,96,Phoenix Suns,95,,14805,,Regular,Utah Jazz,Phoenix Suns
+201910280SAC,2019-10-28,10:00p,Denver Nuggets,101,Sacramento Kings,94,,15870,,Regular,Denver Nuggets,Sacramento Kings
+201910280LAC,2019-10-28,10:30p,Charlotte Hornets,96,Los Angeles Clippers,111,,19068,,Regular,Los Angeles Clippers,Charlotte Hornets
+201910290MIA,2019-10-29,7:30p,Atlanta Hawks,97,Miami Heat,112,,19600,,Regular,Miami Heat,Atlanta Hawks
+201910290DEN,2019-10-29,9:00p,Dallas Mavericks,109,Denver Nuggets,106,,16605,,Regular,Dallas Mavericks,Denver Nuggets
+201910290LAL,2019-10-29,10:30p,Memphis Grizzlies,91,Los Angeles Lakers,120,,18997,,Regular,Los Angeles Lakers,Memphis Grizzlies
+201910300CLE,2019-10-30,7:00p,Chicago Bulls,111,Cleveland Cavaliers,117,,17595,,Regular,Cleveland Cavaliers,Chicago Bulls
+201910300ORL,2019-10-30,7:00p,New York Knicks,83,Orlando Magic,95,,17456,,Regular,Orlando Magic,New York Knicks
+201910300PHI,2019-10-30,7:00p,Minnesota Timberwolves,95,Philadelphia 76ers,117,,20204,,Regular,Philadelphia 76ers,Minnesota Timberwolves
+201910300BOS,2019-10-30,7:30p,Milwaukee Bucks,105,Boston Celtics,116,,18624,,Regular,Boston Celtics,Milwaukee Bucks
+201910300BRK,2019-10-30,7:30p,Indiana Pacers,118,Brooklyn Nets,108,,17083,,Regular,Indiana Pacers,Brooklyn Nets
+201910300TOR,2019-10-30,7:30p,Detroit Pistons,113,Toronto Raptors,125,,19800,,Regular,Toronto Raptors,Detroit Pistons
+201910300OKC,2019-10-30,8:00p,Portland Trail Blazers,102,Oklahoma City Thunder,99,,18203,,Regular,Portland Trail Blazers,Oklahoma City Thunder
+201910300WAS,2019-10-30,8:00p,Houston Rockets,159,Washington Wizards,158,,20476,,Regular,Houston Rockets,Washington Wizards
+201910300SAC,2019-10-30,10:00p,Charlotte Hornets,118,Sacramento Kings,111,,15416,,Regular,Charlotte Hornets,Sacramento Kings
+201910300UTA,2019-10-30,10:00p,Los Angeles Clippers,96,Utah Jazz,110,,18306,,Regular,Utah Jazz,Los Angeles Clippers
+201910300GSW,2019-10-30,10:30p,Phoenix Suns,121,Golden State Warriors,110,,18064,,Regular,Phoenix Suns,Golden State Warriors
+201910310ATL,2019-10-31,7:00p,Miami Heat,106,Atlanta Hawks,97,,16539,,Regular,Miami Heat,Atlanta Hawks
+201910310NOP,2019-10-31,9:30p,Denver Nuggets,107,New Orleans Pelicans,122,,16613,,Regular,New Orleans Pelicans,Denver Nuggets
+201910310LAC,2019-10-31,10:30p,San Antonio Spurs,97,Los Angeles Clippers,103,,19068,,Regular,Los Angeles Clippers,San Antonio Spurs
+201911010BRK,2019-11-01,7:00p,Houston Rockets,116,Brooklyn Nets,123,,17732,,Regular,Brooklyn Nets,Houston Rockets
+201911010IND,2019-11-01,7:00p,Cleveland Cavaliers,95,Indiana Pacers,102,,16079,,Regular,Indiana Pacers,Cleveland Cavaliers
+201911010ORL,2019-11-01,7:00p,Milwaukee Bucks,123,Orlando Magic,91,,15105,,Regular,Milwaukee Bucks,Orlando Magic
+201911010BOS,2019-11-01,7:30p,New York Knicks,102,Boston Celtics,104,,18624,,Regular,Boston Celtics,New York Knicks
+201911010CHI,2019-11-01,8:00p,Detroit Pistons,106,Chicago Bulls,112,,20671,,Regular,Chicago Bulls,Detroit Pistons
+201911010DAL,2019-11-01,9:30p,Los Angeles Lakers,119,Dallas Mavericks,110,OT,20358,,Regular,Los Angeles Lakers,Dallas Mavericks
+201911010SAC,2019-11-01,10:00p,Utah Jazz,101,Sacramento Kings,102,,16273,,Regular,Sacramento Kings,Utah Jazz
+201911010GSW,2019-11-01,10:30p,San Antonio Spurs,127,Golden State Warriors,110,,18064,,Regular,San Antonio Spurs,Golden State Warriors
+201911020OKC,2019-11-02,5:00p,New Orleans Pelicans,104,Oklahoma City Thunder,115,,18203,,Regular,Oklahoma City Thunder,New Orleans Pelicans
+201911020DET,2019-11-02,7:00p,Brooklyn Nets,109,Detroit Pistons,113,,17222,,Regular,Detroit Pistons,Brooklyn Nets
+201911020ORL,2019-11-02,7:00p,Denver Nuggets,91,Orlando Magic,87,,17025,,Regular,Denver Nuggets,Orlando Magic
+201911020MEM,2019-11-02,8:00p,Phoenix Suns,114,Memphis Grizzlies,105,,14144,,Regular,Phoenix Suns,Memphis Grizzlies
+201911020MIL,2019-11-02,8:00p,Toronto Raptors,105,Milwaukee Bucks,115,,17637,,Regular,Milwaukee Bucks,Toronto Raptors
+201911020WAS,2019-11-02,8:00p,Minnesota Timberwolves,131,Washington Wizards,109,,15150,,Regular,Minnesota Timberwolves,Washington Wizards
+201911020GSW,2019-11-02,8:30p,Charlotte Hornets,93,Golden State Warriors,87,,18064,,Regular,Charlotte Hornets,Golden State Warriors
+201911020POR,2019-11-02,10:00p,Philadelphia 76ers,129,Portland Trail Blazers,128,,19669,,Regular,Philadelphia 76ers,Portland Trail Blazers
+201911030IND,2019-11-03,5:00p,Chicago Bulls,95,Indiana Pacers,108,,17073,,Regular,Indiana Pacers,Chicago Bulls
+201911030MIA,2019-11-03,6:00p,Houston Rockets,100,Miami Heat,129,,19724,,Regular,Miami Heat,Houston Rockets
+201911030NYK,2019-11-03,6:00p,Sacramento Kings,113,New York Knicks,92,,19812,,Regular,Sacramento Kings,New York Knicks
+201911030SAS,2019-11-03,7:00p,Los Angeles Lakers,103,San Antonio Spurs,96,,18610,,Regular,Los Angeles Lakers,San Antonio Spurs
+201911030CLE,2019-11-03,7:30p,Dallas Mavericks,131,Cleveland Cavaliers,111,,18078,,Regular,Dallas Mavericks,Cleveland Cavaliers
+201911030LAC,2019-11-03,9:00p,Utah Jazz,94,Los Angeles Clippers,105,,19068,,Regular,Los Angeles Clippers,Utah Jazz
+201911040WAS,2019-11-04,7:00p,Detroit Pistons,99,Washington Wizards,115,,13052,,Regular,Washington Wizards,Detroit Pistons
+201911040BRK,2019-11-04,7:30p,New Orleans Pelicans,125,Brooklyn Nets,135,,17194,,Regular,Brooklyn Nets,New Orleans Pelicans
+201911040MEM,2019-11-04,8:00p,Houston Rockets,107,Memphis Grizzlies,100,,14197,,Regular,Houston Rockets,Memphis Grizzlies
+201911040MIN,2019-11-04,8:00p,Milwaukee Bucks,134,Minnesota Timberwolves,106,,16271,,Regular,Milwaukee Bucks,Minnesota Timberwolves
+201911040PHO,2019-11-04,9:00p,Philadelphia 76ers,109,Phoenix Suns,114,,14285,,Regular,Phoenix Suns,Philadelphia 76ers
+201911040GSW,2019-11-04,10:30p,Portland Trail Blazers,118,Golden State Warriors,127,,18064,,Regular,Golden State Warriors,Portland Trail Blazers
+201911050CHO,2019-11-05,7:00p,Indiana Pacers,120,Charlotte Hornets,122,OT,13341,,Regular,Charlotte Hornets,Indiana Pacers
+201911050CLE,2019-11-05,7:00p,Boston Celtics,119,Cleveland Cavaliers,113,,17709,,Regular,Boston Celtics,Cleveland Cavaliers
+201911050ATL,2019-11-05,7:30p,San Antonio Spurs,100,Atlanta Hawks,108,,14025,,Regular,Atlanta Hawks,San Antonio Spurs
+201911050CHI,2019-11-05,8:00p,Los Angeles Lakers,118,Chicago Bulls,112,,21193,,Regular,Los Angeles Lakers,Chicago Bulls
+201911050OKC,2019-11-05,8:00p,Orlando Magic,94,Oklahoma City Thunder,102,,18203,,Regular,Oklahoma City Thunder,Orlando Magic
+201911050DEN,2019-11-05,9:00p,Miami Heat,89,Denver Nuggets,109,,18010,,Regular,Denver Nuggets,Miami Heat
+201911060DET,2019-11-06,7:00p,New York Knicks,102,Detroit Pistons,122,,15463,,Regular,Detroit Pistons,New York Knicks
+201911060IND,2019-11-06,7:00p,Washington Wizards,106,Indiana Pacers,121,,16171,,Regular,Indiana Pacers,Washington Wizards
+201911060ATL,2019-11-06,7:30p,Chicago Bulls,113,Atlanta Hawks,93,,15049,,Regular,Chicago Bulls,Atlanta Hawks
+201911060HOU,2019-11-06,7:30p,Golden State Warriors,112,Houston Rockets,129,,18055,,Regular,Houston Rockets,Golden State Warriors
+201911060TOR,2019-11-06,7:30p,Sacramento Kings,120,Toronto Raptors,124,,19800,,Regular,Toronto Raptors,Sacramento Kings
+201911060MEM,2019-11-06,8:00p,Minnesota Timberwolves,121,Memphis Grizzlies,137,,13503,,Regular,Memphis Grizzlies,Minnesota Timberwolves
+201911060DAL,2019-11-06,8:30p,Orlando Magic,106,Dallas Mavericks,107,,19487,,Regular,Dallas Mavericks,Orlando Magic
+201911060UTA,2019-11-06,9:00p,Philadelphia 76ers,104,Utah Jazz,106,,18306,,Regular,Utah Jazz,Philadelphia 76ers
+201911060LAC,2019-11-06,10:00p,Milwaukee Bucks,129,Los Angeles Clippers,124,,19068,,Regular,Milwaukee Bucks,Los Angeles Clippers
+201911070CHO,2019-11-07,8:00p,Boston Celtics,108,Charlotte Hornets,87,,18487,,Regular,Boston Celtics,Charlotte Hornets
+201911070SAS,2019-11-07,8:30p,Oklahoma City Thunder,112,San Antonio Spurs,121,,18354,,Regular,San Antonio Spurs,Oklahoma City Thunder
+201911070PHO,2019-11-07,9:00p,Miami Heat,124,Phoenix Suns,108,,15498,,Regular,Miami Heat,Phoenix Suns
+201911070LAC,2019-11-07,10:30p,Portland Trail Blazers,101,Los Angeles Clippers,107,,19068,,Regular,Los Angeles Clippers,Portland Trail Blazers
+201911080IND,2019-11-08,7:00p,Detroit Pistons,106,Indiana Pacers,112,,15544,,Regular,Indiana Pacers,Detroit Pistons
+201911080ORL,2019-11-08,7:00p,Memphis Grizzlies,86,Orlando Magic,118,,17021,,Regular,Orlando Magic,Memphis Grizzlies
+201911080WAS,2019-11-08,7:00p,Cleveland Cavaliers,113,Washington Wizards,100,,16946,,Regular,Cleveland Cavaliers,Washington Wizards
+201911080ATL,2019-11-08,7:30p,Sacramento Kings,121,Atlanta Hawks,109,,16447,,Regular,Sacramento Kings,Atlanta Hawks
+201911080MIN,2019-11-08,8:00p,Golden State Warriors,119,Minnesota Timberwolves,125,OT,15647,,Regular,Minnesota Timberwolves,Golden State Warriors
+201911080NOP,2019-11-08,8:00p,Toronto Raptors,122,New Orleans Pelicans,104,,16337,,Regular,Toronto Raptors,New Orleans Pelicans
+201911080DAL,2019-11-08,8:30p,New York Knicks,106,Dallas Mavericks,102,,20257,,Regular,New York Knicks,Dallas Mavericks
+201911080DEN,2019-11-08,9:00p,Philadelphia 76ers,97,Denver Nuggets,100,,19520,,Regular,Denver Nuggets,Philadelphia 76ers
+201911080UTA,2019-11-08,9:00p,Milwaukee Bucks,100,Utah Jazz,103,,18306,,Regular,Utah Jazz,Milwaukee Bucks
+201911080POR,2019-11-08,10:00p,Brooklyn Nets,119,Portland Trail Blazers,115,,20089,,Regular,Brooklyn Nets,Portland Trail Blazers
+201911080LAL,2019-11-08,10:30p,Miami Heat,80,Los Angeles Lakers,95,,18997,,Regular,Los Angeles Lakers,Miami Heat
+201911090SAS,2019-11-09,5:00p,Boston Celtics,135,San Antonio Spurs,115,,18354,,Regular,Boston Celtics,San Antonio Spurs
+201911090CHO,2019-11-09,7:00p,New Orleans Pelicans,115,Charlotte Hornets,110,,18513,,Regular,New Orleans Pelicans,Charlotte Hornets
+201911090CHI,2019-11-09,8:00p,Houston Rockets,117,Chicago Bulls,94,,20482,,Regular,Houston Rockets,Chicago Bulls
+201911090MEM,2019-11-09,8:00p,Dallas Mavericks,138,Memphis Grizzlies,122,,15753,,Regular,Dallas Mavericks,Memphis Grizzlies
+201911090OKC,2019-11-09,8:00p,Golden State Warriors,108,Oklahoma City Thunder,114,,18203,,Regular,Oklahoma City Thunder,Golden State Warriors
+201911100MIN,2019-11-10,3:30p,Denver Nuggets,100,Minnesota Timberwolves,98,OT,13553,,Regular,Denver Nuggets,Minnesota Timberwolves
+201911100ORL,2019-11-10,6:00p,Indiana Pacers,109,Orlando Magic,102,,17118,,Regular,Indiana Pacers,Orlando Magic
+201911100PHI,2019-11-10,6:00p,Charlotte Hornets,106,Philadelphia 76ers,114,,20311,,Regular,Philadelphia 76ers,Charlotte Hornets
+201911100OKC,2019-11-10,7:00p,Milwaukee Bucks,121,Oklahoma City Thunder,119,,18203,,Regular,Milwaukee Bucks,Oklahoma City Thunder
+201911100NYK,2019-11-10,7:30p,Cleveland Cavaliers,108,New York Knicks,87,,19812,,Regular,Cleveland Cavaliers,New York Knicks
+201911100PHO,2019-11-10,8:00p,Brooklyn Nets,112,Phoenix Suns,138,,17290,,Regular,Phoenix Suns,Brooklyn Nets
+201911100POR,2019-11-10,9:00p,Atlanta Hawks,113,Portland Trail Blazers,124,OT,20041,,Regular,Portland Trail Blazers,Atlanta Hawks
+201911100LAL,2019-11-10,9:30p,Toronto Raptors,113,Los Angeles Lakers,104,,18997,,Regular,Toronto Raptors,Los Angeles Lakers
+201911110DET,2019-11-11,7:00p,Minnesota Timberwolves,120,Detroit Pistons,114,,12526,,Regular,Minnesota Timberwolves,Detroit Pistons
+201911110BOS,2019-11-11,7:30p,Dallas Mavericks,106,Boston Celtics,116,,18624,,Regular,Boston Celtics,Dallas Mavericks
+201911110SAS,2019-11-11,7:30p,Memphis Grizzlies,113,San Antonio Spurs,109,,18627,,Regular,Memphis Grizzlies,San Antonio Spurs
+201911110NOP,2019-11-11,8:00p,Houston Rockets,122,New Orleans Pelicans,116,,16695,,Regular,Houston Rockets,New Orleans Pelicans
+201911110GSW,2019-11-11,10:30p,Utah Jazz,122,Golden State Warriors,108,,18064,,Regular,Utah Jazz,Golden State Warriors
+201911110LAC,2019-11-11,10:30p,Toronto Raptors,88,Los Angeles Clippers,98,,19068,,Regular,Los Angeles Clippers,Toronto Raptors
+201911120IND,2019-11-12,7:00p,Oklahoma City Thunder,85,Indiana Pacers,111,,15838,,Regular,Indiana Pacers,Oklahoma City Thunder
+201911120PHI,2019-11-12,7:00p,Cleveland Cavaliers,97,Philadelphia 76ers,98,,20294,,Regular,Philadelphia 76ers,Cleveland Cavaliers
+201911120MIA,2019-11-12,7:30p,Detroit Pistons,108,Miami Heat,117,,19600,,Regular,Miami Heat,Detroit Pistons
+201911120CHI,2019-11-12,8:00p,New York Knicks,102,Chicago Bulls,120,,18668,,Regular,Chicago Bulls,New York Knicks
+201911120DEN,2019-11-12,9:00p,Atlanta Hawks,125,Denver Nuggets,121,,18327,,Regular,Atlanta Hawks,Denver Nuggets
+201911120PHO,2019-11-12,9:00p,Los Angeles Lakers,123,Phoenix Suns,115,,18055,,Regular,Los Angeles Lakers,Phoenix Suns
+201911120UTA,2019-11-12,9:00p,Brooklyn Nets,114,Utah Jazz,119,,18306,,Regular,Utah Jazz,Brooklyn Nets
+201911120SAC,2019-11-12,10:00p,Portland Trail Blazers,99,Sacramento Kings,107,,16358,,Regular,Sacramento Kings,Portland Trail Blazers
+201911130CHO,2019-11-13,7:00p,Memphis Grizzlies,119,Charlotte Hornets,117,,13155,,Regular,Memphis Grizzlies,Charlotte Hornets
+201911130ORL,2019-11-13,7:00p,Philadelphia 76ers,97,Orlando Magic,112,,15113,,Regular,Orlando Magic,Philadelphia 76ers
+201911130BOS,2019-11-13,7:30p,Washington Wizards,133,Boston Celtics,140,,19156,,Regular,Boston Celtics,Washington Wizards
+201911130HOU,2019-11-13,7:30p,Los Angeles Clippers,93,Houston Rockets,102,,18055,,Regular,Houston Rockets,Los Angeles Clippers
+201911130MIN,2019-11-13,8:00p,San Antonio Spurs,114,Minnesota Timberwolves,129,,11581,,Regular,Minnesota Timberwolves,San Antonio Spurs
+201911130LAL,2019-11-13,10:00p,Golden State Warriors,94,Los Angeles Lakers,120,,18997,,Regular,Los Angeles Lakers,Golden State Warriors
+201911130POR,2019-11-13,10:00p,Toronto Raptors,114,Portland Trail Blazers,106,,19544,,Regular,Toronto Raptors,Portland Trail Blazers
+201911140CLE,2019-11-14,6:00p,Miami Heat,108,Cleveland Cavaliers,97,,17374,,Regular,Miami Heat,Cleveland Cavaliers
+201911140MIL,2019-11-14,8:00p,Chicago Bulls,115,Milwaukee Bucks,124,,17627,,Regular,Milwaukee Bucks,Chicago Bulls
+201911140NOP,2019-11-14,8:00p,Los Angeles Clippers,127,New Orleans Pelicans,132,,17147,,Regular,New Orleans Pelicans,Los Angeles Clippers
+201911140NYK,2019-11-14,8:00p,Dallas Mavericks,103,New York Knicks,106,,19812,,Regular,New York Knicks,Dallas Mavericks
+201911140PHO,2019-11-14,9:00p,Atlanta Hawks,112,Phoenix Suns,128,,15143,,Regular,Phoenix Suns,Atlanta Hawks
+201911140DEN,2019-11-14,10:30p,Brooklyn Nets,93,Denver Nuggets,101,,18394,,Regular,Denver Nuggets,Brooklyn Nets
+201911150CHO,2019-11-15,7:00p,Detroit Pistons,106,Charlotte Hornets,109,,16778,,Regular,Charlotte Hornets,Detroit Pistons
+201911150ORL,2019-11-15,7:00p,San Antonio Spurs,109,Orlando Magic,111,,16296,,Regular,Orlando Magic,San Antonio Spurs
+201911150HOU,2019-11-15,8:00p,Indiana Pacers,102,Houston Rockets,111,,18055,,Regular,Houston Rockets,Indiana Pacers
+201911150MEM,2019-11-15,8:00p,Utah Jazz,106,Memphis Grizzlies,107,,16422,,Regular,Memphis Grizzlies,Utah Jazz
+201911150MIN,2019-11-15,8:00p,Washington Wizards,137,Minnesota Timberwolves,116,,12716,,Regular,Washington Wizards,Minnesota Timberwolves
+201911150OKC,2019-11-15,8:00p,Philadelphia 76ers,119,Oklahoma City Thunder,127,OT,18203,,Regular,Oklahoma City Thunder,Philadelphia 76ers
+201911150GSW,2019-11-15,10:30p,Boston Celtics,105,Golden State Warriors,100,,18064,,Regular,Boston Celtics,Golden State Warriors
+201911150LAL,2019-11-15,10:30p,Sacramento Kings,97,Los Angeles Lakers,99,,18997,,Regular,Los Angeles Lakers,Sacramento Kings
+201911160CHI,2019-11-16,6:00p,Brooklyn Nets,117,Chicago Bulls,111,,19148,,Regular,Brooklyn Nets,Chicago Bulls
+201911160IND,2019-11-16,7:00p,Milwaukee Bucks,102,Indiana Pacers,83,,17024,,Regular,Milwaukee Bucks,Indiana Pacers
+201911160NYK,2019-11-16,7:30p,Charlotte Hornets,103,New York Knicks,102,,19401,,Regular,Charlotte Hornets,New York Knicks
+201911160MIA,2019-11-16,8:00p,New Orleans Pelicans,94,Miami Heat,109,,19600,,Regular,Miami Heat,New Orleans Pelicans
+201911160MIN,2019-11-16,8:00p,Houston Rockets,125,Minnesota Timberwolves,105,,18978,,Regular,Houston Rockets,Minnesota Timberwolves
+201911160DAL,2019-11-16,8:30p,Toronto Raptors,102,Dallas Mavericks,110,,19926,,Regular,Dallas Mavericks,Toronto Raptors
+201911160SAS,2019-11-16,8:30p,Portland Trail Blazers,121,San Antonio Spurs,116,,18534,,Regular,Portland Trail Blazers,San Antonio Spurs
+201911160LAC,2019-11-16,10:30p,Atlanta Hawks,101,Los Angeles Clippers,150,,19068,,Regular,Los Angeles Clippers,Atlanta Hawks
+201911170CLE,2019-11-17,3:00p,Philadelphia 76ers,114,Cleveland Cavaliers,95,,19432,,Regular,Philadelphia 76ers,Cleveland Cavaliers
+201911170SAC,2019-11-17,3:30p,Boston Celtics,99,Sacramento Kings,100,,16633,,Regular,Sacramento Kings,Boston Celtics
+201911170MEM,2019-11-17,6:00p,Denver Nuggets,131,Memphis Grizzlies,114,,14227,,Regular,Denver Nuggets,Memphis Grizzlies
+201911170ORL,2019-11-17,6:00p,Washington Wizards,121,Orlando Magic,125,,16344,,Regular,Orlando Magic,Washington Wizards
+201911170NOP,2019-11-17,7:00p,Golden State Warriors,100,New Orleans Pelicans,108,,16812,,Regular,New Orleans Pelicans,Golden State Warriors
+201911170LAL,2019-11-17,9:30p,Atlanta Hawks,101,Los Angeles Lakers,122,,18997,,Regular,Los Angeles Lakers,Atlanta Hawks
+201911180NYK,2019-11-18,7:00p,Cleveland Cavaliers,105,New York Knicks,123,,17097,,Regular,New York Knicks,Cleveland Cavaliers
+201911180BRK,2019-11-18,7:30p,Indiana Pacers,115,Brooklyn Nets,86,,14140,,Regular,Indiana Pacers,Brooklyn Nets
+201911180TOR,2019-11-18,7:30p,Charlotte Hornets,96,Toronto Raptors,132,,19800,,Regular,Toronto Raptors,Charlotte Hornets
+201911180CHI,2019-11-18,8:00p,Milwaukee Bucks,115,Chicago Bulls,101,,17565,,Regular,Milwaukee Bucks,Chicago Bulls
+201911180HOU,2019-11-18,8:00p,Portland Trail Blazers,108,Houston Rockets,132,,18055,,Regular,Houston Rockets,Portland Trail Blazers
+201911180DAL,2019-11-18,8:30p,San Antonio Spurs,110,Dallas Mavericks,117,,19637,,Regular,Dallas Mavericks,San Antonio Spurs
+201911180PHO,2019-11-18,9:00p,Boston Celtics,99,Phoenix Suns,85,,15193,,Regular,Boston Celtics,Phoenix Suns
+201911180UTA,2019-11-18,9:00p,Minnesota Timberwolves,112,Utah Jazz,102,,18306,,Regular,Minnesota Timberwolves,Utah Jazz
+201911180LAC,2019-11-18,10:30p,Oklahoma City Thunder,88,Los Angeles Clippers,90,,19068,,Regular,Los Angeles Clippers,Oklahoma City Thunder
+201911190MEM,2019-11-19,8:00p,Golden State Warriors,114,Memphis Grizzlies,95,,14511,,Regular,Golden State Warriors,Memphis Grizzlies
+201911190NOP,2019-11-19,8:00p,Portland Trail Blazers,104,New Orleans Pelicans,115,,15021,,Regular,New Orleans Pelicans,Portland Trail Blazers
+201911190SAC,2019-11-19,10:00p,Phoenix Suns,116,Sacramento Kings,120,,16732,,Regular,Sacramento Kings,Phoenix Suns
+201911190LAL,2019-11-19,10:30p,Oklahoma City Thunder,107,Los Angeles Lakers,112,,18997,,Regular,Los Angeles Lakers,Oklahoma City Thunder
+201911200PHI,2019-11-20,7:00p,New York Knicks,104,Philadelphia 76ers,109,,20384,,Regular,Philadelphia 76ers,New York Knicks
+201911200WAS,2019-11-20,7:00p,San Antonio Spurs,132,Washington Wizards,138,,14579,,Regular,Washington Wizards,San Antonio Spurs
+201911200ATL,2019-11-20,7:30p,Milwaukee Bucks,135,Atlanta Hawks,127,,16441,,Regular,Milwaukee Bucks,Atlanta Hawks
+201911200BRK,2019-11-20,7:30p,Charlotte Hornets,91,Brooklyn Nets,101,,14011,,Regular,Brooklyn Nets,Charlotte Hornets
+201911200DAL,2019-11-20,7:30p,Golden State Warriors,94,Dallas Mavericks,142,,19569,,Regular,Dallas Mavericks,Golden State Warriors
+201911200MIA,2019-11-20,7:30p,Cleveland Cavaliers,100,Miami Heat,124,,19600,,Regular,Miami Heat,Cleveland Cavaliers
+201911200TOR,2019-11-20,7:30p,Orlando Magic,97,Toronto Raptors,113,,19800,,Regular,Toronto Raptors,Orlando Magic
+201911200CHI,2019-11-20,8:00p,Detroit Pistons,89,Chicago Bulls,109,,18119,,Regular,Chicago Bulls,Detroit Pistons
+201911200MIN,2019-11-20,8:00p,Utah Jazz,103,Minnesota Timberwolves,95,,13177,,Regular,Utah Jazz,Minnesota Timberwolves
+201911200DEN,2019-11-20,9:00p,Houston Rockets,95,Denver Nuggets,105,,17778,,Regular,Denver Nuggets,Houston Rockets
+201911200LAC,2019-11-20,10:00p,Boston Celtics,104,Los Angeles Clippers,107,OT,19068,,Regular,Los Angeles Clippers,Boston Celtics
+201911210MIL,2019-11-21,8:00p,Portland Trail Blazers,129,Milwaukee Bucks,137,,17385,,Regular,Milwaukee Bucks,Portland Trail Blazers
+201911210PHO,2019-11-21,10:30p,New Orleans Pelicans,124,Phoenix Suns,121,,13903,,Regular,New Orleans Pelicans,Phoenix Suns
+201911220DET,2019-11-22,7:00p,Atlanta Hawks,103,Detroit Pistons,128,,15399,,Regular,Detroit Pistons,Atlanta Hawks
+201911220WAS,2019-11-22,7:00p,Charlotte Hornets,118,Washington Wizards,125,,15053,,Regular,Washington Wizards,Charlotte Hornets
+201911220BRK,2019-11-22,7:30p,Sacramento Kings,97,Brooklyn Nets,116,,15619,,Regular,Brooklyn Nets,Sacramento Kings
+201911220CHI,2019-11-22,8:00p,Miami Heat,116,Chicago Bulls,108,,18953,,Regular,Miami Heat,Chicago Bulls
+201911220OKC,2019-11-22,8:00p,Los Angeles Lakers,130,Oklahoma City Thunder,127,,18203,,Regular,Los Angeles Lakers,Oklahoma City Thunder
+201911220PHI,2019-11-22,8:00p,San Antonio Spurs,104,Philadelphia 76ers,115,,20927,,Regular,Philadelphia 76ers,San Antonio Spurs
+201911220DAL,2019-11-22,8:30p,Cleveland Cavaliers,101,Dallas Mavericks,143,,19639,,Regular,Dallas Mavericks,Cleveland Cavaliers
+201911220DEN,2019-11-22,9:00p,Boston Celtics,92,Denver Nuggets,96,,19520,,Regular,Denver Nuggets,Boston Celtics
+201911220UTA,2019-11-22,9:00p,Golden State Warriors,109,Utah Jazz,113,,18306,,Regular,Utah Jazz,Golden State Warriors
+201911220LAC,2019-11-22,10:30p,Houston Rockets,119,Los Angeles Clippers,122,,19068,,Regular,Los Angeles Clippers,Houston Rockets
+201911230MIN,2019-11-23,5:00p,Phoenix Suns,100,Minnesota Timberwolves,98,,17362,,Regular,Phoenix Suns,Minnesota Timberwolves
+201911230CHO,2019-11-23,7:00p,Chicago Bulls,116,Charlotte Hornets,115,,17891,,Regular,Chicago Bulls,Charlotte Hornets
+201911230IND,2019-11-23,7:00p,Orlando Magic,106,Indiana Pacers,111,,16446,,Regular,Indiana Pacers,Orlando Magic
+201911230ATL,2019-11-23,7:30p,Toronto Raptors,119,Atlanta Hawks,116,,16931,,Regular,Toronto Raptors,Atlanta Hawks
+201911230NYK,2019-11-23,7:30p,San Antonio Spurs,111,New York Knicks,104,,19320,,Regular,San Antonio Spurs,New York Knicks
+201911230PHI,2019-11-23,7:30p,Miami Heat,86,Philadelphia 76ers,113,,21017,,Regular,Philadelphia 76ers,Miami Heat
+201911230CLE,2019-11-23,8:00p,Portland Trail Blazers,104,Cleveland Cavaliers,110,,19432,,Regular,Cleveland Cavaliers,Portland Trail Blazers
+201911230MEM,2019-11-23,8:00p,Los Angeles Lakers,109,Memphis Grizzlies,108,,17794,,Regular,Los Angeles Lakers,Memphis Grizzlies
+201911230MIL,2019-11-23,8:30p,Detroit Pistons,90,Milwaukee Bucks,104,,17585,,Regular,Milwaukee Bucks,Detroit Pistons
+201911230UTA,2019-11-23,9:00p,New Orleans Pelicans,120,Utah Jazz,128,,18306,,Regular,Utah Jazz,New Orleans Pelicans
+201911240HOU,2019-11-24,3:30p,Dallas Mavericks,137,Houston Rockets,123,,18055,,Regular,Dallas Mavericks,Houston Rockets
+201911240NYK,2019-11-24,6:00p,Brooklyn Nets,103,New York Knicks,101,,18770,,Regular,Brooklyn Nets,New York Knicks
+201911240WAS,2019-11-24,6:00p,Sacramento Kings,113,Washington Wizards,106,,15885,,Regular,Sacramento Kings,Washington Wizards
+201911240DEN,2019-11-24,8:00p,Phoenix Suns,104,Denver Nuggets,116,,19520,,Regular,Denver Nuggets,Phoenix Suns
+201911240LAC,2019-11-24,9:00p,New Orleans Pelicans,109,Los Angeles Clippers,134,,19068,,Regular,Los Angeles Clippers,New Orleans Pelicans
+201911250CLE,2019-11-25,7:00p,Brooklyn Nets,108,Cleveland Cavaliers,106,,17143,,Regular,Brooklyn Nets,Cleveland Cavaliers
+201911250DET,2019-11-25,7:00p,Orlando Magic,88,Detroit Pistons,103,,14695,,Regular,Detroit Pistons,Orlando Magic
+201911250IND,2019-11-25,7:00p,Memphis Grizzlies,114,Indiana Pacers,126,,15141,,Regular,Indiana Pacers,Memphis Grizzlies
+201911250ATL,2019-11-25,7:30p,Minnesota Timberwolves,125,Atlanta Hawks,113,,16218,,Regular,Minnesota Timberwolves,Atlanta Hawks
+201911250BOS,2019-11-25,7:30p,Sacramento Kings,102,Boston Celtics,103,,19156,,Regular,Boston Celtics,Sacramento Kings
+201911250MIA,2019-11-25,7:30p,Charlotte Hornets,100,Miami Heat,117,,19600,,Regular,Miami Heat,Charlotte Hornets
+201911250TOR,2019-11-25,7:30p,Philadelphia 76ers,96,Toronto Raptors,101,,19800,,Regular,Toronto Raptors,Philadelphia 76ers
+201911250CHI,2019-11-25,8:00p,Portland Trail Blazers,117,Chicago Bulls,94,,18776,,Regular,Portland Trail Blazers,Chicago Bulls
+201911250MIL,2019-11-25,8:00p,Utah Jazz,118,Milwaukee Bucks,122,,17385,,Regular,Milwaukee Bucks,Utah Jazz
+201911250SAS,2019-11-25,8:30p,Los Angeles Lakers,114,San Antonio Spurs,104,,18498,,Regular,Los Angeles Lakers,San Antonio Spurs
+201911250GSW,2019-11-25,10:30p,Oklahoma City Thunder,100,Golden State Warriors,97,,18064,,Regular,Oklahoma City Thunder,Golden State Warriors
+201911260DAL,2019-11-26,8:30p,Los Angeles Clippers,114,Dallas Mavericks,99,,20407,,Regular,Los Angeles Clippers,Dallas Mavericks
+201911260DEN,2019-11-26,9:00p,Washington Wizards,104,Denver Nuggets,117,,18673,,Regular,Denver Nuggets,Washington Wizards
+201911270BOS,2019-11-27,7:00p,Brooklyn Nets,110,Boston Celtics,121,,19156,,Regular,Boston Celtics,Brooklyn Nets
+201911270CHO,2019-11-27,7:00p,Detroit Pistons,101,Charlotte Hornets,102,,15535,,Regular,Charlotte Hornets,Detroit Pistons
+201911270CLE,2019-11-27,7:00p,Orlando Magic,116,Cleveland Cavaliers,104,,17712,,Regular,Orlando Magic,Cleveland Cavaliers
+201911270IND,2019-11-27,7:00p,Utah Jazz,102,Indiana Pacers,121,,17027,,Regular,Indiana Pacers,Utah Jazz
+201911270PHI,2019-11-27,7:00p,Sacramento Kings,91,Philadelphia 76ers,97,,20592,,Regular,Philadelphia 76ers,Sacramento Kings
+201911270TOR,2019-11-27,7:30p,New York Knicks,98,Toronto Raptors,126,,19800,,Regular,Toronto Raptors,New York Knicks
+201911270HOU,2019-11-27,8:00p,Miami Heat,108,Houston Rockets,117,,18055,,Regular,Houston Rockets,Miami Heat
+201911270MEM,2019-11-27,8:00p,Los Angeles Clippers,121,Memphis Grizzlies,119,,16721,,Regular,Los Angeles Clippers,Memphis Grizzlies
+201911270MIL,2019-11-27,8:00p,Atlanta Hawks,102,Milwaukee Bucks,111,,17525,,Regular,Milwaukee Bucks,Atlanta Hawks
+201911270SAS,2019-11-27,8:30p,Minnesota Timberwolves,113,San Antonio Spurs,101,,18354,,Regular,Minnesota Timberwolves,San Antonio Spurs
+201911270PHO,2019-11-27,9:00p,Washington Wizards,140,Phoenix Suns,132,,14123,,Regular,Washington Wizards,Phoenix Suns
+201911270NOP,2019-11-27,9:30p,Los Angeles Lakers,114,New Orleans Pelicans,110,,18626,,Regular,Los Angeles Lakers,New Orleans Pelicans
+201911270POR,2019-11-27,10:00p,Oklahoma City Thunder,119,Portland Trail Blazers,136,,19870,,Regular,Portland Trail Blazers,Oklahoma City Thunder
+201911270GSW,2019-11-27,10:30p,Chicago Bulls,90,Golden State Warriors,104,,18064,,Regular,Golden State Warriors,Chicago Bulls
+201911290BRK,2019-11-29,12:00p,Boston Celtics,107,Brooklyn Nets,112,,17732,,Regular,Brooklyn Nets,Boston Celtics
+201911290DET,2019-11-29,7:00p,Charlotte Hornets,110,Detroit Pistons,107,,15006,,Regular,Charlotte Hornets,Detroit Pistons
+201911290ORL,2019-11-29,7:00p,Toronto Raptors,90,Orlando Magic,83,,17014,,Regular,Toronto Raptors,Orlando Magic
+201911290CLE,2019-11-29,7:30p,Milwaukee Bucks,119,Cleveland Cavaliers,110,,19432,,Regular,Milwaukee Bucks,Cleveland Cavaliers
+201911290NYK,2019-11-29,7:30p,Philadelphia 76ers,101,New York Knicks,95,,18109,,Regular,Philadelphia 76ers,New York Knicks
+201911290IND,2019-11-29,8:00p,Atlanta Hawks,104,Indiana Pacers,105,OT,15827,,Regular,Indiana Pacers,Atlanta Hawks
+201911290MEM,2019-11-29,8:00p,Utah Jazz,103,Memphis Grizzlies,94,,16605,,Regular,Utah Jazz,Memphis Grizzlies
+201911290MIA,2019-11-29,8:00p,Golden State Warriors,105,Miami Heat,122,,19600,,Regular,Miami Heat,Golden State Warriors
+201911290OKC,2019-11-29,8:00p,New Orleans Pelicans,104,Oklahoma City Thunder,109,,18203,,Regular,Oklahoma City Thunder,New Orleans Pelicans
+201911290SAS,2019-11-29,8:30p,Los Angeles Clippers,97,San Antonio Spurs,107,,18354,,Regular,San Antonio Spurs,Los Angeles Clippers
+201911290PHO,2019-11-29,9:00p,Dallas Mavericks,120,Phoenix Suns,113,,18055,,Regular,Dallas Mavericks,Phoenix Suns
+201911290POR,2019-11-29,10:00p,Chicago Bulls,103,Portland Trail Blazers,107,,20139,,Regular,Portland Trail Blazers,Chicago Bulls
+201911290LAL,2019-11-29,10:30p,Washington Wizards,103,Los Angeles Lakers,125,,18997,,Regular,Los Angeles Lakers,Washington Wizards
+201911300SAC,2019-11-30,5:00p,Denver Nuggets,97,Sacramento Kings,100,OT,17583,,Regular,Sacramento Kings,Denver Nuggets
+201911300PHI,2019-11-30,7:00p,Indiana Pacers,116,Philadelphia 76ers,119,,20517,,Regular,Philadelphia 76ers,Indiana Pacers
+201911300HOU,2019-11-30,8:00p,Atlanta Hawks,111,Houston Rockets,158,,18055,,Regular,Houston Rockets,Atlanta Hawks
+201911300MIL,2019-11-30,8:00p,Charlotte Hornets,96,Milwaukee Bucks,137,,17550,,Regular,Milwaukee Bucks,Charlotte Hornets
+201912010BRK,2019-12-01,3:00p,Miami Heat,109,Brooklyn Nets,106,,17026,,Regular,Miami Heat,Brooklyn Nets
+201912010MIN,2019-12-01,3:30p,Memphis Grizzlies,115,Minnesota Timberwolves,107,,12276,,Regular,Memphis Grizzlies,Minnesota Timberwolves
+201912010NYK,2019-12-01,3:30p,Boston Celtics,113,New York Knicks,104,,18005,,Regular,Boston Celtics,New York Knicks
+201912010LAL,2019-12-01,4:00p,Dallas Mavericks,114,Los Angeles Lakers,100,,18997,,Regular,Dallas Mavericks,Los Angeles Lakers
+201912010DET,2019-12-01,5:00p,San Antonio Spurs,98,Detroit Pistons,132,,14270,,Regular,Detroit Pistons,San Antonio Spurs
+201912010NOP,2019-12-01,5:00p,Oklahoma City Thunder,107,New Orleans Pelicans,104,,15427,,Regular,Oklahoma City Thunder,New Orleans Pelicans
+201912010ORL,2019-12-01,6:00p,Golden State Warriors,96,Orlando Magic,100,,15052,,Regular,Orlando Magic,Golden State Warriors
+201912010TOR,2019-12-01,6:00p,Utah Jazz,110,Toronto Raptors,130,,18132,,Regular,Toronto Raptors,Utah Jazz
+201912010LAC,2019-12-01,10:30p,Washington Wizards,125,Los Angeles Clippers,150,,19068,,Regular,Los Angeles Clippers,Washington Wizards
+201912020CHO,2019-12-02,7:00p,Phoenix Suns,109,Charlotte Hornets,104,,11221,,Regular,Phoenix Suns,Charlotte Hornets
+201912020PHI,2019-12-02,7:00p,Utah Jazz,94,Philadelphia 76ers,103,,20208,,Regular,Philadelphia 76ers,Utah Jazz
+201912020ATL,2019-12-02,7:30p,Golden State Warriors,79,Atlanta Hawks,104,,14278,,Regular,Atlanta Hawks,Golden State Warriors
+201912020MEM,2019-12-02,8:00p,Indiana Pacers,117,Memphis Grizzlies,104,,11919,,Regular,Indiana Pacers,Memphis Grizzlies
+201912020MIL,2019-12-02,8:00p,New York Knicks,88,Milwaukee Bucks,132,,17385,,Regular,Milwaukee Bucks,New York Knicks
+201912020SAC,2019-12-02,10:00p,Chicago Bulls,113,Sacramento Kings,106,,17257,,Regular,Chicago Bulls,Sacramento Kings
+201912030CLE,2019-12-03,7:00p,Detroit Pistons,127,Cleveland Cavaliers,94,,17504,,Regular,Detroit Pistons,Cleveland Cavaliers
+201912030WAS,2019-12-03,7:00p,Orlando Magic,127,Washington Wizards,120,,13159,,Regular,Orlando Magic,Washington Wizards
+201912030NOP,2019-12-03,7:30p,Dallas Mavericks,118,New Orleans Pelicans,97,,14664,,Regular,Dallas Mavericks,New Orleans Pelicans
+201912030TOR,2019-12-03,7:30p,Miami Heat,121,Toronto Raptors,110,OT,19800,,Regular,Miami Heat,Toronto Raptors
+201912030SAS,2019-12-03,8:30p,Houston Rockets,133,San Antonio Spurs,135,2OT,18354,,Regular,San Antonio Spurs,Houston Rockets
+201912030DEN,2019-12-03,9:00p,Los Angeles Lakers,105,Denver Nuggets,96,,19658,,Regular,Los Angeles Lakers,Denver Nuggets
+201912030LAC,2019-12-03,10:00p,Portland Trail Blazers,97,Los Angeles Clippers,117,,19068,,Regular,Los Angeles Clippers,Portland Trail Blazers
+201912040CHO,2019-12-04,7:00p,Golden State Warriors,91,Charlotte Hornets,106,,14355,,Regular,Charlotte Hornets,Golden State Warriors
+201912040DET,2019-12-04,7:00p,Milwaukee Bucks,127,Detroit Pistons,103,,15742,,Regular,Milwaukee Bucks,Detroit Pistons
+201912040ORL,2019-12-04,7:00p,Phoenix Suns,114,Orlando Magic,128,,15176,,Regular,Orlando Magic,Phoenix Suns
+201912040ATL,2019-12-04,7:30p,Brooklyn Nets,130,Atlanta Hawks,118,,15694,,Regular,Brooklyn Nets,Atlanta Hawks
+201912040BOS,2019-12-04,7:30p,Miami Heat,93,Boston Celtics,112,,19156,,Regular,Boston Celtics,Miami Heat
+201912040CHI,2019-12-04,8:00p,Memphis Grizzlies,99,Chicago Bulls,106,,15017,,Regular,Chicago Bulls,Memphis Grizzlies
+201912040OKC,2019-12-04,8:00p,Indiana Pacers,107,Oklahoma City Thunder,100,,18203,,Regular,Indiana Pacers,Oklahoma City Thunder
+201912040DAL,2019-12-04,8:30p,Minnesota Timberwolves,114,Dallas Mavericks,121,,19671,,Regular,Dallas Mavericks,Minnesota Timberwolves
+201912040UTA,2019-12-04,9:00p,Los Angeles Lakers,121,Utah Jazz,96,,18306,,Regular,Los Angeles Lakers,Utah Jazz
+201912040POR,2019-12-04,10:00p,Sacramento Kings,116,Portland Trail Blazers,127,,19393,,Regular,Portland Trail Blazers,Sacramento Kings
+201912050WAS,2019-12-05,7:00p,Philadelphia 76ers,113,Washington Wizards,119,,16554,,Regular,Washington Wizards,Philadelphia 76ers
+201912050NYK,2019-12-05,7:30p,Denver Nuggets,129,New York Knicks,92,,18171,,Regular,Denver Nuggets,New York Knicks
+201912050TOR,2019-12-05,7:30p,Houston Rockets,119,Toronto Raptors,109,,19800,,Regular,Houston Rockets,Toronto Raptors
+201912050NOP,2019-12-05,8:00p,Phoenix Suns,139,New Orleans Pelicans,132,OT,15607,,Regular,Phoenix Suns,New Orleans Pelicans
+201912060CHO,2019-12-06,7:00p,Brooklyn Nets,111,Charlotte Hornets,104,,15075,,Regular,Brooklyn Nets,Charlotte Hornets
+201912060CLE,2019-12-06,7:00p,Orlando Magic,93,Cleveland Cavaliers,87,,18446,,Regular,Orlando Magic,Cleveland Cavaliers
+201912060DET,2019-12-06,7:00p,Indiana Pacers,101,Detroit Pistons,108,,14894,,Regular,Detroit Pistons,Indiana Pacers
+201912060BOS,2019-12-06,8:00p,Denver Nuggets,95,Boston Celtics,108,,19156,,Regular,Boston Celtics,Denver Nuggets
+201912060CHI,2019-12-06,8:00p,Golden State Warriors,100,Chicago Bulls,98,,18841,,Regular,Golden State Warriors,Chicago Bulls
+201912060MIA,2019-12-06,8:00p,Washington Wizards,103,Miami Heat,112,,19600,,Regular,Miami Heat,Washington Wizards
+201912060OKC,2019-12-06,8:00p,Minnesota Timberwolves,127,Oklahoma City Thunder,139,OT,18203,,Regular,Oklahoma City Thunder,Minnesota Timberwolves
+201912060MIL,2019-12-06,8:30p,Los Angeles Clippers,91,Milwaukee Bucks,119,,17732,,Regular,Milwaukee Bucks,Los Angeles Clippers
+201912060SAS,2019-12-06,8:30p,Sacramento Kings,104,San Antonio Spurs,105,OT,18354,,Regular,San Antonio Spurs,Sacramento Kings
+201912060POR,2019-12-06,10:30p,Los Angeles Lakers,136,Portland Trail Blazers,113,,19912,,Regular,Los Angeles Lakers,Portland Trail Blazers
+201912070DAL,2019-12-07,2:00p,New Orleans Pelicans,84,Dallas Mavericks,130,,19456,,Regular,Dallas Mavericks,New Orleans Pelicans
+201912070NYK,2019-12-07,7:30p,Indiana Pacers,104,New York Knicks,103,,19110,,Regular,Indiana Pacers,New York Knicks
+201912070PHI,2019-12-07,7:30p,Cleveland Cavaliers,94,Philadelphia 76ers,141,,20844,,Regular,Philadelphia 76ers,Cleveland Cavaliers
+201912070HOU,2019-12-07,8:00p,Phoenix Suns,109,Houston Rockets,115,,18055,,Regular,Houston Rockets,Phoenix Suns
+201912070UTA,2019-12-07,10:00p,Memphis Grizzlies,112,Utah Jazz,126,,18306,,Regular,Utah Jazz,Memphis Grizzlies
+201912080BRK,2019-12-08,3:00p,Denver Nuggets,102,Brooklyn Nets,105,,16679,,Regular,Brooklyn Nets,Denver Nuggets
+201912080CHO,2019-12-08,5:00p,Atlanta Hawks,122,Charlotte Hornets,107,,15489,,Regular,Atlanta Hawks,Charlotte Hornets
+201912080MIA,2019-12-08,6:00p,Chicago Bulls,105,Miami Heat,110,OT,19600,,Regular,Miami Heat,Chicago Bulls
+201912080PHI,2019-12-08,6:00p,Toronto Raptors,104,Philadelphia 76ers,110,,20313,,Regular,Philadelphia 76ers,Toronto Raptors
+201912080WAS,2019-12-08,6:00p,Los Angeles Clippers,135,Washington Wizards,119,,15946,,Regular,Los Angeles Clippers,Washington Wizards
+201912080DAL,2019-12-08,7:00p,Sacramento Kings,110,Dallas Mavericks,106,,19566,,Regular,Sacramento Kings,Dallas Mavericks
+201912080POR,2019-12-08,9:00p,Oklahoma City Thunder,108,Portland Trail Blazers,96,,19393,,Regular,Oklahoma City Thunder,Portland Trail Blazers
+201912080LAL,2019-12-08,9:30p,Minnesota Timberwolves,125,Los Angeles Lakers,142,,18997,,Regular,Los Angeles Lakers,Minnesota Timberwolves
+201912090IND,2019-12-09,7:00p,Los Angeles Clippers,110,Indiana Pacers,99,,14644,,Regular,Los Angeles Clippers,Indiana Pacers
+201912090BOS,2019-12-09,7:30p,Cleveland Cavaliers,88,Boston Celtics,110,,19156,,Regular,Boston Celtics,Cleveland Cavaliers
+201912090CHI,2019-12-09,8:00p,Toronto Raptors,93,Chicago Bulls,92,,14775,,Regular,Toronto Raptors,Chicago Bulls
+201912090HOU,2019-12-09,8:00p,Sacramento Kings,119,Houston Rockets,118,,18055,,Regular,Sacramento Kings,Houston Rockets
+201912090MIL,2019-12-09,8:00p,Orlando Magic,101,Milwaukee Bucks,110,,17385,,Regular,Milwaukee Bucks,Orlando Magic
+201912090NOP,2019-12-09,8:00p,Detroit Pistons,105,New Orleans Pelicans,103,,13694,,Regular,Detroit Pistons,New Orleans Pelicans
+201912090PHO,2019-12-09,9:00p,Minnesota Timberwolves,109,Phoenix Suns,125,,13230,,Regular,Phoenix Suns,Minnesota Timberwolves
+201912090UTA,2019-12-09,9:00p,Oklahoma City Thunder,104,Utah Jazz,90,,18306,,Regular,Oklahoma City Thunder,Utah Jazz
+201912090GSW,2019-12-09,10:30p,Memphis Grizzlies,110,Golden State Warriors,102,,18064,,Regular,Memphis Grizzlies,Golden State Warriors
+201912100CHO,2019-12-10,7:00p,Washington Wizards,107,Charlotte Hornets,114,,10626,,Regular,Charlotte Hornets,Washington Wizards
+201912100MIA,2019-12-10,8:00p,Atlanta Hawks,121,Miami Heat,135,OT,19600,,Regular,Miami Heat,Atlanta Hawks
+201912100PHI,2019-12-10,8:00p,Denver Nuggets,92,Philadelphia 76ers,97,,20591,,Regular,Philadelphia 76ers,Denver Nuggets
+201912100POR,2019-12-10,10:00p,New York Knicks,87,Portland Trail Blazers,115,,19393,,Regular,Portland Trail Blazers,New York Knicks
+201912110CLE,2019-12-11,7:00p,Houston Rockets,116,Cleveland Cavaliers,110,,17122,,Regular,Houston Rockets,Cleveland Cavaliers
+201912110IND,2019-12-11,7:00p,Boston Celtics,117,Indiana Pacers,122,,15637,,Regular,Indiana Pacers,Boston Celtics
+201912110ORL,2019-12-11,7:00p,Los Angeles Lakers,96,Orlando Magic,87,,18846,,Regular,Los Angeles Lakers,Orlando Magic
+201912110TOR,2019-12-11,7:00p,Los Angeles Clippers,112,Toronto Raptors,92,,20144,,Regular,Los Angeles Clippers,Toronto Raptors
+201912110BRK,2019-12-11,7:30p,Charlotte Hornets,113,Brooklyn Nets,108,,15631,,Regular,Charlotte Hornets,Brooklyn Nets
+201912110CHI,2019-12-11,8:00p,Atlanta Hawks,102,Chicago Bulls,136,,15084,,Regular,Chicago Bulls,Atlanta Hawks
+201912110MIN,2019-12-11,8:00p,Utah Jazz,127,Minnesota Timberwolves,116,,12369,,Regular,Utah Jazz,Minnesota Timberwolves
+201912110PHO,2019-12-11,9:00p,Memphis Grizzlies,115,Phoenix Suns,108,,12254,,Regular,Memphis Grizzlies,Phoenix Suns
+201912110MIL,2019-12-11,9:30p,New Orleans Pelicans,112,Milwaukee Bucks,127,,17385,,Regular,Milwaukee Bucks,New Orleans Pelicans
+201912110SAC,2019-12-11,10:00p,Oklahoma City Thunder,93,Sacramento Kings,94,,16723,,Regular,Sacramento Kings,Oklahoma City Thunder
+201912110GSW,2019-12-11,10:30p,New York Knicks,124,Golden State Warriors,122,OT,18064,,Regular,New York Knicks,Golden State Warriors
+201912120BOS,2019-12-12,8:00p,Philadelphia 76ers,115,Boston Celtics,109,,19156,,Regular,Philadelphia 76ers,Boston Celtics
+201912120SAS,2019-12-12,8:30p,Cleveland Cavaliers,117,San Antonio Spurs,109,OT,18354,,Regular,Cleveland Cavaliers,San Antonio Spurs
+201912120DET,2019-12-12,9:00p,Dallas Mavericks,122,Detroit Pistons,111,,20064,"at Mexico City, Mexico",Regular,Dallas Mavericks,Detroit Pistons
+201912120DEN,2019-12-12,10:30p,Portland Trail Blazers,99,Denver Nuggets,114,,18828,,Regular,Denver Nuggets,Portland Trail Blazers
+201912130MIA,2019-12-13,7:00p,Los Angeles Lakers,113,Miami Heat,110,,20013,,Regular,Los Angeles Lakers,Miami Heat
+201912130ORL,2019-12-13,7:00p,Houston Rockets,130,Orlando Magic,107,,16335,,Regular,Houston Rockets,Orlando Magic
+201912130PHI,2019-12-13,7:00p,New Orleans Pelicans,109,Philadelphia 76ers,116,,20620,,Regular,Philadelphia 76ers,New Orleans Pelicans
+201912130ATL,2019-12-13,7:30p,Indiana Pacers,110,Atlanta Hawks,100,,15121,,Regular,Indiana Pacers,Atlanta Hawks
+201912130CHI,2019-12-13,8:00p,Charlotte Hornets,83,Chicago Bulls,73,,18377,,Regular,Charlotte Hornets,Chicago Bulls
+201912130MEM,2019-12-13,8:00p,Milwaukee Bucks,127,Memphis Grizzlies,114,,16109,,Regular,Milwaukee Bucks,Memphis Grizzlies
+201912130UTA,2019-12-13,9:00p,Golden State Warriors,106,Utah Jazz,114,,18306,,Regular,Utah Jazz,Golden State Warriors
+201912130MIN,2019-12-13,9:30p,Los Angeles Clippers,124,Minnesota Timberwolves,117,,17585,,Regular,Los Angeles Clippers,Minnesota Timberwolves
+201912130SAC,2019-12-13,10:00p,New York Knicks,103,Sacramento Kings,101,,17583,,Regular,New York Knicks,Sacramento Kings
+201912140PHO,2019-12-14,5:00p,San Antonio Spurs,121,Phoenix Suns,119,OT,20013,"at Mexico City, Mexico",Regular,San Antonio Spurs,Phoenix Suns
+201912140TOR,2019-12-14,7:30p,Brooklyn Nets,102,Toronto Raptors,110,,19800,,Regular,Toronto Raptors,Brooklyn Nets
+201912140CHI,2019-12-14,8:00p,Los Angeles Clippers,106,Chicago Bulls,109,,18426,,Regular,Chicago Bulls,Los Angeles Clippers
+201912140MEM,2019-12-14,8:00p,Washington Wizards,111,Memphis Grizzlies,128,,15631,,Regular,Memphis Grizzlies,Washington Wizards
+201912140DAL,2019-12-14,8:30p,Miami Heat,122,Dallas Mavericks,118,OT,20333,,Regular,Miami Heat,Dallas Mavericks
+201912140MIL,2019-12-14,8:30p,Cleveland Cavaliers,108,Milwaukee Bucks,125,,17481,,Regular,Milwaukee Bucks,Cleveland Cavaliers
+201912140DEN,2019-12-14,9:00p,Oklahoma City Thunder,102,Denver Nuggets,110,,19520,,Regular,Denver Nuggets,Oklahoma City Thunder
+201912140HOU,2019-12-14,9:00p,Detroit Pistons,115,Houston Rockets,107,,18055,,Regular,Detroit Pistons,Houston Rockets
+201912150NOP,2019-12-15,3:30p,Orlando Magic,130,New Orleans Pelicans,119,,15388,,Regular,Orlando Magic,New Orleans Pelicans
+201912150IND,2019-12-15,5:00p,Charlotte Hornets,85,Indiana Pacers,107,,16061,,Regular,Indiana Pacers,Charlotte Hornets
+201912150ATL,2019-12-15,6:00p,Los Angeles Lakers,101,Atlanta Hawks,96,,16962,,Regular,Los Angeles Lakers,Atlanta Hawks
+201912150BRK,2019-12-15,6:00p,Philadelphia 76ers,89,Brooklyn Nets,109,,17732,,Regular,Brooklyn Nets,Philadelphia 76ers
+201912150DEN,2019-12-15,8:00p,New York Knicks,105,Denver Nuggets,111,,18867,,Regular,Denver Nuggets,New York Knicks
+201912150GSW,2019-12-15,8:30p,Sacramento Kings,100,Golden State Warriors,79,,18064,,Regular,Sacramento Kings,Golden State Warriors
+201912160DET,2019-12-16,7:00p,Washington Wizards,133,Detroit Pistons,119,,14632,,Regular,Washington Wizards,Detroit Pistons
+201912160TOR,2019-12-16,7:30p,Cleveland Cavaliers,113,Toronto Raptors,133,,19800,,Regular,Toronto Raptors,Cleveland Cavaliers
+201912160HOU,2019-12-16,8:00p,San Antonio Spurs,107,Houston Rockets,109,,18055,,Regular,Houston Rockets,San Antonio Spurs
+201912160MEM,2019-12-16,8:00p,Miami Heat,111,Memphis Grizzlies,118,,14021,,Regular,Memphis Grizzlies,Miami Heat
+201912160MIL,2019-12-16,8:00p,Dallas Mavericks,120,Milwaukee Bucks,116,,17727,,Regular,Dallas Mavericks,Milwaukee Bucks
+201912160OKC,2019-12-16,8:00p,Chicago Bulls,106,Oklahoma City Thunder,109,,18203,,Regular,Oklahoma City Thunder,Chicago Bulls
+201912160PHO,2019-12-16,9:00p,Portland Trail Blazers,111,Phoenix Suns,110,,14193,,Regular,Portland Trail Blazers,Phoenix Suns
+201912170CHO,2019-12-17,7:00p,Sacramento Kings,102,Charlotte Hornets,110,,13229,,Regular,Charlotte Hornets,Sacramento Kings
+201912170IND,2019-12-17,7:00p,Los Angeles Lakers,102,Indiana Pacers,105,,17923,,Regular,Indiana Pacers,Los Angeles Lakers
+201912170NYK,2019-12-17,7:30p,Atlanta Hawks,120,New York Knicks,143,,18268,,Regular,New York Knicks,Atlanta Hawks
+201912170NOP,2019-12-17,8:00p,Brooklyn Nets,108,New Orleans Pelicans,101,OT,15177,,Regular,Brooklyn Nets,New Orleans Pelicans
+201912170UTA,2019-12-17,9:00p,Orlando Magic,102,Utah Jazz,109,,18306,,Regular,Utah Jazz,Orlando Magic
+201912170LAC,2019-12-17,10:30p,Phoenix Suns,99,Los Angeles Clippers,120,,19068,,Regular,Los Angeles Clippers,Phoenix Suns
+201912180CLE,2019-12-18,7:00p,Charlotte Hornets,98,Cleveland Cavaliers,100,,17023,,Regular,Cleveland Cavaliers,Charlotte Hornets
+201912180DET,2019-12-18,7:00p,Toronto Raptors,112,Detroit Pistons,99,,15319,,Regular,Toronto Raptors,Detroit Pistons
+201912180PHI,2019-12-18,7:00p,Miami Heat,108,Philadelphia 76ers,104,,20715,,Regular,Miami Heat,Philadelphia 76ers
+201912180WAS,2019-12-18,7:00p,Chicago Bulls,110,Washington Wizards,109,OT,14987,,Regular,Chicago Bulls,Washington Wizards
+201912180MIN,2019-12-18,8:00p,New Orleans Pelicans,107,Minnesota Timberwolves,99,,12490,,Regular,New Orleans Pelicans,Minnesota Timberwolves
+201912180OKC,2019-12-18,8:00p,Memphis Grizzlies,122,Oklahoma City Thunder,126,,18203,,Regular,Oklahoma City Thunder,Memphis Grizzlies
+201912180DEN,2019-12-18,9:00p,Orlando Magic,104,Denver Nuggets,113,,18182,,Regular,Denver Nuggets,Orlando Magic
+201912180DAL,2019-12-18,9:30p,Boston Celtics,109,Dallas Mavericks,103,,20181,,Regular,Boston Celtics,Dallas Mavericks
+201912180POR,2019-12-18,10:00p,Golden State Warriors,112,Portland Trail Blazers,122,,19393,,Regular,Portland Trail Blazers,Golden State Warriors
+201912190ATL,2019-12-19,7:30p,Utah Jazz,111,Atlanta Hawks,106,,16739,,Regular,Utah Jazz,Atlanta Hawks
+201912190MIL,2019-12-19,8:00p,Los Angeles Lakers,104,Milwaukee Bucks,111,,18051,,Regular,Milwaukee Bucks,Los Angeles Lakers
+201912190SAS,2019-12-19,8:30p,Brooklyn Nets,105,San Antonio Spurs,118,,18354,,Regular,San Antonio Spurs,Brooklyn Nets
+201912190LAC,2019-12-19,10:30p,Houston Rockets,122,Los Angeles Clippers,117,,19068,,Regular,Houston Rockets,Los Angeles Clippers
+201912200CLE,2019-12-20,7:00p,Memphis Grizzlies,107,Cleveland Cavaliers,114,,19432,,Regular,Cleveland Cavaliers,Memphis Grizzlies
+201912200IND,2019-12-20,7:00p,Sacramento Kings,105,Indiana Pacers,119,,14649,,Regular,Indiana Pacers,Sacramento Kings
+201912200BOS,2019-12-20,7:30p,Detroit Pistons,93,Boston Celtics,114,,19156,,Regular,Boston Celtics,Detroit Pistons
+201912200TOR,2019-12-20,7:30p,Washington Wizards,118,Toronto Raptors,122,,19800,,Regular,Toronto Raptors,Washington Wizards
+201912200MIA,2019-12-20,8:00p,New York Knicks,114,Miami Heat,129,,19704,,Regular,Miami Heat,New York Knicks
+201912200OKC,2019-12-20,8:00p,Phoenix Suns,108,Oklahoma City Thunder,126,,18203,,Regular,Oklahoma City Thunder,Phoenix Suns
+201912200PHI,2019-12-20,8:00p,Dallas Mavericks,117,Philadelphia 76ers,98,,20778,,Regular,Dallas Mavericks,Philadelphia 76ers
+201912200DEN,2019-12-20,9:00p,Minnesota Timberwolves,100,Denver Nuggets,109,,19520,,Regular,Denver Nuggets,Minnesota Timberwolves
+201912200POR,2019-12-20,10:00p,Orlando Magic,103,Portland Trail Blazers,118,,19393,,Regular,Portland Trail Blazers,Orlando Magic
+201912200GSW,2019-12-20,10:30p,New Orleans Pelicans,102,Golden State Warriors,106,,18064,,Regular,Golden State Warriors,New Orleans Pelicans
+201912210CHO,2019-12-21,5:00p,Utah Jazz,114,Charlotte Hornets,107,,16187,,Regular,Utah Jazz,Charlotte Hornets
+201912210BRK,2019-12-21,6:00p,Atlanta Hawks,112,Brooklyn Nets,122,,16496,,Regular,Brooklyn Nets,Atlanta Hawks
+201912210DET,2019-12-21,7:00p,Chicago Bulls,119,Detroit Pistons,107,,15948,,Regular,Chicago Bulls,Detroit Pistons
+201912210PHI,2019-12-21,7:00p,Washington Wizards,108,Philadelphia 76ers,125,,20529,,Regular,Philadelphia 76ers,Washington Wizards
+201912210NYK,2019-12-21,7:30p,Milwaukee Bucks,123,New York Knicks,102,,18124,,Regular,Milwaukee Bucks,New York Knicks
+201912210MEM,2019-12-21,8:00p,Sacramento Kings,115,Memphis Grizzlies,119,,15603,,Regular,Memphis Grizzlies,Sacramento Kings
+201912210SAS,2019-12-21,8:30p,Los Angeles Clippers,134,San Antonio Spurs,109,,18354,,Regular,Los Angeles Clippers,San Antonio Spurs
+201912210PHO,2019-12-21,9:00p,Houston Rockets,139,Phoenix Suns,125,,16061,,Regular,Houston Rockets,Phoenix Suns
+201912210POR,2019-12-21,10:00p,Minnesota Timberwolves,106,Portland Trail Blazers,113,,19393,,Regular,Portland Trail Blazers,Minnesota Timberwolves
+201912220TOR,2019-12-22,3:30p,Dallas Mavericks,107,Toronto Raptors,110,,19800,,Regular,Toronto Raptors,Dallas Mavericks
+201912220BOS,2019-12-22,6:00p,Charlotte Hornets,93,Boston Celtics,119,,19156,,Regular,Boston Celtics,Charlotte Hornets
+201912220MIL,2019-12-22,7:00p,Indiana Pacers,89,Milwaukee Bucks,117,,18029,,Regular,Milwaukee Bucks,Indiana Pacers
+201912220OKC,2019-12-22,7:00p,Los Angeles Clippers,112,Oklahoma City Thunder,118,,18203,,Regular,Oklahoma City Thunder,Los Angeles Clippers
+201912220LAL,2019-12-22,9:30p,Denver Nuggets,128,Los Angeles Lakers,104,,18997,,Regular,Denver Nuggets,Los Angeles Lakers
+201912230CLE,2019-12-23,7:00p,Atlanta Hawks,118,Cleveland Cavaliers,121,,18007,,Regular,Cleveland Cavaliers,Atlanta Hawks
+201912230DET,2019-12-23,7:00p,Philadelphia 76ers,125,Detroit Pistons,109,,16476,,Regular,Philadelphia 76ers,Detroit Pistons
+201912230IND,2019-12-23,7:00p,Toronto Raptors,115,Indiana Pacers,120,OT,17164,,Regular,Indiana Pacers,Toronto Raptors
+201912230NYK,2019-12-23,7:00p,Washington Wizards,121,New York Knicks,115,,19413,,Regular,Washington Wizards,New York Knicks
+201912230ORL,2019-12-23,7:00p,Chicago Bulls,95,Orlando Magic,103,,18846,,Regular,Orlando Magic,Chicago Bulls
+201912230MIA,2019-12-23,7:30p,Utah Jazz,104,Miami Heat,107,,19890,,Regular,Miami Heat,Utah Jazz
+201912230MEM,2019-12-23,8:00p,San Antonio Spurs,145,Memphis Grizzlies,115,,16776,,Regular,San Antonio Spurs,Memphis Grizzlies
+201912230PHO,2019-12-23,9:00p,Denver Nuggets,113,Phoenix Suns,111,,16041,,Regular,Denver Nuggets,Phoenix Suns
+201912230POR,2019-12-23,10:00p,New Orleans Pelicans,102,Portland Trail Blazers,94,,19499,,Regular,New Orleans Pelicans,Portland Trail Blazers
+201912230SAC,2019-12-23,10:00p,Houston Rockets,113,Sacramento Kings,104,,17583,,Regular,Houston Rockets,Sacramento Kings
+201912230GSW,2019-12-23,10:30p,Minnesota Timberwolves,104,Golden State Warriors,113,,18064,,Regular,Golden State Warriors,Minnesota Timberwolves
+201912250TOR,2019-12-25,12:00p,Boston Celtics,118,Toronto Raptors,102,,19800,,Regular,Boston Celtics,Toronto Raptors
+201912250PHI,2019-12-25,2:30p,Milwaukee Bucks,109,Philadelphia 76ers,121,,21028,,Regular,Philadelphia 76ers,Milwaukee Bucks
+201912250GSW,2019-12-25,5:00p,Houston Rockets,104,Golden State Warriors,116,,18064,,Regular,Golden State Warriors,Houston Rockets
+201912250LAL,2019-12-25,8:00p,Los Angeles Clippers,111,Los Angeles Lakers,106,,18997,,Regular,Los Angeles Clippers,Los Angeles Lakers
+201912250DEN,2019-12-25,10:30p,New Orleans Pelicans,112,Denver Nuggets,100,,19520,,Regular,New Orleans Pelicans,Denver Nuggets
+201912260DET,2019-12-26,7:00p,Washington Wizards,102,Detroit Pistons,132,,17188,,Regular,Detroit Pistons,Washington Wizards
+201912260BRK,2019-12-26,7:30p,New York Knicks,94,Brooklyn Nets,82,,17732,,Regular,New York Knicks,Brooklyn Nets
+201912260DAL,2019-12-26,8:00p,San Antonio Spurs,98,Dallas Mavericks,102,,20427,,Regular,Dallas Mavericks,San Antonio Spurs
+201912260OKC,2019-12-26,8:00p,Memphis Grizzlies,110,Oklahoma City Thunder,97,,18203,,Regular,Memphis Grizzlies,Oklahoma City Thunder
+201912260SAC,2019-12-26,10:00p,Minnesota Timberwolves,105,Sacramento Kings,104,2OT,17583,,Regular,Minnesota Timberwolves,Sacramento Kings
+201912260UTA,2019-12-26,10:30p,Portland Trail Blazers,115,Utah Jazz,121,,18306,,Regular,Utah Jazz,Portland Trail Blazers
+201912270BOS,2019-12-27,4:00p,Cleveland Cavaliers,117,Boston Celtics,129,,19156,,Regular,Boston Celtics,Cleveland Cavaliers
+201912270CHO,2019-12-27,7:00p,Oklahoma City Thunder,104,Charlotte Hornets,102,OT,18418,,Regular,Oklahoma City Thunder,Charlotte Hornets
+201912270ORL,2019-12-27,7:00p,Philadelphia 76ers,97,Orlando Magic,98,,17311,,Regular,Orlando Magic,Philadelphia 76ers
+201912270ATL,2019-12-27,7:30p,Milwaukee Bucks,112,Atlanta Hawks,86,,17358,,Regular,Milwaukee Bucks,Atlanta Hawks
+201912270MIA,2019-12-27,8:00p,Indiana Pacers,112,Miami Heat,113,,19767,,Regular,Miami Heat,Indiana Pacers
+201912270GSW,2019-12-27,10:30p,Phoenix Suns,96,Golden State Warriors,105,,18064,,Regular,Golden State Warriors,Phoenix Suns
+201912280DEN,2019-12-28,5:00p,Memphis Grizzlies,110,Denver Nuggets,119,,19697,,Regular,Denver Nuggets,Memphis Grizzlies
+201912280BOS,2019-12-28,7:00p,Toronto Raptors,113,Boston Celtics,97,,19156,,Regular,Toronto Raptors,Boston Celtics
+201912280NOP,2019-12-28,7:00p,Indiana Pacers,98,New Orleans Pelicans,120,,15391,,Regular,New Orleans Pelicans,Indiana Pacers
+201912280CHI,2019-12-28,8:00p,Atlanta Hawks,81,Chicago Bulls,116,,21496,,Regular,Chicago Bulls,Atlanta Hawks
+201912280HOU,2019-12-28,8:00p,Brooklyn Nets,98,Houston Rockets,108,,18306,,Regular,Houston Rockets,Brooklyn Nets
+201912280MIA,2019-12-28,8:00p,Philadelphia 76ers,116,Miami Heat,117,OT,19865,,Regular,Miami Heat,Philadelphia 76ers
+201912280MIN,2019-12-28,8:00p,Cleveland Cavaliers,94,Minnesota Timberwolves,88,,15411,,Regular,Cleveland Cavaliers,Minnesota Timberwolves
+201912280WAS,2019-12-28,8:00p,New York Knicks,107,Washington Wizards,100,,19033,,Regular,New York Knicks,Washington Wizards
+201912280GSW,2019-12-28,8:30p,Dallas Mavericks,141,Golden State Warriors,121,,18064,,Regular,Dallas Mavericks,Golden State Warriors
+201912280MIL,2019-12-28,8:30p,Orlando Magic,100,Milwaukee Bucks,111,,17920,,Regular,Milwaukee Bucks,Orlando Magic
+201912280SAS,2019-12-28,8:30p,Detroit Pistons,109,San Antonio Spurs,136,,18524,,Regular,San Antonio Spurs,Detroit Pistons
+201912280SAC,2019-12-28,9:00p,Phoenix Suns,112,Sacramento Kings,110,,17583,,Regular,Phoenix Suns,Sacramento Kings
+201912280POR,2019-12-28,10:00p,Los Angeles Lakers,128,Portland Trail Blazers,120,,19960,,Regular,Los Angeles Lakers,Portland Trail Blazers
+201912280LAC,2019-12-28,10:30p,Utah Jazz,120,Los Angeles Clippers,107,,19068,,Regular,Utah Jazz,Los Angeles Clippers
+201912290TOR,2019-12-29,6:00p,Oklahoma City Thunder,98,Toronto Raptors,97,,19800,,Regular,Oklahoma City Thunder,Toronto Raptors
+201912290DEN,2019-12-29,8:00p,Sacramento Kings,115,Denver Nuggets,120,,19520,,Regular,Denver Nuggets,Sacramento Kings
+201912290MEM,2019-12-29,8:00p,Charlotte Hornets,104,Memphis Grizzlies,117,,16842,,Regular,Memphis Grizzlies,Charlotte Hornets
+201912290NOP,2019-12-29,8:00p,Houston Rockets,112,New Orleans Pelicans,127,,17712,,Regular,New Orleans Pelicans,Houston Rockets
+201912290LAL,2019-12-29,9:30p,Dallas Mavericks,95,Los Angeles Lakers,108,,18997,,Regular,Los Angeles Lakers,Dallas Mavericks
+201912300ORL,2019-12-30,7:00p,Atlanta Hawks,101,Orlando Magic,93,,17784,,Regular,Atlanta Hawks,Orlando Magic
+201912300WAS,2019-12-30,7:00p,Miami Heat,105,Washington Wizards,123,,20476,,Regular,Washington Wizards,Miami Heat
+201912300CHI,2019-12-30,8:00p,Milwaukee Bucks,123,Chicago Bulls,102,,21954,,Regular,Milwaukee Bucks,Chicago Bulls
+201912300MIN,2019-12-30,8:00p,Brooklyn Nets,115,Minnesota Timberwolves,122,OT,15824,,Regular,Minnesota Timberwolves,Brooklyn Nets
+201912300UTA,2019-12-30,9:00p,Detroit Pistons,81,Utah Jazz,104,,18306,,Regular,Utah Jazz,Detroit Pistons
+201912300POR,2019-12-30,10:00p,Phoenix Suns,122,Portland Trail Blazers,116,,19896,,Regular,Phoenix Suns,Portland Trail Blazers
+201912310CHO,2019-12-31,3:00p,Boston Celtics,109,Charlotte Hornets,92,,19216,,Regular,Boston Celtics,Charlotte Hornets
+201912310IND,2019-12-31,3:00p,Philadelphia 76ers,97,Indiana Pacers,115,,17923,,Regular,Indiana Pacers,Philadelphia 76ers
+201912310SAC,2019-12-31,5:00p,Los Angeles Clippers,105,Sacramento Kings,87,,16231,,Regular,Los Angeles Clippers,Sacramento Kings
+201912310HOU,2019-12-31,7:00p,Denver Nuggets,104,Houston Rockets,130,,18055,,Regular,Houston Rockets,Denver Nuggets
+201912310SAS,2019-12-31,7:00p,Golden State Warriors,113,San Antonio Spurs,117,OT,18354,,Regular,San Antonio Spurs,Golden State Warriors
+201912310TOR,2019-12-31,7:00p,Cleveland Cavaliers,97,Toronto Raptors,117,,19800,,Regular,Toronto Raptors,Cleveland Cavaliers
+201912310OKC,2019-12-31,8:00p,Dallas Mavericks,101,Oklahoma City Thunder,106,,18203,,Regular,Oklahoma City Thunder,Dallas Mavericks
+202001010WAS,2020-01-01,6:00p,Orlando Magic,122,Washington Wizards,101,,14921,,Regular,Orlando Magic,Washington Wizards
+202001010NYK,2020-01-01,7:30p,Portland Trail Blazers,93,New York Knicks,117,,19812,,Regular,New York Knicks,Portland Trail Blazers
+202001010MIL,2020-01-01,8:00p,Minnesota Timberwolves,104,Milwaukee Bucks,106,,17819,,Regular,Milwaukee Bucks,Minnesota Timberwolves
+202001010LAL,2020-01-01,10:30p,Phoenix Suns,107,Los Angeles Lakers,117,,18997,,Regular,Los Angeles Lakers,Phoenix Suns
+202001020CLE,2020-01-02,7:00p,Charlotte Hornets,109,Cleveland Cavaliers,106,,17859,,Regular,Charlotte Hornets,Cleveland Cavaliers
+202001020IND,2020-01-02,7:00p,Denver Nuggets,124,Indiana Pacers,116,,16688,,Regular,Denver Nuggets,Indiana Pacers
+202001020MIA,2020-01-02,7:30p,Toronto Raptors,76,Miami Heat,84,,19939,,Regular,Miami Heat,Toronto Raptors
+202001020CHI,2020-01-02,8:00p,Utah Jazz,102,Chicago Bulls,98,,19398,,Regular,Utah Jazz,Chicago Bulls
+202001020MIN,2020-01-02,8:00p,Golden State Warriors,84,Minnesota Timberwolves,99,,15477,,Regular,Minnesota Timberwolves,Golden State Warriors
+202001020DAL,2020-01-02,8:30p,Brooklyn Nets,111,Dallas Mavericks,123,,20289,,Regular,Dallas Mavericks,Brooklyn Nets
+202001020SAS,2020-01-02,8:30p,Oklahoma City Thunder,109,San Antonio Spurs,103,,18354,,Regular,Oklahoma City Thunder,San Antonio Spurs
+202001020SAC,2020-01-02,10:00p,Memphis Grizzlies,123,Sacramento Kings,128,,17351,,Regular,Sacramento Kings,Memphis Grizzlies
+202001020LAC,2020-01-02,10:30p,Detroit Pistons,112,Los Angeles Clippers,126,,19068,,Regular,Los Angeles Clippers,Detroit Pistons
+202001030BOS,2020-01-03,7:00p,Atlanta Hawks,106,Boston Celtics,109,,19156,,Regular,Boston Celtics,Atlanta Hawks
+202001030ORL,2020-01-03,7:00p,Miami Heat,85,Orlando Magic,105,,17198,,Regular,Orlando Magic,Miami Heat
+202001030WAS,2020-01-03,7:00p,Portland Trail Blazers,122,Washington Wizards,103,,17945,,Regular,Portland Trail Blazers,Washington Wizards
+202001030HOU,2020-01-03,8:00p,Philadelphia 76ers,108,Houston Rockets,118,,18055,,Regular,Houston Rockets,Philadelphia 76ers
+202001030PHO,2020-01-03,9:00p,New York Knicks,112,Phoenix Suns,120,,18055,,Regular,Phoenix Suns,New York Knicks
+202001030LAL,2020-01-03,10:30p,New Orleans Pelicans,113,Los Angeles Lakers,123,,18997,,Regular,Los Angeles Lakers,New Orleans Pelicans
+202001040LAC,2020-01-04,3:30p,Memphis Grizzlies,140,Los Angeles Clippers,114,,19068,,Regular,Memphis Grizzlies,Los Angeles Clippers
+202001040BRK,2020-01-04,6:00p,Toronto Raptors,121,Brooklyn Nets,102,,17732,,Regular,Toronto Raptors,Brooklyn Nets
+202001040ORL,2020-01-04,7:00p,Utah Jazz,109,Orlando Magic,96,,16913,,Regular,Utah Jazz,Orlando Magic
+202001040ATL,2020-01-04,7:30p,Indiana Pacers,111,Atlanta Hawks,116,,16420,,Regular,Atlanta Hawks,Indiana Pacers
+202001040CLE,2020-01-04,7:30p,Oklahoma City Thunder,121,Cleveland Cavaliers,106,,19432,,Regular,Oklahoma City Thunder,Cleveland Cavaliers
+202001040CHI,2020-01-04,8:00p,Boston Celtics,111,Chicago Bulls,104,,21130,,Regular,Boston Celtics,Chicago Bulls
+202001040WAS,2020-01-04,8:00p,Denver Nuggets,114,Washington Wizards,128,,16233,,Regular,Washington Wizards,Denver Nuggets
+202001040DAL,2020-01-04,8:30p,Charlotte Hornets,123,Dallas Mavericks,120,OT,20327,,Regular,Charlotte Hornets,Dallas Mavericks
+202001040GSW,2020-01-04,8:30p,Detroit Pistons,111,Golden State Warriors,104,,18064,,Regular,Detroit Pistons,Golden State Warriors
+202001040MIL,2020-01-04,8:30p,San Antonio Spurs,118,Milwaukee Bucks,127,,18002,,Regular,Milwaukee Bucks,San Antonio Spurs
+202001040SAC,2020-01-04,10:00p,New Orleans Pelicans,117,Sacramento Kings,115,,16808,,Regular,New Orleans Pelicans,Sacramento Kings
+202001050LAC,2020-01-05,3:30p,New York Knicks,132,Los Angeles Clippers,135,,19068,,Regular,Los Angeles Clippers,New York Knicks
+202001050MIA,2020-01-05,6:00p,Portland Trail Blazers,111,Miami Heat,122,,19846,,Regular,Miami Heat,Portland Trail Blazers
+202001050CLE,2020-01-05,7:30p,Minnesota Timberwolves,118,Cleveland Cavaliers,103,,16159,,Regular,Minnesota Timberwolves,Cleveland Cavaliers
+202001050PHO,2020-01-05,8:00p,Memphis Grizzlies,121,Phoenix Suns,114,,14181,,Regular,Memphis Grizzlies,Phoenix Suns
+202001050LAL,2020-01-05,10:00p,Detroit Pistons,99,Los Angeles Lakers,106,,18997,,Regular,Los Angeles Lakers,Detroit Pistons
+202001060CHO,2020-01-06,7:00p,Indiana Pacers,115,Charlotte Hornets,104,,13009,,Regular,Indiana Pacers,Charlotte Hornets
+202001060ORL,2020-01-06,7:00p,Brooklyn Nets,89,Orlando Magic,101,,15008,,Regular,Orlando Magic,Brooklyn Nets
+202001060PHI,2020-01-06,7:00p,Oklahoma City Thunder,113,Philadelphia 76ers,120,,20561,,Regular,Philadelphia 76ers,Oklahoma City Thunder
+202001060WAS,2020-01-06,7:00p,Boston Celtics,94,Washington Wizards,99,,17963,,Regular,Washington Wizards,Boston Celtics
+202001060ATL,2020-01-06,7:30p,Denver Nuggets,123,Atlanta Hawks,115,,15286,,Regular,Denver Nuggets,Atlanta Hawks
+202001060NOP,2020-01-06,8:00p,Utah Jazz,128,New Orleans Pelicans,126,,14138,,Regular,Utah Jazz,New Orleans Pelicans
+202001060DAL,2020-01-06,8:30p,Chicago Bulls,110,Dallas Mavericks,118,,20238,,Regular,Dallas Mavericks,Chicago Bulls
+202001060SAS,2020-01-06,8:30p,Milwaukee Bucks,104,San Antonio Spurs,126,,18354,,Regular,San Antonio Spurs,Milwaukee Bucks
+202001060SAC,2020-01-06,10:00p,Golden State Warriors,98,Sacramento Kings,111,,15819,,Regular,Sacramento Kings,Golden State Warriors
+202001070CLE,2020-01-07,7:00p,Detroit Pistons,115,Cleveland Cavaliers,113,,17274,,Regular,Detroit Pistons,Cleveland Cavaliers
+202001070TOR,2020-01-07,7:00p,Portland Trail Blazers,101,Toronto Raptors,99,,19800,,Regular,Portland Trail Blazers,Toronto Raptors
+202001070BRK,2020-01-07,7:30p,Oklahoma City Thunder,111,Brooklyn Nets,103,OT,15677,,Regular,Oklahoma City Thunder,Brooklyn Nets
+202001070MEM,2020-01-07,8:00p,Minnesota Timberwolves,112,Memphis Grizzlies,119,,14117,,Regular,Memphis Grizzlies,Minnesota Timberwolves
+202001070PHO,2020-01-07,9:00p,Sacramento Kings,114,Phoenix Suns,103,,14134,,Regular,Sacramento Kings,Phoenix Suns
+202001070LAL,2020-01-07,10:30p,New York Knicks,87,Los Angeles Lakers,117,,18997,,Regular,Los Angeles Lakers,New York Knicks
+202001080BOS,2020-01-08,7:00p,San Antonio Spurs,129,Boston Celtics,114,,19156,,Regular,San Antonio Spurs,Boston Celtics
+202001080CHO,2020-01-08,7:00p,Toronto Raptors,112,Charlotte Hornets,110,OT,13965,,Regular,Toronto Raptors,Charlotte Hornets
+202001080IND,2020-01-08,7:00p,Miami Heat,122,Indiana Pacers,108,,17040,,Regular,Miami Heat,Indiana Pacers
+202001080ORL,2020-01-08,7:00p,Washington Wizards,89,Orlando Magic,123,,16013,,Regular,Orlando Magic,Washington Wizards
+202001080ATL,2020-01-08,7:30p,Houston Rockets,122,Atlanta Hawks,115,,16514,,Regular,Houston Rockets,Atlanta Hawks
+202001080DAL,2020-01-08,7:30p,Denver Nuggets,107,Dallas Mavericks,106,,20314,,Regular,Denver Nuggets,Dallas Mavericks
+202001080NOP,2020-01-08,8:00p,Chicago Bulls,108,New Orleans Pelicans,123,,15324,,Regular,New Orleans Pelicans,Chicago Bulls
+202001080UTA,2020-01-08,9:00p,New York Knicks,104,Utah Jazz,128,,18306,,Regular,Utah Jazz,New York Knicks
+202001080GSW,2020-01-08,10:00p,Milwaukee Bucks,107,Golden State Warriors,98,,18064,,Regular,Milwaukee Bucks,Golden State Warriors
+202001090DET,2020-01-09,7:00p,Cleveland Cavaliers,115,Detroit Pistons,112,OT,13445,,Regular,Cleveland Cavaliers,Detroit Pistons
+202001090PHI,2020-01-09,7:00p,Boston Celtics,98,Philadelphia 76ers,109,,20822,,Regular,Philadelphia 76ers,Boston Celtics
+202001090MIN,2020-01-09,8:00p,Portland Trail Blazers,102,Minnesota Timberwolves,116,,13720,,Regular,Minnesota Timberwolves,Portland Trail Blazers
+202001090OKC,2020-01-09,9:30p,Houston Rockets,92,Oklahoma City Thunder,113,,18203,,Regular,Oklahoma City Thunder,Houston Rockets
+202001100WAS,2020-01-10,7:00p,Atlanta Hawks,101,Washington Wizards,111,,16360,,Regular,Washington Wizards,Atlanta Hawks
+202001100NYK,2020-01-10,7:15p,New Orleans Pelicans,123,New York Knicks,111,,18003,,Regular,New Orleans Pelicans,New York Knicks
+202001100BRK,2020-01-10,7:30p,Miami Heat,113,Brooklyn Nets,117,,16011,,Regular,Brooklyn Nets,Miami Heat
+202001100CHI,2020-01-10,8:00p,Indiana Pacers,116,Chicago Bulls,105,,20229,,Regular,Indiana Pacers,Chicago Bulls
+202001100MEM,2020-01-10,8:00p,San Antonio Spurs,121,Memphis Grizzlies,134,,16448,,Regular,Memphis Grizzlies,San Antonio Spurs
+202001100PHO,2020-01-10,9:00p,Orlando Magic,94,Phoenix Suns,98,,14562,,Regular,Phoenix Suns,Orlando Magic
+202001100UTA,2020-01-10,9:00p,Charlotte Hornets,92,Utah Jazz,109,,18306,,Regular,Utah Jazz,Charlotte Hornets
+202001100DAL,2020-01-10,9:45p,Los Angeles Lakers,129,Dallas Mavericks,114,,20542,,Regular,Los Angeles Lakers,Dallas Mavericks
+202001100SAC,2020-01-10,10:00p,Milwaukee Bucks,127,Sacramento Kings,106,,17583,,Regular,Milwaukee Bucks,Sacramento Kings
+202001100LAC,2020-01-10,10:30p,Golden State Warriors,100,Los Angeles Clippers,109,,19068,,Regular,Los Angeles Clippers,Golden State Warriors
+202001110HOU,2020-01-11,5:00p,Minnesota Timberwolves,109,Houston Rockets,139,,18055,,Regular,Houston Rockets,Minnesota Timberwolves
+202001110BOS,2020-01-11,7:00p,New Orleans Pelicans,105,Boston Celtics,140,,19156,,Regular,Boston Celtics,New Orleans Pelicans
+202001110DET,2020-01-11,7:00p,Chicago Bulls,108,Detroit Pistons,99,,15951,,Regular,Chicago Bulls,Detroit Pistons
+202001110OKC,2020-01-11,8:00p,Los Angeles Lakers,125,Oklahoma City Thunder,110,,18203,,Regular,Los Angeles Lakers,Oklahoma City Thunder
+202001110DAL,2020-01-11,8:30p,Philadelphia 76ers,91,Dallas Mavericks,109,,20244,,Regular,Dallas Mavericks,Philadelphia 76ers
+202001110DEN,2020-01-11,9:00p,Cleveland Cavaliers,111,Denver Nuggets,103,,19533,,Regular,Cleveland Cavaliers,Denver Nuggets
+202001110POR,2020-01-11,10:00p,Milwaukee Bucks,122,Portland Trail Blazers,101,,19843,,Regular,Milwaukee Bucks,Portland Trail Blazers
+202001120NYK,2020-01-12,3:30p,Miami Heat,121,New York Knicks,124,,18861,,Regular,New York Knicks,Miami Heat
+202001120WAS,2020-01-12,3:30p,Utah Jazz,127,Washington Wizards,116,,15953,,Regular,Utah Jazz,Washington Wizards
+202001120BRK,2020-01-12,6:00p,Atlanta Hawks,86,Brooklyn Nets,108,,15201,,Regular,Brooklyn Nets,Atlanta Hawks
+202001120MEM,2020-01-12,6:00p,Golden State Warriors,102,Memphis Grizzlies,122,,16408,,Regular,Memphis Grizzlies,Golden State Warriors
+202001120TOR,2020-01-12,6:00p,San Antonio Spurs,105,Toronto Raptors,104,,19800,,Regular,San Antonio Spurs,Toronto Raptors
+202001120DEN,2020-01-12,8:00p,Los Angeles Clippers,104,Denver Nuggets,114,,19520,,Regular,Denver Nuggets,Los Angeles Clippers
+202001120PHO,2020-01-12,8:00p,Charlotte Hornets,92,Phoenix Suns,100,,14751,,Regular,Phoenix Suns,Charlotte Hornets
+202001130DET,2020-01-13,7:00p,New Orleans Pelicans,117,Detroit Pistons,110,OT,13780,,Regular,New Orleans Pelicans,Detroit Pistons
+202001130IND,2020-01-13,7:00p,Philadelphia 76ers,95,Indiana Pacers,101,,15257,,Regular,Indiana Pacers,Philadelphia 76ers
+202001130BOS,2020-01-13,7:30p,Chicago Bulls,101,Boston Celtics,113,,19156,,Regular,Boston Celtics,Chicago Bulls
+202001130MIN,2020-01-13,8:00p,Oklahoma City Thunder,117,Minnesota Timberwolves,104,,11044,,Regular,Oklahoma City Thunder,Minnesota Timberwolves
+202001130POR,2020-01-13,10:00p,Charlotte Hornets,112,Portland Trail Blazers,115,,19111,,Regular,Portland Trail Blazers,Charlotte Hornets
+202001130SAC,2020-01-13,10:00p,Orlando Magic,114,Sacramento Kings,112,,16299,,Regular,Orlando Magic,Sacramento Kings
+202001130LAL,2020-01-13,10:30p,Cleveland Cavaliers,99,Los Angeles Lakers,128,,18997,,Regular,Los Angeles Lakers,Cleveland Cavaliers
+202001140ATL,2020-01-14,7:30p,Phoenix Suns,110,Atlanta Hawks,123,,16060,,Regular,Atlanta Hawks,Phoenix Suns
+202001140BRK,2020-01-14,7:30p,Utah Jazz,118,Brooklyn Nets,107,,15381,,Regular,Utah Jazz,Brooklyn Nets
+202001140MEM,2020-01-14,8:00p,Houston Rockets,110,Memphis Grizzlies,121,,16181,,Regular,Memphis Grizzlies,Houston Rockets
+202001140MIL,2020-01-14,8:00p,New York Knicks,102,Milwaukee Bucks,128,,17590,,Regular,Milwaukee Bucks,New York Knicks
+202001140GSW,2020-01-14,10:30p,Dallas Mavericks,124,Golden State Warriors,97,,18064,,Regular,Dallas Mavericks,Golden State Warriors
+202001140LAC,2020-01-14,10:30p,Cleveland Cavaliers,103,Los Angeles Clippers,128,,19068,,Regular,Los Angeles Clippers,Cleveland Cavaliers
+202001150BOS,2020-01-15,7:00p,Detroit Pistons,116,Boston Celtics,103,,19156,,Regular,Detroit Pistons,Boston Celtics
+202001150PHI,2020-01-15,7:00p,Brooklyn Nets,106,Philadelphia 76ers,117,,20416,,Regular,Philadelphia 76ers,Brooklyn Nets
+202001150MIA,2020-01-15,7:30p,San Antonio Spurs,100,Miami Heat,106,,19704,,Regular,Miami Heat,San Antonio Spurs
+202001150CHI,2020-01-15,8:00p,Washington Wizards,106,Chicago Bulls,115,,19382,,Regular,Chicago Bulls,Washington Wizards
+202001150MIN,2020-01-15,8:00p,Indiana Pacers,104,Minnesota Timberwolves,99,,12648,,Regular,Indiana Pacers,Minnesota Timberwolves
+202001150OKC,2020-01-15,8:00p,Toronto Raptors,130,Oklahoma City Thunder,121,,18203,,Regular,Toronto Raptors,Oklahoma City Thunder
+202001150DEN,2020-01-15,9:00p,Charlotte Hornets,86,Denver Nuggets,100,,19520,,Regular,Denver Nuggets,Charlotte Hornets
+202001150HOU,2020-01-15,9:30p,Portland Trail Blazers,117,Houston Rockets,107,,18055,,Regular,Portland Trail Blazers,Houston Rockets
+202001150SAC,2020-01-15,10:00p,Dallas Mavericks,127,Sacramento Kings,123,,17029,,Regular,Dallas Mavericks,Sacramento Kings
+202001150LAL,2020-01-15,10:30p,Orlando Magic,119,Los Angeles Lakers,118,,18997,,Regular,Orlando Magic,Los Angeles Lakers
+202001160NYK,2020-01-16,7:30p,Phoenix Suns,121,New York Knicks,98,,18215,,Regular,Phoenix Suns,New York Knicks
+202001160MIL,2020-01-16,8:00p,Boston Celtics,123,Milwaukee Bucks,128,,17873,,Regular,Milwaukee Bucks,Boston Celtics
+202001160NOP,2020-01-16,8:00p,Utah Jazz,132,New Orleans Pelicans,138,OT,16717,,Regular,New Orleans Pelicans,Utah Jazz
+202001160GSW,2020-01-16,10:30p,Denver Nuggets,134,Golden State Warriors,131,OT,18064,,Regular,Denver Nuggets,Golden State Warriors
+202001160LAC,2020-01-16,10:30p,Orlando Magic,95,Los Angeles Clippers,122,,19068,,Regular,Los Angeles Clippers,Orlando Magic
+202001170IND,2020-01-17,7:00p,Minnesota Timberwolves,114,Indiana Pacers,116,,16248,,Regular,Indiana Pacers,Minnesota Timberwolves
+202001170PHI,2020-01-17,7:00p,Chicago Bulls,89,Philadelphia 76ers,100,,20919,,Regular,Philadelphia 76ers,Chicago Bulls
+202001170TOR,2020-01-17,7:00p,Washington Wizards,111,Toronto Raptors,140,,19800,,Regular,Toronto Raptors,Washington Wizards
+202001170MEM,2020-01-17,8:00p,Cleveland Cavaliers,109,Memphis Grizzlies,113,,17102,,Regular,Memphis Grizzlies,Cleveland Cavaliers
+202001170OKC,2020-01-17,8:00p,Miami Heat,115,Oklahoma City Thunder,108,,18203,,Regular,Miami Heat,Oklahoma City Thunder
+202001170SAS,2020-01-17,8:30p,Atlanta Hawks,121,San Antonio Spurs,120,,18354,,Regular,Atlanta Hawks,San Antonio Spurs
+202001170DAL,2020-01-17,9:30p,Portland Trail Blazers,112,Dallas Mavericks,120,,20283,,Regular,Dallas Mavericks,Portland Trail Blazers
+202001180NOP,2020-01-18,3:30p,Los Angeles Clippers,133,New Orleans Pelicans,130,,17959,,Regular,Los Angeles Clippers,New Orleans Pelicans
+202001180BRK,2020-01-18,6:00p,Milwaukee Bucks,117,Brooklyn Nets,97,,17732,,Regular,Milwaukee Bucks,Brooklyn Nets
+202001180BOS,2020-01-18,7:00p,Phoenix Suns,123,Boston Celtics,119,,19156,,Regular,Phoenix Suns,Boston Celtics
+202001180ATL,2020-01-18,7:30p,Detroit Pistons,136,Atlanta Hawks,103,,17056,,Regular,Detroit Pistons,Atlanta Hawks
+202001180NYK,2020-01-18,7:30p,Philadelphia 76ers,90,New York Knicks,87,,17812,,Regular,Philadelphia 76ers,New York Knicks
+202001180CHI,2020-01-18,8:00p,Cleveland Cavaliers,116,Chicago Bulls,118,,19939,,Regular,Chicago Bulls,Cleveland Cavaliers
+202001180MIN,2020-01-18,8:00p,Toronto Raptors,122,Minnesota Timberwolves,112,,16520,,Regular,Toronto Raptors,Minnesota Timberwolves
+202001180GSW,2020-01-18,8:30p,Orlando Magic,95,Golden State Warriors,109,,18064,,Regular,Golden State Warriors,Orlando Magic
+202001180HOU,2020-01-18,8:30p,Los Angeles Lakers,124,Houston Rockets,115,,18502,,Regular,Los Angeles Lakers,Houston Rockets
+202001180OKC,2020-01-18,9:00p,Portland Trail Blazers,106,Oklahoma City Thunder,119,,18203,,Regular,Oklahoma City Thunder,Portland Trail Blazers
+202001180UTA,2020-01-18,9:00p,Sacramento Kings,101,Utah Jazz,123,,18306,,Regular,Utah Jazz,Sacramento Kings
+202001190SAS,2020-01-19,3:00p,Miami Heat,102,San Antonio Spurs,107,,18422,,Regular,San Antonio Spurs,Miami Heat
+202001190DEN,2020-01-19,8:00p,Indiana Pacers,115,Denver Nuggets,107,,19520,,Regular,Indiana Pacers,Denver Nuggets
+202001200WAS,2020-01-20,2:00p,Detroit Pistons,100,Washington Wizards,106,,17305,,Regular,Washington Wizards,Detroit Pistons
+202001200ATL,2020-01-20,2:30p,Toronto Raptors,122,Atlanta Hawks,117,,17300,,Regular,Toronto Raptors,Atlanta Hawks
+202001200BRK,2020-01-20,3:00p,Philadelphia 76ers,117,Brooklyn Nets,111,,16801,,Regular,Philadelphia 76ers,Brooklyn Nets
+202001200CHO,2020-01-20,5:00p,Orlando Magic,106,Charlotte Hornets,83,,16133,,Regular,Orlando Magic,Charlotte Hornets
+202001200CLE,2020-01-20,5:00p,New York Knicks,106,Cleveland Cavaliers,86,,17133,,Regular,New York Knicks,Cleveland Cavaliers
+202001200HOU,2020-01-20,5:00p,Oklahoma City Thunder,112,Houston Rockets,107,,18055,,Regular,Oklahoma City Thunder,Houston Rockets
+202001200MEM,2020-01-20,5:00p,New Orleans Pelicans,126,Memphis Grizzlies,116,,17794,,Regular,New Orleans Pelicans,Memphis Grizzlies
+202001200MIA,2020-01-20,5:00p,Sacramento Kings,113,Miami Heat,118,OT,19600,,Regular,Miami Heat,Sacramento Kings
+202001200MIL,2020-01-20,5:00p,Chicago Bulls,98,Milwaukee Bucks,111,,17747,,Regular,Milwaukee Bucks,Chicago Bulls
+202001200BOS,2020-01-20,7:30p,Los Angeles Lakers,107,Boston Celtics,139,,19156,,Regular,Boston Celtics,Los Angeles Lakers
+202001200MIN,2020-01-20,8:00p,Denver Nuggets,107,Minnesota Timberwolves,100,,12172,,Regular,Denver Nuggets,Minnesota Timberwolves
+202001200PHO,2020-01-20,9:00p,San Antonio Spurs,120,Phoenix Suns,118,,14847,,Regular,San Antonio Spurs,Phoenix Suns
+202001200UTA,2020-01-20,9:00p,Indiana Pacers,88,Utah Jazz,118,,18306,,Regular,Utah Jazz,Indiana Pacers
+202001200POR,2020-01-20,10:00p,Golden State Warriors,124,Portland Trail Blazers,129,OT,19493,,Regular,Portland Trail Blazers,Golden State Warriors
+202001210DAL,2020-01-21,8:30p,Los Angeles Clippers,110,Dallas Mavericks,107,,19783,,Regular,Los Angeles Clippers,Dallas Mavericks
+202001220DET,2020-01-22,7:00p,Sacramento Kings,106,Detroit Pistons,127,,13972,,Regular,Detroit Pistons,Sacramento Kings
+202001220ORL,2020-01-22,7:00p,Oklahoma City Thunder,120,Orlando Magic,114,,18846,,Regular,Oklahoma City Thunder,Orlando Magic
+202001220TOR,2020-01-22,7:00p,Philadelphia 76ers,95,Toronto Raptors,107,,19800,,Regular,Toronto Raptors,Philadelphia 76ers
+202001220ATL,2020-01-22,7:30p,Los Angeles Clippers,95,Atlanta Hawks,102,,14338,,Regular,Atlanta Hawks,Los Angeles Clippers
+202001220BOS,2020-01-22,7:30p,Memphis Grizzlies,95,Boston Celtics,119,,19156,,Regular,Boston Celtics,Memphis Grizzlies
+202001220MIA,2020-01-22,7:30p,Washington Wizards,129,Miami Heat,134,OT,19600,,Regular,Miami Heat,Washington Wizards
+202001220NYK,2020-01-22,7:30p,Los Angeles Lakers,100,New York Knicks,92,,19812,,Regular,Los Angeles Lakers,New York Knicks
+202001220CHI,2020-01-22,8:00p,Minnesota Timberwolves,110,Chicago Bulls,117,,18875,,Regular,Chicago Bulls,Minnesota Timberwolves
+202001220HOU,2020-01-22,8:00p,Denver Nuggets,105,Houston Rockets,121,,18055,,Regular,Houston Rockets,Denver Nuggets
+202001220PHO,2020-01-22,9:00p,Indiana Pacers,112,Phoenix Suns,87,,14691,,Regular,Indiana Pacers,Phoenix Suns
+202001220NOP,2020-01-22,9:30p,San Antonio Spurs,121,New Orleans Pelicans,117,,18365,,Regular,San Antonio Spurs,New Orleans Pelicans
+202001220GSW,2020-01-22,10:00p,Utah Jazz,129,Golden State Warriors,96,,18064,,Regular,Utah Jazz,Golden State Warriors
+202001230CLE,2020-01-23,7:00p,Washington Wizards,124,Cleveland Cavaliers,112,,16689,,Regular,Washington Wizards,Cleveland Cavaliers
+202001230BRK,2020-01-23,8:00p,Los Angeles Lakers,128,Brooklyn Nets,113,,17732,,Regular,Los Angeles Lakers,Brooklyn Nets
+202001230POR,2020-01-23,10:30p,Dallas Mavericks,133,Portland Trail Blazers,125,,19574,,Regular,Dallas Mavericks,Portland Trail Blazers
+202001240CHO,2020-01-24,3:00p,Milwaukee Bucks,116,Charlotte Hornets,103,,15758,"at Paris, France",Regular,Milwaukee Bucks,Charlotte Hornets
+202001240DET,2020-01-24,7:00p,Memphis Grizzlies,125,Detroit Pistons,112,,14583,,Regular,Memphis Grizzlies,Detroit Pistons
+202001240ORL,2020-01-24,7:00p,Boston Celtics,109,Orlando Magic,98,,18846,,Regular,Boston Celtics,Orlando Magic
+202001240NYK,2020-01-24,7:30p,Toronto Raptors,118,New York Knicks,112,,18883,,Regular,Toronto Raptors,New York Knicks
+202001240CHI,2020-01-24,8:00p,Sacramento Kings,98,Chicago Bulls,81,,17661,,Regular,Sacramento Kings,Chicago Bulls
+202001240MIA,2020-01-24,8:00p,Los Angeles Clippers,122,Miami Heat,117,,19632,,Regular,Los Angeles Clippers,Miami Heat
+202001240MIN,2020-01-24,8:00p,Houston Rockets,131,Minnesota Timberwolves,124,,16101,,Regular,Houston Rockets,Minnesota Timberwolves
+202001240NOP,2020-01-24,8:00p,Denver Nuggets,113,New Orleans Pelicans,106,,16398,,Regular,Denver Nuggets,New Orleans Pelicans
+202001240OKC,2020-01-24,8:00p,Atlanta Hawks,111,Oklahoma City Thunder,140,,18203,,Regular,Oklahoma City Thunder,Atlanta Hawks
+202001240SAS,2020-01-24,8:30p,Phoenix Suns,103,San Antonio Spurs,99,,18354,,Regular,Phoenix Suns,San Antonio Spurs
+202001240GSW,2020-01-24,10:30p,Indiana Pacers,129,Golden State Warriors,118,,18064,,Regular,Indiana Pacers,Golden State Warriors
+202001250UTA,2020-01-25,5:00p,Dallas Mavericks,107,Utah Jazz,112,,18306,,Regular,Utah Jazz,Dallas Mavericks
+202001250DET,2020-01-25,7:00p,Brooklyn Nets,121,Detroit Pistons,111,OT,15890,,Regular,Brooklyn Nets,Detroit Pistons
+202001250CLE,2020-01-25,8:00p,Chicago Bulls,118,Cleveland Cavaliers,106,,19432,,Regular,Chicago Bulls,Cleveland Cavaliers
+202001250MIN,2020-01-25,8:00p,Oklahoma City Thunder,113,Minnesota Timberwolves,104,,16236,,Regular,Oklahoma City Thunder,Minnesota Timberwolves
+202001250PHI,2020-01-25,8:30p,Los Angeles Lakers,91,Philadelphia 76ers,108,,21109,,Regular,Philadelphia 76ers,Los Angeles Lakers
+202001260DEN,2020-01-26,3:30p,Houston Rockets,110,Denver Nuggets,117,,19520,,Regular,Denver Nuggets,Houston Rockets
+202001260SAS,2020-01-26,4:00p,Toronto Raptors,110,San Antonio Spurs,106,,18354,,Regular,Toronto Raptors,San Antonio Spurs
+202001260ATL,2020-01-26,6:00p,Washington Wizards,133,Atlanta Hawks,152,,15567,,Regular,Atlanta Hawks,Washington Wizards
+202001260MEM,2020-01-26,6:00p,Phoenix Suns,109,Memphis Grizzlies,114,,17214,,Regular,Memphis Grizzlies,Phoenix Suns
+202001260NOP,2020-01-26,6:00p,Boston Celtics,108,New Orleans Pelicans,123,,16737,,Regular,New Orleans Pelicans,Boston Celtics
+202001260NYK,2020-01-26,6:00p,Brooklyn Nets,97,New York Knicks,110,,17831,,Regular,New York Knicks,Brooklyn Nets
+202001260ORL,2020-01-26,6:00p,Los Angeles Clippers,112,Orlando Magic,97,,15427,,Regular,Los Angeles Clippers,Orlando Magic
+202001260POR,2020-01-26,9:00p,Indiana Pacers,129,Portland Trail Blazers,139,,19663,,Regular,Portland Trail Blazers,Indiana Pacers
+202001270DET,2020-01-27,7:00p,Cleveland Cavaliers,115,Detroit Pistons,100,,12597,,Regular,Cleveland Cavaliers,Detroit Pistons
+202001270MIA,2020-01-27,7:30p,Orlando Magic,92,Miami Heat,113,,19600,,Regular,Miami Heat,Orlando Magic
+202001270CHI,2020-01-27,8:00p,San Antonio Spurs,109,Chicago Bulls,110,,16071,,Regular,Chicago Bulls,San Antonio Spurs
+202001270MIN,2020-01-27,8:00p,Sacramento Kings,133,Minnesota Timberwolves,129,OT,13449,,Regular,Sacramento Kings,Minnesota Timberwolves
+202001270OKC,2020-01-27,8:00p,Dallas Mavericks,107,Oklahoma City Thunder,97,,18203,,Regular,Dallas Mavericks,Oklahoma City Thunder
+202001270UTA,2020-01-27,9:00p,Houston Rockets,126,Utah Jazz,117,,18306,,Regular,Houston Rockets,Utah Jazz
+202001280CHO,2020-01-28,7:00p,New York Knicks,92,Charlotte Hornets,97,,14342,,Regular,Charlotte Hornets,New York Knicks
+202001280PHI,2020-01-28,7:00p,Golden State Warriors,104,Philadelphia 76ers,115,,20854,,Regular,Philadelphia 76ers,Golden State Warriors
+202001280CLE,2020-01-28,7:30p,New Orleans Pelicans,125,Cleveland Cavaliers,111,,19432,,Regular,New Orleans Pelicans,Cleveland Cavaliers
+202001280TOR,2020-01-28,7:30p,Atlanta Hawks,114,Toronto Raptors,130,,19800,,Regular,Toronto Raptors,Atlanta Hawks
+202001280MEM,2020-01-28,8:00p,Denver Nuggets,96,Memphis Grizzlies,104,,14365,,Regular,Memphis Grizzlies,Denver Nuggets
+202001280MIA,2020-01-28,8:00p,Boston Celtics,109,Miami Heat,101,,19704,,Regular,Boston Celtics,Miami Heat
+202001280MIL,2020-01-28,8:00p,Washington Wizards,131,Milwaukee Bucks,151,,17681,,Regular,Milwaukee Bucks,Washington Wizards
+202001280DAL,2020-01-28,8:30p,Phoenix Suns,133,Dallas Mavericks,104,,20216,,Regular,Phoenix Suns,Dallas Mavericks
+202001290IND,2020-01-29,7:00p,Chicago Bulls,106,Indiana Pacers,115,OT,17923,,Regular,Indiana Pacers,Chicago Bulls
+202001290BRK,2020-01-29,7:30p,Detroit Pistons,115,Brooklyn Nets,125,,14275,,Regular,Brooklyn Nets,Detroit Pistons
+202001290NYK,2020-01-29,7:30p,Memphis Grizzlies,127,New York Knicks,106,,18768,,Regular,Memphis Grizzlies,New York Knicks
+202001290SAS,2020-01-29,8:30p,Utah Jazz,120,San Antonio Spurs,127,,17887,,Regular,San Antonio Spurs,Utah Jazz
+202001290POR,2020-01-29,10:00p,Houston Rockets,112,Portland Trail Blazers,125,,19393,,Regular,Portland Trail Blazers,Houston Rockets
+202001290SAC,2020-01-29,10:00p,Oklahoma City Thunder,120,Sacramento Kings,100,,16935,,Regular,Oklahoma City Thunder,Sacramento Kings
+202001300CLE,2020-01-30,7:00p,Toronto Raptors,115,Cleveland Cavaliers,109,,17695,,Regular,Toronto Raptors,Cleveland Cavaliers
+202001300WAS,2020-01-30,7:00p,Charlotte Hornets,107,Washington Wizards,121,,15013,,Regular,Washington Wizards,Charlotte Hornets
+202001300ATL,2020-01-30,7:30p,Philadelphia 76ers,117,Atlanta Hawks,127,,15227,,Regular,Atlanta Hawks,Philadelphia 76ers
+202001300BOS,2020-01-30,8:00p,Golden State Warriors,104,Boston Celtics,119,,19156,,Regular,Boston Celtics,Golden State Warriors
+202001300DEN,2020-01-30,10:30p,Utah Jazz,100,Denver Nuggets,106,,19520,,Regular,Denver Nuggets,Utah Jazz
+202001300LAC,2020-01-30,10:30p,Sacramento Kings,124,Los Angeles Clippers,103,,19068,,Regular,Sacramento Kings,Los Angeles Clippers
+202001310DET,2020-01-31,7:00p,Toronto Raptors,105,Detroit Pistons,92,,17356,,Regular,Toronto Raptors,Detroit Pistons
+202001310BRK,2020-01-31,7:30p,Chicago Bulls,118,Brooklyn Nets,133,,17732,,Regular,Brooklyn Nets,Chicago Bulls
+202001310HOU,2020-01-31,7:30p,Dallas Mavericks,121,Houston Rockets,128,,18055,,Regular,Houston Rockets,Dallas Mavericks
+202001310NOP,2020-01-31,8:00p,Memphis Grizzlies,111,New Orleans Pelicans,139,,18362,,Regular,New Orleans Pelicans,Memphis Grizzlies
+202001310MIL,2020-01-31,9:00p,Denver Nuggets,127,Milwaukee Bucks,115,,18141,,Regular,Denver Nuggets,Milwaukee Bucks
+202001310PHO,2020-01-31,9:00p,Oklahoma City Thunder,111,Phoenix Suns,107,,17260,,Regular,Oklahoma City Thunder,Phoenix Suns
+202001310LAL,2020-01-31,10:30p,Portland Trail Blazers,127,Los Angeles Lakers,119,,18997,,Regular,Portland Trail Blazers,Los Angeles Lakers
+202002010LAC,2020-02-01,3:30p,Minnesota Timberwolves,106,Los Angeles Clippers,118,,19068,,Regular,Los Angeles Clippers,Minnesota Timberwolves
+202002010IND,2020-02-01,7:00p,New York Knicks,92,Indiana Pacers,85,,17923,,Regular,New York Knicks,Indiana Pacers
+202002010ORL,2020-02-01,7:00p,Miami Heat,102,Orlando Magic,89,,18846,,Regular,Miami Heat,Orlando Magic
+202002010CLE,2020-02-01,8:00p,Golden State Warriors,131,Cleveland Cavaliers,112,,18410,,Regular,Golden State Warriors,Cleveland Cavaliers
+202002010WAS,2020-02-01,8:00p,Brooklyn Nets,107,Washington Wizards,113,,18196,,Regular,Washington Wizards,Brooklyn Nets
+202002010BOS,2020-02-01,8:30p,Philadelphia 76ers,95,Boston Celtics,116,,19156,,Regular,Boston Celtics,Philadelphia 76ers
+202002010DAL,2020-02-01,8:30p,Atlanta Hawks,100,Dallas Mavericks,123,,20328,,Regular,Dallas Mavericks,Atlanta Hawks
+202002010SAS,2020-02-01,9:00p,Charlotte Hornets,90,San Antonio Spurs,114,,18615,,Regular,San Antonio Spurs,Charlotte Hornets
+202002010SAC,2020-02-01,10:00p,Los Angeles Lakers,129,Sacramento Kings,113,,17583,,Regular,Los Angeles Lakers,Sacramento Kings
+202002010POR,2020-02-01,10:30p,Utah Jazz,107,Portland Trail Blazers,124,,19603,,Regular,Portland Trail Blazers,Utah Jazz
+202002020DET,2020-02-02,12:30p,Denver Nuggets,123,Detroit Pistons,128,OT,15488,,Regular,Detroit Pistons,Denver Nuggets
+202002020HOU,2020-02-02,2:00p,New Orleans Pelicans,109,Houston Rockets,117,,18055,,Regular,Houston Rockets,New Orleans Pelicans
+202002020MIL,2020-02-02,2:00p,Phoenix Suns,108,Milwaukee Bucks,129,,17754,,Regular,Milwaukee Bucks,Phoenix Suns
+202002020TOR,2020-02-02,3:00p,Chicago Bulls,102,Toronto Raptors,129,,19800,,Regular,Toronto Raptors,Chicago Bulls
+202002030CHO,2020-02-03,7:00p,Orlando Magic,112,Charlotte Hornets,100,,12337,,Regular,Orlando Magic,Charlotte Hornets
+202002030CLE,2020-02-03,7:00p,New York Knicks,139,Cleveland Cavaliers,134,OT,16303,,Regular,New York Knicks,Cleveland Cavaliers
+202002030IND,2020-02-03,7:00p,Dallas Mavericks,112,Indiana Pacers,103,,15086,,Regular,Dallas Mavericks,Indiana Pacers
+202002030WAS,2020-02-03,7:00p,Golden State Warriors,125,Washington Wizards,117,,17120,,Regular,Golden State Warriors,Washington Wizards
+202002030ATL,2020-02-03,7:30p,Boston Celtics,123,Atlanta Hawks,115,,16231,,Regular,Boston Celtics,Atlanta Hawks
+202002030BRK,2020-02-03,7:30p,Phoenix Suns,97,Brooklyn Nets,119,,14891,,Regular,Brooklyn Nets,Phoenix Suns
+202002030MIA,2020-02-03,7:30p,Philadelphia 76ers,106,Miami Heat,137,,19725,,Regular,Miami Heat,Philadelphia 76ers
+202002030MEM,2020-02-03,8:00p,Detroit Pistons,82,Memphis Grizzlies,96,,14597,,Regular,Memphis Grizzlies,Detroit Pistons
+202002030SAC,2020-02-03,10:00p,Minnesota Timberwolves,109,Sacramento Kings,113,,15819,,Regular,Sacramento Kings,Minnesota Timberwolves
+202002030LAC,2020-02-03,10:30p,San Antonio Spurs,105,Los Angeles Clippers,108,,19068,,Regular,Los Angeles Clippers,San Antonio Spurs
+202002040NOP,2020-02-04,7:30p,Milwaukee Bucks,120,New Orleans Pelicans,108,,15424,,Regular,Milwaukee Bucks,New Orleans Pelicans
+202002040HOU,2020-02-04,8:00p,Charlotte Hornets,110,Houston Rockets,125,,18055,,Regular,Houston Rockets,Charlotte Hornets
+202002040DEN,2020-02-04,9:00p,Portland Trail Blazers,99,Denver Nuggets,127,,19520,,Regular,Denver Nuggets,Portland Trail Blazers
+202002040LAL,2020-02-04,10:00p,San Antonio Spurs,102,Los Angeles Lakers,129,,18997,,Regular,Los Angeles Lakers,San Antonio Spurs
+202002050DET,2020-02-05,7:00p,Phoenix Suns,108,Detroit Pistons,116,,13707,,Regular,Detroit Pistons,Phoenix Suns
+202002050BOS,2020-02-05,7:30p,Orlando Magic,100,Boston Celtics,116,,19156,,Regular,Boston Celtics,Orlando Magic
+202002050BRK,2020-02-05,7:30p,Golden State Warriors,88,Brooklyn Nets,129,,14352,,Regular,Brooklyn Nets,Golden State Warriors
+202002050TOR,2020-02-05,7:30p,Indiana Pacers,118,Toronto Raptors,119,,19800,,Regular,Toronto Raptors,Indiana Pacers
+202002050MIN,2020-02-05,8:00p,Atlanta Hawks,127,Minnesota Timberwolves,120,,10779,,Regular,Atlanta Hawks,Minnesota Timberwolves
+202002050OKC,2020-02-05,8:00p,Cleveland Cavaliers,103,Oklahoma City Thunder,109,,18203,,Regular,Oklahoma City Thunder,Cleveland Cavaliers
+202002050DAL,2020-02-05,8:30p,Memphis Grizzlies,121,Dallas Mavericks,107,,20069,,Regular,Memphis Grizzlies,Dallas Mavericks
+202002050UTA,2020-02-05,9:00p,Denver Nuggets,98,Utah Jazz,95,,18306,,Regular,Denver Nuggets,Utah Jazz
+202002050LAC,2020-02-05,10:00p,Miami Heat,111,Los Angeles Clippers,128,,19068,,Regular,Los Angeles Clippers,Miami Heat
+202002060NYK,2020-02-06,7:30p,Orlando Magic,103,New York Knicks,105,,18895,,Regular,New York Knicks,Orlando Magic
+202002060CHI,2020-02-06,8:00p,New Orleans Pelicans,125,Chicago Bulls,119,,18247,,Regular,New Orleans Pelicans,Chicago Bulls
+202002060MIL,2020-02-06,8:00p,Philadelphia 76ers,101,Milwaukee Bucks,112,,17928,,Regular,Milwaukee Bucks,Philadelphia 76ers
+202002060POR,2020-02-06,10:00p,San Antonio Spurs,117,Portland Trail Blazers,125,,19653,,Regular,Portland Trail Blazers,San Antonio Spurs
+202002060LAL,2020-02-06,10:30p,Houston Rockets,121,Los Angeles Lakers,111,,18997,,Regular,Houston Rockets,Los Angeles Lakers
+202002070PHI,2020-02-07,7:00p,Memphis Grizzlies,107,Philadelphia 76ers,119,,20779,,Regular,Philadelphia 76ers,Memphis Grizzlies
+202002070WAS,2020-02-07,7:00p,Dallas Mavericks,118,Washington Wizards,119,,20476,,Regular,Washington Wizards,Dallas Mavericks
+202002070BOS,2020-02-07,7:30p,Atlanta Hawks,107,Boston Celtics,112,,19156,,Regular,Boston Celtics,Atlanta Hawks
+202002070IND,2020-02-07,8:00p,Toronto Raptors,115,Indiana Pacers,106,,17028,,Regular,Toronto Raptors,Indiana Pacers
+202002070OKC,2020-02-07,8:00p,Detroit Pistons,101,Oklahoma City Thunder,108,,18203,,Regular,Oklahoma City Thunder,Detroit Pistons
+202002070PHO,2020-02-07,9:00p,Houston Rockets,91,Phoenix Suns,127,,17043,,Regular,Phoenix Suns,Houston Rockets
+202002070SAC,2020-02-07,10:00p,Miami Heat,97,Sacramento Kings,105,,16760,,Regular,Sacramento Kings,Miami Heat
+202002070UTA,2020-02-07,10:30p,Portland Trail Blazers,114,Utah Jazz,117,,18306,,Regular,Utah Jazz,Portland Trail Blazers
+202002080ORL,2020-02-08,5:00p,Milwaukee Bucks,111,Orlando Magic,95,,16632,,Regular,Milwaukee Bucks,Orlando Magic
+202002080CHO,2020-02-08,7:00p,Dallas Mavericks,116,Charlotte Hornets,100,,19370,,Regular,Dallas Mavericks,Charlotte Hornets
+202002080DET,2020-02-08,7:00p,New York Knicks,95,Detroit Pistons,92,,15980,,Regular,New York Knicks,Detroit Pistons
+202002080IND,2020-02-08,7:30p,New Orleans Pelicans,124,Indiana Pacers,117,,17923,,Regular,New Orleans Pelicans,Indiana Pacers
+202002080TOR,2020-02-08,7:30p,Brooklyn Nets,118,Toronto Raptors,119,,19800,,Regular,Toronto Raptors,Brooklyn Nets
+202002080MIN,2020-02-08,8:00p,Los Angeles Clippers,115,Minnesota Timberwolves,142,,18978,,Regular,Minnesota Timberwolves,Los Angeles Clippers
+202002080GSW,2020-02-08,8:30p,Los Angeles Lakers,125,Golden State Warriors,120,,18064,,Regular,Los Angeles Lakers,Golden State Warriors
+202002080PHO,2020-02-08,9:00p,Denver Nuggets,117,Phoenix Suns,108,,16843,,Regular,Denver Nuggets,Phoenix Suns
+202002080SAC,2020-02-08,10:00p,San Antonio Spurs,102,Sacramento Kings,122,,16756,,Regular,Sacramento Kings,San Antonio Spurs
+202002090OKC,2020-02-09,3:30p,Boston Celtics,112,Oklahoma City Thunder,111,,18203,,Regular,Boston Celtics,Oklahoma City Thunder
+202002090ATL,2020-02-09,6:00p,New York Knicks,135,Atlanta Hawks,140,2OT,16309,,Regular,Atlanta Hawks,New York Knicks
+202002090PHI,2020-02-09,6:00p,Chicago Bulls,111,Philadelphia 76ers,118,,21018,,Regular,Philadelphia 76ers,Chicago Bulls
+202002090WAS,2020-02-09,6:00p,Memphis Grizzlies,106,Washington Wizards,99,,17251,,Regular,Memphis Grizzlies,Washington Wizards
+202002090HOU,2020-02-09,7:00p,Utah Jazz,114,Houston Rockets,113,,18055,,Regular,Utah Jazz,Houston Rockets
+202002090CLE,2020-02-09,7:30p,Los Angeles Clippers,133,Cleveland Cavaliers,92,,17240,,Regular,Los Angeles Clippers,Cleveland Cavaliers
+202002090POR,2020-02-09,9:00p,Miami Heat,109,Portland Trail Blazers,115,,19726,,Regular,Portland Trail Blazers,Miami Heat
+202002100DET,2020-02-10,7:00p,Charlotte Hornets,87,Detroit Pistons,76,,13941,,Regular,Charlotte Hornets,Detroit Pistons
+202002100IND,2020-02-10,7:00p,Brooklyn Nets,106,Indiana Pacers,105,,16761,,Regular,Brooklyn Nets,Indiana Pacers
+202002100ORL,2020-02-10,7:00p,Atlanta Hawks,126,Orlando Magic,135,,17076,,Regular,Orlando Magic,Atlanta Hawks
+202002100TOR,2020-02-10,7:30p,Minnesota Timberwolves,126,Toronto Raptors,137,,19800,,Regular,Toronto Raptors,Minnesota Timberwolves
+202002100MIL,2020-02-10,8:00p,Sacramento Kings,111,Milwaukee Bucks,123,,17463,,Regular,Milwaukee Bucks,Sacramento Kings
+202002100DAL,2020-02-10,8:30p,Utah Jazz,123,Dallas Mavericks,119,,19793,,Regular,Utah Jazz,Dallas Mavericks
+202002100DEN,2020-02-10,9:00p,San Antonio Spurs,120,Denver Nuggets,127,,19520,,Regular,Denver Nuggets,San Antonio Spurs
+202002100GSW,2020-02-10,10:30p,Miami Heat,113,Golden State Warriors,101,,18064,,Regular,Miami Heat,Golden State Warriors
+202002100LAL,2020-02-10,10:30p,Phoenix Suns,100,Los Angeles Lakers,125,,18997,,Regular,Los Angeles Lakers,Phoenix Suns
+202002110PHI,2020-02-11,7:00p,Los Angeles Clippers,103,Philadelphia 76ers,110,,20730,,Regular,Philadelphia 76ers,Los Angeles Clippers
+202002110WAS,2020-02-11,7:00p,Chicago Bulls,114,Washington Wizards,126,,15135,,Regular,Washington Wizards,Chicago Bulls
+202002110NOP,2020-02-11,8:00p,Portland Trail Blazers,117,New Orleans Pelicans,138,,15739,,Regular,New Orleans Pelicans,Portland Trail Blazers
+202002110OKC,2020-02-11,8:00p,San Antonio Spurs,114,Oklahoma City Thunder,106,,18203,,Regular,San Antonio Spurs,Oklahoma City Thunder
+202002110HOU,2020-02-11,9:30p,Boston Celtics,105,Houston Rockets,116,,18055,,Regular,Houston Rockets,Boston Celtics
+202002120CLE,2020-02-12,7:00p,Atlanta Hawks,105,Cleveland Cavaliers,127,,16200,,Regular,Cleveland Cavaliers,Atlanta Hawks
+202002120ORL,2020-02-12,7:00p,Detroit Pistons,112,Orlando Magic,116,OT,16607,,Regular,Orlando Magic,Detroit Pistons
+202002120BRK,2020-02-12,7:30p,Toronto Raptors,91,Brooklyn Nets,101,,15823,,Regular,Brooklyn Nets,Toronto Raptors
+202002120IND,2020-02-12,7:30p,Milwaukee Bucks,111,Indiana Pacers,118,,17018,,Regular,Indiana Pacers,Milwaukee Bucks
+202002120NYK,2020-02-12,7:30p,Washington Wizards,114,New York Knicks,96,,18835,,Regular,Washington Wizards,New York Knicks
+202002120MEM,2020-02-12,8:00p,Portland Trail Blazers,104,Memphis Grizzlies,111,,16889,,Regular,Memphis Grizzlies,Portland Trail Blazers
+202002120MIN,2020-02-12,8:00p,Charlotte Hornets,115,Minnesota Timberwolves,108,,18978,,Regular,Charlotte Hornets,Minnesota Timberwolves
+202002120DAL,2020-02-12,8:30p,Sacramento Kings,111,Dallas Mavericks,130,,19842,,Regular,Dallas Mavericks,Sacramento Kings
+202002120PHO,2020-02-12,9:00p,Golden State Warriors,106,Phoenix Suns,112,,15216,,Regular,Phoenix Suns,Golden State Warriors
+202002120UTA,2020-02-12,9:00p,Miami Heat,101,Utah Jazz,116,,18306,,Regular,Utah Jazz,Miami Heat
+202002120DEN,2020-02-12,10:00p,Los Angeles Lakers,120,Denver Nuggets,116,OT,19860,,Regular,Los Angeles Lakers,Denver Nuggets
+202002130BOS,2020-02-13,8:00p,Los Angeles Clippers,133,Boston Celtics,141,2OT,19156,,Regular,Boston Celtics,Los Angeles Clippers
+202002130NOP,2020-02-13,8:00p,Oklahoma City Thunder,123,New Orleans Pelicans,118,,17865,,Regular,Oklahoma City Thunder,New Orleans Pelicans
+202002200DET,2020-02-20,7:00p,Milwaukee Bucks,126,Detroit Pistons,106,,16097,,Regular,Milwaukee Bucks,Detroit Pistons
+202002200ATL,2020-02-20,7:30p,Miami Heat,124,Atlanta Hawks,129,,17356,,Regular,Atlanta Hawks,Miami Heat
+202002200CHI,2020-02-20,8:00p,Charlotte Hornets,103,Chicago Bulls,93,,17463,,Regular,Charlotte Hornets,Chicago Bulls
+202002200PHI,2020-02-20,8:00p,Brooklyn Nets,104,Philadelphia 76ers,112,OT,20806,,Regular,Philadelphia 76ers,Brooklyn Nets
+202002200SAC,2020-02-20,10:00p,Memphis Grizzlies,125,Sacramento Kings,129,,17078,,Regular,Sacramento Kings,Memphis Grizzlies
+202002200GSW,2020-02-20,10:30p,Houston Rockets,135,Golden State Warriors,105,,18064,,Regular,Houston Rockets,Golden State Warriors
+202002210ORL,2020-02-21,7:00p,Dallas Mavericks,122,Orlando Magic,106,,18846,,Regular,Dallas Mavericks,Orlando Magic
+202002210WAS,2020-02-21,7:00p,Cleveland Cavaliers,113,Washington Wizards,108,,18895,,Regular,Cleveland Cavaliers,Washington Wizards
+202002210NYK,2020-02-21,7:30p,Indiana Pacers,106,New York Knicks,98,,19812,,Regular,Indiana Pacers,New York Knicks
+202002210TOR,2020-02-21,7:30p,Phoenix Suns,101,Toronto Raptors,118,,19800,,Regular,Toronto Raptors,Phoenix Suns
+202002210MIN,2020-02-21,8:00p,Boston Celtics,127,Minnesota Timberwolves,117,,18978,,Regular,Boston Celtics,Minnesota Timberwolves
+202002210OKC,2020-02-21,8:00p,Denver Nuggets,101,Oklahoma City Thunder,113,,18203,,Regular,Oklahoma City Thunder,Denver Nuggets
+202002210UTA,2020-02-21,9:00p,San Antonio Spurs,113,Utah Jazz,104,,18306,,Regular,San Antonio Spurs,Utah Jazz
+202002210LAL,2020-02-21,10:30p,Memphis Grizzlies,105,Los Angeles Lakers,117,,18997,,Regular,Los Angeles Lakers,Memphis Grizzlies
+202002210POR,2020-02-21,10:30p,New Orleans Pelicans,128,Portland Trail Blazers,115,,19946,,Regular,New Orleans Pelicans,Portland Trail Blazers
+202002220LAC,2020-02-22,3:30p,Sacramento Kings,112,Los Angeles Clippers,103,,19068,,Regular,Sacramento Kings,Los Angeles Clippers
+202002220CHO,2020-02-22,7:00p,Brooklyn Nets,115,Charlotte Hornets,86,,19079,,Regular,Brooklyn Nets,Charlotte Hornets
+202002220ATL,2020-02-22,7:30p,Dallas Mavericks,107,Atlanta Hawks,111,,17050,,Regular,Atlanta Hawks,Dallas Mavericks
+202002220CHI,2020-02-22,8:00p,Phoenix Suns,112,Chicago Bulls,104,,20506,,Regular,Phoenix Suns,Chicago Bulls
+202002220MIA,2020-02-22,8:00p,Cleveland Cavaliers,105,Miami Heat,124,,19754,,Regular,Miami Heat,Cleveland Cavaliers
+202002220MIL,2020-02-22,8:30p,Philadelphia 76ers,98,Milwaukee Bucks,119,,18290,,Regular,Milwaukee Bucks,Philadelphia 76ers
+202002220UTA,2020-02-22,9:00p,Houston Rockets,120,Utah Jazz,110,,18306,,Regular,Houston Rockets,Utah Jazz
+202002230LAL,2020-02-23,3:30p,Boston Celtics,112,Los Angeles Lakers,114,,18997,,Regular,Los Angeles Lakers,Boston Celtics
+202002230DEN,2020-02-23,6:00p,Minnesota Timberwolves,116,Denver Nuggets,128,,19626,,Regular,Denver Nuggets,Minnesota Timberwolves
+202002230TOR,2020-02-23,6:00p,Indiana Pacers,81,Toronto Raptors,127,,19800,,Regular,Toronto Raptors,Indiana Pacers
+202002230CHI,2020-02-23,7:00p,Washington Wizards,117,Chicago Bulls,126,,18024,,Regular,Chicago Bulls,Washington Wizards
+202002230OKC,2020-02-23,7:00p,San Antonio Spurs,103,Oklahoma City Thunder,131,,18203,,Regular,Oklahoma City Thunder,San Antonio Spurs
+202002230GSW,2020-02-23,8:30p,New Orleans Pelicans,115,Golden State Warriors,101,,18064,,Regular,New Orleans Pelicans,Golden State Warriors
+202002230POR,2020-02-23,9:00p,Detroit Pistons,104,Portland Trail Blazers,107,,19393,,Regular,Portland Trail Blazers,Detroit Pistons
+202002240CLE,2020-02-24,7:00p,Miami Heat,119,Cleveland Cavaliers,125,OT,17336,,Regular,Cleveland Cavaliers,Miami Heat
+202002240PHI,2020-02-24,7:00p,Atlanta Hawks,112,Philadelphia 76ers,129,,20836,,Regular,Philadelphia 76ers,Atlanta Hawks
+202002240WAS,2020-02-24,7:00p,Milwaukee Bucks,137,Washington Wizards,134,OT,16580,,Regular,Milwaukee Bucks,Washington Wizards
+202002240BRK,2020-02-24,7:30p,Orlando Magic,115,Brooklyn Nets,113,,16162,,Regular,Orlando Magic,Brooklyn Nets
+202002240HOU,2020-02-24,8:00p,New York Knicks,112,Houston Rockets,123,,18055,,Regular,Houston Rockets,New York Knicks
+202002240DAL,2020-02-24,8:30p,Minnesota Timberwolves,123,Dallas Mavericks,139,,19936,,Regular,Dallas Mavericks,Minnesota Timberwolves
+202002240UTA,2020-02-24,9:00p,Phoenix Suns,131,Utah Jazz,111,,18306,,Regular,Phoenix Suns,Utah Jazz
+202002240LAC,2020-02-24,10:30p,Memphis Grizzlies,97,Los Angeles Clippers,124,,19068,,Regular,Los Angeles Clippers,Memphis Grizzlies
+202002250IND,2020-02-25,7:00p,Charlotte Hornets,80,Indiana Pacers,119,,16088,,Regular,Indiana Pacers,Charlotte Hornets
+202002250TOR,2020-02-25,7:30p,Milwaukee Bucks,108,Toronto Raptors,97,,19993,,Regular,Milwaukee Bucks,Toronto Raptors
+202002250CHI,2020-02-25,8:00p,Oklahoma City Thunder,124,Chicago Bulls,122,,16911,,Regular,Oklahoma City Thunder,Chicago Bulls
+202002250DEN,2020-02-25,9:00p,Detroit Pistons,98,Denver Nuggets,115,,19143,,Regular,Denver Nuggets,Detroit Pistons
+202002250LAL,2020-02-25,10:00p,New Orleans Pelicans,109,Los Angeles Lakers,118,,18997,,Regular,Los Angeles Lakers,New Orleans Pelicans
+202002250POR,2020-02-25,10:00p,Boston Celtics,118,Portland Trail Blazers,106,,19460,,Regular,Boston Celtics,Portland Trail Blazers
+202002250GSW,2020-02-25,10:30p,Sacramento Kings,112,Golden State Warriors,94,,18064,,Regular,Sacramento Kings,Golden State Warriors
+202002260CHO,2020-02-26,7:00p,New York Knicks,101,Charlotte Hornets,107,,13152,,Regular,Charlotte Hornets,New York Knicks
+202002260CLE,2020-02-26,7:00p,Philadelphia 76ers,94,Cleveland Cavaliers,108,,16332,,Regular,Cleveland Cavaliers,Philadelphia 76ers
+202002260WAS,2020-02-26,7:00p,Brooklyn Nets,106,Washington Wizards,110,,15021,,Regular,Washington Wizards,Brooklyn Nets
+202002260ATL,2020-02-26,7:30p,Orlando Magic,130,Atlanta Hawks,120,,14967,,Regular,Orlando Magic,Atlanta Hawks
+202002260MIA,2020-02-26,7:30p,Minnesota Timberwolves,129,Miami Heat,126,,19600,,Regular,Minnesota Timberwolves,Miami Heat
+202002260HOU,2020-02-26,8:00p,Memphis Grizzlies,112,Houston Rockets,140,,18055,,Regular,Houston Rockets,Memphis Grizzlies
+202002260SAS,2020-02-26,8:30p,Dallas Mavericks,109,San Antonio Spurs,103,,18354,,Regular,Dallas Mavericks,San Antonio Spurs
+202002260PHO,2020-02-26,9:00p,Los Angeles Clippers,102,Phoenix Suns,92,,15157,,Regular,Los Angeles Clippers,Phoenix Suns
+202002260UTA,2020-02-26,10:30p,Boston Celtics,114,Utah Jazz,103,,18306,,Regular,Boston Celtics,Utah Jazz
+202002270PHI,2020-02-27,7:00p,New York Knicks,106,Philadelphia 76ers,115,,20175,,Regular,Philadelphia 76ers,New York Knicks
+202002270IND,2020-02-27,8:00p,Portland Trail Blazers,100,Indiana Pacers,106,,16872,,Regular,Indiana Pacers,Portland Trail Blazers
+202002270OKC,2020-02-27,8:00p,Sacramento Kings,108,Oklahoma City Thunder,112,,18203,,Regular,Oklahoma City Thunder,Sacramento Kings
+202002270GSW,2020-02-27,10:30p,Los Angeles Lakers,116,Golden State Warriors,86,,18064,,Regular,Los Angeles Lakers,Golden State Warriors
+202002280ORL,2020-02-28,7:00p,Minnesota Timberwolves,125,Orlando Magic,136,,18846,,Regular,Orlando Magic,Minnesota Timberwolves
+202002280ATL,2020-02-28,7:30p,Brooklyn Nets,118,Atlanta Hawks,141,,17034,,Regular,Atlanta Hawks,Brooklyn Nets
+202002280TOR,2020-02-28,7:30p,Charlotte Hornets,99,Toronto Raptors,96,,19800,,Regular,Charlotte Hornets,Toronto Raptors
+202002280MEM,2020-02-28,8:00p,Sacramento Kings,104,Memphis Grizzlies,101,,17794,,Regular,Sacramento Kings,Memphis Grizzlies
+202002280MIA,2020-02-28,8:00p,Dallas Mavericks,118,Miami Heat,126,,19704,,Regular,Miami Heat,Dallas Mavericks
+202002280MIL,2020-02-28,8:00p,Oklahoma City Thunder,86,Milwaukee Bucks,133,,18412,,Regular,Milwaukee Bucks,Oklahoma City Thunder
+202002280NOP,2020-02-28,8:00p,Cleveland Cavaliers,104,New Orleans Pelicans,116,,18304,,Regular,New Orleans Pelicans,Cleveland Cavaliers
+202002280PHO,2020-02-28,9:00p,Detroit Pistons,113,Phoenix Suns,111,,17142,,Regular,Detroit Pistons,Phoenix Suns
+202002280UTA,2020-02-28,9:00p,Washington Wizards,119,Utah Jazz,129,,18306,,Regular,Utah Jazz,Washington Wizards
+202002280LAC,2020-02-28,10:30p,Denver Nuggets,103,Los Angeles Clippers,132,,19068,,Regular,Los Angeles Clippers,Denver Nuggets
+202002290NYK,2020-02-29,5:00p,Chicago Bulls,115,New York Knicks,125,,19812,,Regular,New York Knicks,Chicago Bulls
+202002290ATL,2020-02-29,7:30p,Portland Trail Blazers,117,Atlanta Hawks,129,,17765,,Regular,Atlanta Hawks,Portland Trail Blazers
+202002290MIA,2020-02-29,7:30p,Brooklyn Nets,113,Miami Heat,116,,19600,,Regular,Miami Heat,Brooklyn Nets
+202002290CLE,2020-02-29,8:00p,Indiana Pacers,113,Cleveland Cavaliers,104,,19432,,Regular,Indiana Pacers,Cleveland Cavaliers
+202002290MEM,2020-02-29,8:00p,Los Angeles Lakers,88,Memphis Grizzlies,105,,17794,,Regular,Memphis Grizzlies,Los Angeles Lakers
+202002290BOS,2020-02-29,8:30p,Houston Rockets,111,Boston Celtics,110,OT,19156,,Regular,Houston Rockets,Boston Celtics
+202002290SAS,2020-02-29,8:30p,Orlando Magic,113,San Antonio Spurs,114,,18354,,Regular,San Antonio Spurs,Orlando Magic
+202002290PHO,2020-02-29,9:00p,Golden State Warriors,115,Phoenix Suns,99,,16395,,Regular,Golden State Warriors,Phoenix Suns
+202003010CHO,2020-03-01,1:00p,Milwaukee Bucks,93,Charlotte Hornets,85,,19149,,Regular,Milwaukee Bucks,Charlotte Hornets
+202003010LAC,2020-03-01,3:30p,Philadelphia 76ers,130,Los Angeles Clippers,136,,19068,,Regular,Los Angeles Clippers,Philadelphia 76ers
+202003010MIN,2020-03-01,3:30p,Dallas Mavericks,111,Minnesota Timberwolves,91,,18058,,Regular,Dallas Mavericks,Minnesota Timberwolves
+202003010DEN,2020-03-01,6:00p,Toronto Raptors,118,Denver Nuggets,133,,19777,,Regular,Denver Nuggets,Toronto Raptors
+202003010SAC,2020-03-01,6:00p,Detroit Pistons,100,Sacramento Kings,106,,17499,,Regular,Sacramento Kings,Detroit Pistons
+202003010NOP,2020-03-01,8:00p,Los Angeles Lakers,122,New Orleans Pelicans,114,,18547,,Regular,Los Angeles Lakers,New Orleans Pelicans
+202003010GSW,2020-03-01,8:30p,Washington Wizards,124,Golden State Warriors,110,,18064,,Regular,Washington Wizards,Golden State Warriors
+202003020CLE,2020-03-02,7:00p,Utah Jazz,126,Cleveland Cavaliers,113,,15453,,Regular,Utah Jazz,Cleveland Cavaliers
+202003020NYK,2020-03-02,7:00p,Houston Rockets,123,New York Knicks,125,,18142,,Regular,New York Knicks,Houston Rockets
+202003020ORL,2020-03-02,7:00p,Portland Trail Blazers,130,Orlando Magic,107,,18078,,Regular,Portland Trail Blazers,Orlando Magic
+202003020ATL,2020-03-02,7:30p,Memphis Grizzlies,127,Atlanta Hawks,88,,16207,,Regular,Memphis Grizzlies,Atlanta Hawks
+202003020MIA,2020-03-02,7:30p,Milwaukee Bucks,89,Miami Heat,105,,19600,,Regular,Miami Heat,Milwaukee Bucks
+202003020CHI,2020-03-02,8:00p,Dallas Mavericks,107,Chicago Bulls,109,,18407,,Regular,Chicago Bulls,Dallas Mavericks
+202003020SAS,2020-03-02,8:30p,Indiana Pacers,116,San Antonio Spurs,111,,17635,,Regular,Indiana Pacers,San Antonio Spurs
+202003030CHO,2020-03-03,7:00p,San Antonio Spurs,104,Charlotte Hornets,103,,12008,,Regular,San Antonio Spurs,Charlotte Hornets
+202003030BOS,2020-03-03,7:30p,Brooklyn Nets,129,Boston Celtics,120,OT,19156,,Regular,Brooklyn Nets,Boston Celtics
+202003030NOP,2020-03-03,8:00p,Minnesota Timberwolves,139,New Orleans Pelicans,134,,15264,,Regular,Minnesota Timberwolves,New Orleans Pelicans
+202003030OKC,2020-03-03,8:00p,Los Angeles Clippers,109,Oklahoma City Thunder,94,,18203,,Regular,Los Angeles Clippers,Oklahoma City Thunder
+202003030DEN,2020-03-03,9:00p,Golden State Warriors,116,Denver Nuggets,100,,19520,,Regular,Golden State Warriors,Denver Nuggets
+202003030PHO,2020-03-03,9:00p,Toronto Raptors,123,Phoenix Suns,114,,15553,,Regular,Toronto Raptors,Phoenix Suns
+202003030LAL,2020-03-03,10:00p,Philadelphia 76ers,107,Los Angeles Lakers,120,,18997,,Regular,Los Angeles Lakers,Philadelphia 76ers
+202003030SAC,2020-03-03,10:00p,Washington Wizards,126,Sacramento Kings,133,,16419,,Regular,Sacramento Kings,Washington Wizards
+202003040CLE,2020-03-04,7:00p,Boston Celtics,112,Cleveland Cavaliers,106,,16897,,Regular,Boston Celtics,Cleveland Cavaliers
+202003040DET,2020-03-04,7:00p,Oklahoma City Thunder,114,Detroit Pistons,107,,15138,,Regular,Oklahoma City Thunder,Detroit Pistons
+202003040MIL,2020-03-04,7:00p,Indiana Pacers,100,Milwaukee Bucks,119,,17695,,Regular,Milwaukee Bucks,Indiana Pacers
+202003040BRK,2020-03-04,7:30p,Memphis Grizzlies,118,Brooklyn Nets,79,,16941,,Regular,Memphis Grizzlies,Brooklyn Nets
+202003040NYK,2020-03-04,7:30p,Utah Jazz,112,New York Knicks,104,,16588,,Regular,Utah Jazz,New York Knicks
+202003040MIA,2020-03-04,7:30p,Orlando Magic,113,Miami Heat,116,,19600,,Regular,Miami Heat,Orlando Magic
+202003040MIN,2020-03-04,8:00p,Chicago Bulls,108,Minnesota Timberwolves,115,,13392,,Regular,Minnesota Timberwolves,Chicago Bulls
+202003040DAL,2020-03-04,9:30p,New Orleans Pelicans,123,Dallas Mavericks,127,OT,20459,,Regular,Dallas Mavericks,New Orleans Pelicans
+202003040POR,2020-03-04,10:00p,Washington Wizards,104,Portland Trail Blazers,125,,19393,,Regular,Portland Trail Blazers,Washington Wizards
+202003050CHO,2020-03-05,7:00p,Denver Nuggets,114,Charlotte Hornets,112,,13311,,Regular,Denver Nuggets,Charlotte Hornets
+202003050HOU,2020-03-05,8:00p,Los Angeles Clippers,120,Houston Rockets,105,,18055,,Regular,Los Angeles Clippers,Houston Rockets
+202003050SAC,2020-03-05,10:00p,Philadelphia 76ers,125,Sacramento Kings,108,,15485,,Regular,Philadelphia 76ers,Sacramento Kings
+202003050GSW,2020-03-05,10:30p,Toronto Raptors,121,Golden State Warriors,113,,18064,,Regular,Toronto Raptors,Golden State Warriors
+202003060WAS,2020-03-06,7:00p,Atlanta Hawks,112,Washington Wizards,118,,17856,,Regular,Washington Wizards,Atlanta Hawks
+202003060BRK,2020-03-06,7:30p,San Antonio Spurs,120,Brooklyn Nets,139,,16277,,Regular,Brooklyn Nets,San Antonio Spurs
+202003060NYK,2020-03-06,7:30p,Oklahoma City Thunder,126,New York Knicks,103,,19499,,Regular,Oklahoma City Thunder,New York Knicks
+202003060CHI,2020-03-06,8:00p,Indiana Pacers,108,Chicago Bulls,102,,20229,,Regular,Indiana Pacers,Chicago Bulls
+202003060MIN,2020-03-06,8:00p,Orlando Magic,132,Minnesota Timberwolves,118,,14315,,Regular,Orlando Magic,Minnesota Timberwolves
+202003060NOP,2020-03-06,8:00p,Miami Heat,104,New Orleans Pelicans,110,,18384,,Regular,New Orleans Pelicans,Miami Heat
+202003060BOS,2020-03-06,8:00p,Utah Jazz,99,Boston Celtics,94,,19156,,Regular,Utah Jazz,Boston Celtics
+202003060DAL,2020-03-06,8:30p,Memphis Grizzlies,96,Dallas Mavericks,121,,20370,,Regular,Dallas Mavericks,Memphis Grizzlies
+202003060PHO,2020-03-06,9:00p,Portland Trail Blazers,117,Phoenix Suns,127,,15522,,Regular,Phoenix Suns,Portland Trail Blazers
+202003060LAL,2020-03-06,10:30p,Milwaukee Bucks,103,Los Angeles Lakers,113,,18997,,Regular,Los Angeles Lakers,Milwaukee Bucks
+202003070CHO,2020-03-07,5:00p,Houston Rockets,99,Charlotte Hornets,108,,19159,,Regular,Charlotte Hornets,Houston Rockets
+202003070DET,2020-03-07,7:00p,Utah Jazz,111,Detroit Pistons,105,,16590,,Regular,Utah Jazz,Detroit Pistons
+202003070CLE,2020-03-07,7:30p,Denver Nuggets,102,Cleveland Cavaliers,104,,19432,,Regular,Cleveland Cavaliers,Denver Nuggets
+202003070MEM,2020-03-07,8:00p,Atlanta Hawks,101,Memphis Grizzlies,118,,17117,,Regular,Memphis Grizzlies,Atlanta Hawks
+202003070GSW,2020-03-07,8:30p,Philadelphia 76ers,114,Golden State Warriors,118,,18064,,Regular,Golden State Warriors,Philadelphia 76ers
+202003070POR,2020-03-07,10:00p,Sacramento Kings,123,Portland Trail Blazers,111,,19691,,Regular,Sacramento Kings,Portland Trail Blazers
+202003080BRK,2020-03-08,3:00p,Chicago Bulls,107,Brooklyn Nets,110,,15916,,Regular,Brooklyn Nets,Chicago Bulls
+202003080MIN,2020-03-08,3:30p,New Orleans Pelicans,120,Minnesota Timberwolves,107,,18978,,Regular,New Orleans Pelicans,Minnesota Timberwolves
+202003080LAC,2020-03-08,3:30p,Los Angeles Lakers,112,Los Angeles Clippers,103,,19068,,Regular,Los Angeles Lakers,Los Angeles Clippers
+202003080BOS,2020-03-08,6:00p,Oklahoma City Thunder,105,Boston Celtics,104,,19156,,Regular,Oklahoma City Thunder,Boston Celtics
+202003080PHO,2020-03-08,6:00p,Milwaukee Bucks,131,Phoenix Suns,140,,17282,,Regular,Phoenix Suns,Milwaukee Bucks
+202003080WAS,2020-03-08,7:00p,Miami Heat,100,Washington Wizards,89,,18135,,Regular,Miami Heat,Washington Wizards
+202003080DAL,2020-03-08,7:00p,Indiana Pacers,112,Dallas Mavericks,109,,20324,,Regular,Indiana Pacers,Dallas Mavericks
+202003080HOU,2020-03-08,7:00p,Orlando Magic,126,Houston Rockets,106,,18055,,Regular,Orlando Magic,Houston Rockets
+202003080NYK,2020-03-08,7:30p,Detroit Pistons,84,New York Knicks,96,,18361,,Regular,New York Knicks,Detroit Pistons
+202003080CLE,2020-03-08,7:30p,San Antonio Spurs,129,Cleveland Cavaliers,132,OT,17995,,Regular,Cleveland Cavaliers,San Antonio Spurs
+202003080SAC,2020-03-08,9:00p,Toronto Raptors,118,Sacramento Kings,113,,16449,,Regular,Toronto Raptors,Sacramento Kings
+202003090ATL,2020-03-09,7:30p,Charlotte Hornets,138,Atlanta Hawks,143,2OT,14399,,Regular,Atlanta Hawks,Charlotte Hornets
+202003090DEN,2020-03-09,9:00p,Milwaukee Bucks,95,Denver Nuggets,109,,19838,,Regular,Denver Nuggets,Milwaukee Bucks
+202003090UTA,2020-03-09,9:00p,Toronto Raptors,101,Utah Jazz,92,,18306,,Regular,Toronto Raptors,Utah Jazz
+202003100WAS,2020-03-10,7:00p,New York Knicks,115,Washington Wizards,122,,15048,,Regular,Washington Wizards,New York Knicks
+202003100IND,2020-03-10,7:00p,Boston Celtics,114,Indiana Pacers,111,,17053,,Regular,Boston Celtics,Indiana Pacers
+202003100HOU,2020-03-10,8:00p,Minnesota Timberwolves,111,Houston Rockets,117,,18055,,Regular,Houston Rockets,Minnesota Timberwolves
+202003100SAS,2020-03-10,8:00p,Dallas Mavericks,109,San Antonio Spurs,119,,18354,,Regular,San Antonio Spurs,Dallas Mavericks
+202003100MEM,2020-03-10,8:00p,Orlando Magic,120,Memphis Grizzlies,115,,15388,,Regular,Orlando Magic,Memphis Grizzlies
+202003100CHI,2020-03-10,8:00p,Cleveland Cavaliers,103,Chicago Bulls,108,,17837,,Regular,Chicago Bulls,Cleveland Cavaliers
+202003100POR,2020-03-10,10:00p,Phoenix Suns,105,Portland Trail Blazers,121,,19393,,Regular,Portland Trail Blazers,Phoenix Suns
+202003100LAL,2020-03-10,10:30p,Brooklyn Nets,104,Los Angeles Lakers,102,,18997,,Regular,Brooklyn Nets,Los Angeles Lakers
+202003100GSW,2020-03-10,10:30p,Los Angeles Clippers,131,Golden State Warriors,107,,18064,,Regular,Los Angeles Clippers,Golden State Warriors
+202003110PHI,2020-03-11,7:00p,Detroit Pistons,106,Philadelphia 76ers,124,,20172,,Regular,Philadelphia 76ers,Detroit Pistons
+202003110ATL,2020-03-11,7:30p,New York Knicks,136,Atlanta Hawks,131,OT,15393,,Regular,New York Knicks,Atlanta Hawks
+202003110MIA,2020-03-11,7:30p,Charlotte Hornets,109,Miami Heat,98,,19600,,Regular,Charlotte Hornets,Miami Heat
+202003110DAL,2020-03-11,8:00p,Denver Nuggets,97,Dallas Mavericks,113,,20302,,Regular,Dallas Mavericks,Denver Nuggets
